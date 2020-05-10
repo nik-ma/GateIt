@@ -1,0 +1,349 @@
+{% load static %}
+<head>
+    <style>
+        body {
+  background-image: url("{% static 'images/bg.jpg' %}");
+ 
+  background-size: cover;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  display: flex;
+  flex-direction:column;
+  justify-content:start;
+  height: 100vh;
+}
+
+p {
+  max-width: 50px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: 2;
+  color: #222;
+}
+
+.button {
+  background: #76B3FA;
+  border-radius: 100px;
+  padding: 20px 60px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.45em;
+  margin: 0 15px;
+}
+
+/* Hover state animation applied here */
+.button:hover { 
+  -webkit-animation: hover 1200ms linear 2 alternate;
+  animation: hover 1200ms linear 2 alternate;
+}
+
+/* Active state animation applied here */
+.button:active {
+  -webkit-animation: active 1200ms ease 1 alternate;
+  animation: active 1200ms ease 1 alternate; 
+  background: #5F9BE0;
+}
+</style>
+</head>
+<body>
+  <br>
+  <button class="button" id="ece">Electronics and Communication</button>
+  
+  <div style="display: none;" id="eceC">
+    <br>
+    <br>
+<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<br>
+<br>
+<br>
+
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">Electromagentic Field Theory</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+  {% csrf_token %}
+  <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="dig" value="dig">Digital Electronics</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+  {% csrf_token %}
+  <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="cos" value="cos">Control System</button>
+</form>
+<br>
+<form action="/studyM/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ecstd" value="ecstdc">Study Materials</button>
+</form>
+<br>
+  </div>
+  <br>
+  <button class="button" id="cse">Computer Science And Engineering</button>
+  <div style="display: none;" id="cseC">
+    <br>
+    <br>
+<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<br>
+<br>
+<br>
+
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+</form>
+<br>
+  </div>
+  <br>
+  <button class="button" id="me">Mechanical Engineering</button>
+  <div style="display: none;" id="meC">
+    <br>
+    <br>
+<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<br>
+<br>
+<br>
+
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+</form>
+<br>
+  </div>
+  
+  <br>
+  <button class="button" id="ee">Electrical Engineering</button>
+  <div style="display: none;" id="eeC">
+    <br>
+    <br>
+<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<br>
+<br>
+<br>
+
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+</form>
+<br>
+  </div>
+  <br>
+  <button class="button" id="ce">Civil Engineering</button>
+  <div style="display: none;" id="ceC">
+    <br>
+    <br>
+<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<br>
+<br>
+<br>
+
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+</form>
+<br>
+<form action="/something/" method="POST">
+    {% csrf_token %}
+    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+</form>
+<br>
+  </div>
+  <br>
+  <button class="button" id="ask">Ask Doubts from experts</button>
+ <br>
+  <div style="display: none; margin-left: 400px;" id="askC">
+    <textarea name="doubt" id="doubt" cols="80" rows="5" placeholder="Ask your doubt"></textarea>
+    <button class="button" style="padding: 10px 10px; margin-top: 0px;">Submit</button>
+  </div>
+  <br>
+  <button class="button" id="con">Contact Us</button>
+  <br>
+  
+  
+  
+  
+  
+</body>
+<script>
+ var button = document.getElementById('ece');
+
+button.onclick = function() {
+    var div = document.getElementById('eceC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+var button = document.getElementById('cse');
+
+button.onclick = function() {
+    var div = document.getElementById('cseC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+var button = document.getElementById('me');
+
+button.onclick = function() {
+    var div = document.getElementById('meC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+var button = document.getElementById('ee');
+
+button.onclick = function() {
+    var div = document.getElementById('eeC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+var button = document.getElementById('ce');
+
+button.onclick = function() {
+    var div = document.getElementById('ceC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+var button = document.getElementById('ask');
+button.onclick = function() {
+    var div = document.getElementById('askC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+</script>
