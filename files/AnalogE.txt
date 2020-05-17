@@ -1,0 +1,208 @@
+Semiconductor Materials
+7jaa1rlW7Ak
+Intrinsic and Extrinsic Semiconductors
+z3MlkNUuq9w
+Electron Vs Hole Flow
+QpqDBq9zxw4
+Mass Action Law
+yu8xvHHTij0
+Charge Densities in a Semiconductor
+VQzY8d7OjG8
+Conductivity of a Semiconductor
+qy6oOGNy8Vc
+Conductivity of Semiconductors Numerical (Part 1)
+WbDvUitRKi8
+Conductivity of Semiconductors Numerical (Part 2)
+rjP9kuUaTcc
+PN Junction Diode (No Applied Bias)
+cAu_Qv6rsM8
+Barrier Potential
+itL2MQqZtqA
+Width of Depletion Region
+d3VIDO0S7xk
+PN Junction Diode (Forward-Bias Condition)
+yvH4tgqqu2U
+PN Junction Diode (Reverse-Bias Condition)
+QJnzpNgIu08
+Semiconductor Diode
+aOKc5_s_8LM
+V-I Characteristics of PN Junction Diode
+_vKeaPHXF9U
+Effects of Temperature on V-I Characteristics
+ApFMXUzc7OM
+Ideal Vs Practical Diode
+WX0xQWRTPjs
+Diode Equivalent Circuits
+06Or9jeeZPM
+Load Line Analysis of Diode
+TaTGnbxIMdY
+Load Line Analysis (Numerical Problem)
+XvTyn9qMdUQ
+DC or Static Resistance of a Diode
+-oiAFHI6SWg
+AC or Dynamic Resistance of a Diode
+6QlFxif-JfQ
+Average AC Resistance of a Diode
+IxNufs3fhfg
+Series Diode Configurations
+gRyMzKVAO4s
+Series Diode Configuration (Examples)
+rl9FdHTVOWY
+Parallel Diode Configurations
+zUg6jf785-0
+Parallel and Series-Parallel Configuration of Diodes (Examples)
+4D0it39f2lQ
+Introduction to Diode Rectifier Circuits
+Xmu31a-59vw
+Half Wave Rectifier
+AspBbh_jOuk
+Half Wave Rectifier (RMS Load Current & RMS Load Voltage)
+XTfWAYuyfVU
+Half Wave Rectifier (Form Factor)
+PJLUpzt5ZME
+Half Wave Rectifier (Ripple Factor)
+SgK_kyIIbrk
+Half Wave Rectifier (Efficiency & PIV)
+XLBtAmcXYKA
+Full Wave Bridge Rectifier
+Kl8IOESVWlM
+Full Wave Center-Tapped Rectifier
+CGZ0yHaAmjs
+Full Wave Rectifier (DC Load Current & DC Load Voltage)
+XI4mHDveD7g
+Full Wave Rectifier (RMS Load Current & RMS Load Voltage)
+czhNvqGO7I4
+Full Wave Rectifier (Form Factor & Ripple Factor)
+J6k9IStBYyU
+Full Wave Rectifier (Efficiency & PIV)
+NzxjUGk_pFE
+Diode Rectifier Circuits (Numerical Problem)
+UQVAFcCLoKo
+Introduction to Zener Diodes
+JdL3DnnFHXw
+Effects of Temperature on Zener Voltage
+JffJpym7K8Y
+Zener Diode as Voltage Regulator (Part 1)
+6xGCOrPBL4s
+Zener Diode as Voltage Regulator (Part 2)
+LtWMuoQKMIc
+Zener Diode as Voltage Regulator (Part 3)
+HBaddgGeIrM
+Zener Diode as Voltage Regulator (Part 4)
+_Glio3MxT2Q
+Zener Diode Numerical Problems (Part 1)
+rE4wC7h8uWo
+Zener Diode Numerical Problems (Part 2)
+dKw6lBy8Xzc
+Voltage Multiplier Circuits (Half Wave Voltage Doubler)
+r-295fIw0mI
+Voltage Multiplier Circuits (Full Wave Voltage Doubler)
+u9UlkmEPgqA
+Voltage Multiplier Circuits (Voltage Tripler & Quadrupler)
+JTJXdTTM8iU
+Introduction to Clippers
+ttSxAdPM5XU
+Unbiased Series Clippers
+lTTbcCADOIY
+Biased Series Clippers
+pieY6wUEGbU
+Unbiased Parallel Clippers
+foafJEF0rw4
+Biased Parallel Clippers
+RkPGtBhayUg
+Zener Diode Clipping Circuits
+sGiWKqixYI0
+Combination Clipper Circuits
+Mvmfqg28ZnY
+Transfer Characteristics of Clipper Circuit
+qiO5jDVbgBU
+Introduction to Clampers
+LA7c7jenkd0
+Positive & Negative Clamper Circuits
+zFdy23F-pEM
+Biased Clamper Circuit
+kLRuU3VcXPA
+Clampers (Solved Problem)
+rkP3xmDF1oA
+Introduction to Bipolar Junction Transistors (BJT)
+KFCgeI4j-Ig
+Working of Transistors
+yOmPCjPlaEg
+Common-Base Configuration of a Transistor
+G-BvuL5IDLw
+CB Transistor (Input Characteristics & Early Effect)
+D4J9Yc8oJ34
+CB Transistor (Output Characteristics)
+KPMPyfqMP9c
+Transistor Amplifying Action
+Qwd-5H24tRo
+Common-Emitter Configuration of a Transistor
+IRok_SGrx9Q
+Common-Emitter Transistor (Input Characteristics)
+jk5CZ_rRAcE
+Common-Emitter Transistor (Output Characteristics)
+kfdhNwf7MBA
+Common-Collector Configuration of a Transistor
+2LBKwGwGYt4
+Analog Electronics
+v1mw4PXjbUc
+Important Concept of re Model | Low Frequency BJT Amplifier | Part 8 | Analog Electronics
+UB9uDnKtVk4
+GATE 2018 Solution | Part 2 | Electronics Engineering | Analog Electronics
+N_MlwGkCSnU
+Virtual Ground Concept of Operational Amplifier(OP-AMP) | Analog Electronics
+kVdLvWd9RK0
+Operational Amplifier (Op-Amp) | Part 1 | Important GATE Questions | Analog Electronics
+NqbOKkbbGPo
+Operational Amplifier (Op-Amp) | Part 2 | Important GATE Questions | Analog Electronics
+Bp9SoBslYUw
+Operational Amplifier (Op-Amp) | Part 3 | Important GATE Questions | Analog Electronics
+C4P2TbuMLt4
+Operational Amplifier (Op-Amp) | Part 4 | Important GATE Questions | Analog Electronics
+sZ41u9kbNvI
+Operational Amplifier (Op-Amp) | Part 5 | Important GATE Questions | Analog Electronics
+Wat4WJcCh6I
+Operational Amplifier (Op-Amp) | Part 6 | Schmitt Trigger Circuit | Analog Electronics
+aTdvFHWaC60
+GATE 2018 Solution | Part 3 | Electronics Engineering | Analog Electronics
+Rv6bkvJ4lCo
+GATE 2018 Solution | Part 4 | Electrical Engineering | Analog Electronics
+A3rJBHGkgN4
+GATE 2018 Solution | Part 5 | Electronics Engineering | Analog Electronics
+XgW5Cla6bGg
+Important Questions Based on Oscillator | Analog Electronics
+xDSMxh6bYXc
+Working of IC-555 Timer | Analog Electronics
+lSvpF4x5jNE
+Complete Working and analysis of IC-555 Timer as Astable Multuvibrator | Analog Electronics
+Rd3QSzye72w
+Complete Working and analysis of IC-555 Timer as Monostable Multuvibrator | Analog Electronics
+C8kDARY6VKM
+Zener Diode Regulator Circuit | Analog Electronics
+sJXqUCpWrH8
+Question 1 | Zener Diode Regulator Circuit | Analog Electronics
+pq76MqV1E_Y
+Question 2 | Zener Diode Regulator Circuit | Analog Electronics
+sIcmiVMv6hE
+Question 3 | Zener Diode Regulator Circuit | Analog Electronics
+N-KfVZvPxHg
+Differential Amplifier | DC Analysis | Analog Electronics
+4RH67Rn2zZ4
+Differential Amplifier | AC Analysis | Analog Electronics
+OBhj7K17gxs
+How to Revise 'ANALOG ELECTRONICS' (EE) in 15 to18 hrs ?
+X-PpHjedaac
+Concept with Combat | Clamper Circuit using OPAMP | Analog Combat #6 | Analog Electronics
+AuFqPSyKMJg
+6. Analog Electronics | Preparation Strategy for GATE 2018/19 | EC
+bpIYfwJZceI
+Good Concept of Virtual Ground and Charging of Capacitor | Must watch this video !!
+WiPQJNbWcqg
+ANALOG COMBAT #1... for GATE 2020
+0NMh2-KK4HY
+ANALOG COMBAT SOLUTION #1... for GATE 2020
+Ktyh0GSAkGI
+ANALOG COMBAT #2... for GATE 2020
+t0Draao9es0
+ANALOG COMBAT SOLUTION #2... for GATE 2020
+GoTkkbbU7fs

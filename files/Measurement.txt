@@ -1,0 +1,172 @@
+NPTEL: Electrical Measurement and Electronic Instruments
+3eYmFjHnQjY
+NPTEL: Electrical Measurement and Electronic Instruments
+3eYmFjHnQjY
+Lecture 01: PMMC Instrument
+n1MinLtvnPY
+Lecture 02: Electrodynamic Instrument
+fYE2i1YVInU
+Lecture 03: Demonstration of PMMC and Electrodynamic Instrument
+7pTTEuJ1xkU
+Lecture 04: Features of PMMC and Electrodynamic Instrument
+IFM7SZTQL8o
+Lecture 05: Moving Iron Instruments
+ziFWOGRcExk
+Lecture 06: Demonstration of Moving Iron Instrument
+7QDMrj0r8Mc
+Lecture 07: Electrostatic Instrument
+kglKv5JAmSU
+Lecture 08:
+-J-xY-e_en8
+Lecture 09: Damping and Eddy Current Damping
+6W-k9qSj5PU
+Lecture 10: Dynamics of the Moving Coil and Damping
+lNA7EX-ML6w
+Lecture 11: Dynamics of the Moving Coil and Damping (Contd.)
+LbLwS-pi_mM
+Lecture 12: Ballistic Galvanometer
+a0SFhIWmuXE
+Lecture 13: Ammeter- I
+ti_QOxnVlkA
+Lecture 14: Ammeter- II
+hi58FN61qaM
+Lecture 15: Voltmeter
+GsFCZvhlNJY
+Lecture 16: Ohmmeters- I
+CcfrEl1kxq8
+Lecture 17: Ohmmeters- II
+vxwDIR35VBs
+Lecture 18: Rectifier based Voltmeters and Ammeter- I
+sfVIYKC-UQA
+Lecture 19: Rectifier based Voltmeters and Ammeter- II
+T_A36uy77oo
+Lecture 20: Resistance measurement with a Voltmeter and an Ammeter
+J1izrbhNEXA
+Lecture 21: Four-Terminal Resistance
+AJC78iCc33I
+Lecture 22: Problems: Four Terminal Resistance
+DUxLeWuwiy4
+Lecture 23: Error Calculation
+ZpYGQQAix0E
+Lecture 24: Sensitivity, Accuracy, and Resolution of Wheatstone Bridge
+ip6P7-gT2OE
+Lecture 25: Kelvin Double Bridge
+hP59aaUr8iY
+Lecture 26: High Resistance Measurement
+c5rrMMx9RJE
+Lecture 27: Wattmeter Connection and Compensated Wattmeter
+0jbvqPPm0z8
+Lecture 28: Single Phase Energy Meter
+NBAhl2UxvW0
+Lecture 29:
+1wa5LiF_b-U
+Lecture 30: Single Phase Energy Meter (Contd....)
+bC-doinU1QM
+Lecture 31: Connection of Energy Meter, Wattmeter, and Three Phase Supply
+9nTjCEpPZyo
+Lecture 32: DC Potentiometer
+i05A2sfO7Xc
+Lecture 33: AC Potentiometer
+ShDbYKmOKH8
+Lecture 34: Polar potentiometer and phase shifter
+EAhF3vU7rRY
+Lecture 35: Polar potentiometer
+nV77_DY7Rw8
+Lecture 36: Co-ordinate potentiometer
+I8f5ba_CVhA
+Lecture 37:Kelvin-Varley potential divider
+oTC6fA7lDjw
+Lecture 38: Impedance measurement
+TTe-Q5AoRo4
+Lecture 39: AC bridges I
+I5k66ESHJHM
+Lecture 40: AC bridges- II
+orz6mGDI3jw
+Lecture 41: AC bridges- III
+h8tRKTdvuyg
+Lecture 42: Current transformer and potential transformer
+WkFyjsmDWt0
+Lecture 43: Review of transformer and magnetic circuit
+ZDsEFR_n2RA
+Lecture 44: Errors in Instrument transformer
+54a6zPRb9Wc
+Lecture 45: Flux density measurement with Ballistic Galvanometer
+gJtxcGEg5R0
+Lecture 46: Flux density measurement with Ballistic Galvanometer (Contd..)
+DWO1ms9gq_s
+Lecture 47: Background: From Flip Flop to Counters - I
+WS7V-2oP-80
+Lecture 48: Background: From Flip Flop to Counters - II
+mmNdpH1Pxtw
+Lecture 49: Background: Operational Amplifiers - I
+WYKsYvLJ7HE
+Lecture 50: Background: Operational Amplifiers - II
+W9Oczfgu9HU
+Lecture 51: Background: Operational Amplifiers - III
+hxFxQo-5Lr8
+Lecture 52: Background: Operational Amplifiers - IV
+DnKqsWq-n5g
+Lecture 53: Inverting amplifier versus Schmitt Trigger
+--0g4dJZ7fs
+Lecture 54: Non-inverting amplifier versus Schmitt Trigger
+FDfwd003ftU
+Lecture 55: Difference amplifier - I
+ZTEvHN9K-d8
+Lecture 56: Difference amplifier - II
+TZZdWS8La3w
+Lecture 57: Difference amplifier - III
+3VAH0LV4u28
+Lecture 58: Digital frequency meter
+39bntuNhUgE
+Lecture 59: Digital frequency meter & Schmitt Trigger
+HrWu4qEbL7Q
+Lecture 60: Schmitt Trigger
+7FepL3KO-LI
+Lecture 61: Schmitt Trigger (Contd.)
+CFuOnNIYLxY
+Lecture 62: Digital frequency meter
+ouFw8ShSzMM
+Lecture 63: Linear ramp type digital voltmeter
+rL3AXs2Z6vc
+Lecture 64: Dual slope digital voltmeter - I
+aURn0JiX_Pw
+Lecture 65: Dual slope digital voltmeter - II
+SOTlcuzZ_pE
+Lecture 66: Dual slope digital voltmeter and Integrator circuit
+3hbydTzvyho
+Lecture 67: Digital ramp type voltmeter
+cImLNQtUqBc
+Lecture 68: Digital ramp type voltmeter and Successive approximation type voltmeter
+GaYUyG2DhSk
+Lecture 69: ADC and DAC - I
+6PhVUTRx3JA
+Lecture 70: ADC and DAC - II
+rn2LuOWdq4g
+Lecture 71: Why we need electronic Instruments
+TiFXqkcSw5Y
+Lecture 72: Instruments with op-amp based amplifiers - I
+Up7VzELh_ZI
+Lecture 73: Instruments with op-amp based amplifiers - II
+U0q9iWRqKQE
+Lecture 74: Instruments with op-amp based amplifiers - III
+srQ9fBiCBvw
+Lecture 75: Instrumentation Amplifier
+ssEAzB8MR7g
+Lecture 76: Function generator
+dwO3DZEaYcw
+Lecture 77: 555-Timer circuit
+WFsPI8_ZKbc
+Lecture 78: Astable and monostable oscillator circuits
+w-heRjZfpDs
+Lecture 79: Pulse generator
+oQGV3fF_KO0
+Lecture 80: Oscilloscope - I
+0FVzYLEdSA8
+Lecture 81: Oscilloscope - II
+fkdp_dpk47E
+Lecture 82: Emitter follower voltmeter
+aT4HxBlJDQo
+Lecture 83: Linear ohmmeter
+rqsGUsbLbrw
+Lecture 84: Ramp generator
+ZzKZuEPDdkA

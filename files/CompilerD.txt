@@ -1,0 +1,212 @@
+Compiler Design - Getting Started
+0hU5-aLtaxo
+Language Processing System
+ffH5WTnwXDY
+Compilers and Interpreters
+3iXd9qgMiYs
+Phases of a Compiler
+cToJ_FexgIA
+Phases of a Compiler Example
+jE7f3sGLGVk
+Finite Automaton
+x0ihqiiRXo8
+Finite State Machine
+LOZxYBOKRLg
+Acceptability Of A String By DFA
+M84oEgYgw6U
+Acceptability Of A String By NFA
+quBzmvsxzkw
+Exercise On Finite Automata
+L2WSbIGJmGA
+DFA Construction - GATE Exercise 1
+VlHIbKz6Ytg
+DFA Construction - GATE Exercise 2
+k6yLHAheAeU
+NFA To DFA Conversion  - GATE Exercise 1
+DI0XcLkQaqw
+NFA To DFA Conversion  - GATE Exercise 2
+fx9ZCPfzvgg
+Exercise On FA To Find Input String
+abEX4P9BcxI
+Minimization Of Finite Automata
+GqGA5Hx9ioA
+Exercise On Minimization Of FA
+FKPYRi39bhA
+Definition Of Grammar
+wS3I-XvPzZM
+Left Linear and Right Linear Grammar
+1PmfoAE8cdc
+Chomsky Classification of Languages
+tI7OPQDuEmE
+Regular Expression and Identities
+Y-kAhNSN6l0
+Regular Expression and Transition System Part 1
+vQb0lTmzJUU
+Regular Expression and Transition System Part 2
+RGDx1hpPBE8
+Lambda Transition Elimination
+ZyjqR9JYHgc
+Regular Expression - GATE Exercise 1
+dgpEvZ6Q47Q
+Regular Expression - GATE Exercise 2
+Z2qJpV6ivpI
+Regular Expression - GATE Exercise 3
+BHb0omSAAHU
+Regular Expression - GATE Exercise 4
+ennQuSCziIM
+Regular Expression - GATE Exercise 5
+m3gaxBdh3Jw
+Left Most And Right Most Derivations in CFG
+0fLyZCHkK7o
+Context Free Grammar  - GATE Exercise 1
+C6OElB-ud3U
+Context Free Grammar  - GATE Exercise 2
+Nza3fDlHVsY
+Context Free Grammar  - GATE Exercise 3
+JqZs-nw2UBU
+Context Free Grammar  - GATE Exercise 4
+OzeBkUOEKpA
+Introduction to Lexical Analyzer
+xnolCgyx2LM
+Implementation by LEX Program
+912hi4nLp0E
+Token Recognizer of Lexical Analyzer
+28qFohQ0pwI
+NFA To DFA Conversion Using Epsilon Closure
+jN8zvENdjBg
+NFA for Tokens
+PP7c8EWU0cs
+DFA for Tokens
+2ZYsKiEb5w4
+Lexical Analysis - GATE Exercise 1
+wFfOp_HddGA
+Lexical Analysis - GATE Exercise 2
+WIAxDmIP67s
+Operator Precedence Parsing
+hF9aIV5H7Xo
+Ambiguity in Context Free Grammars
+bNR0io9jyWQ
+Operator Precedence Relations
+DIg2-eIbGqU
+Resolving Ambiguous Grammar using Operator Precedence
+9tpTeCV6Eck
+Operator Grammar  - GATE Exercise 1
+m3GAQkJ0mco
+Operator Grammar  - GATE Exercise 2
+RjwBP2JkVJA
+Ambiguous Grammar  - GATE Exercise
+lHyQoKCdTSs
+Stack Implementation for Shift Reduce Parser
+2ytJN402Upw
+Parse Tree construction for Shift Reduce Parser
+weDN5qZWek0
+Exercise On Parse Tree Generation
+PzX4IAM7Luk
+Top Down Parsing
+WYb-Iblk7J0
+Elimination of Left Recursion
+ptJ2PB_zTS8
+Left Factoring
+ve-WQooi48E
+LL (K) Grammar
+iACdVbRAEr4
+LR (K) Grammar
+QBa5ll_WglY
+Calculation of First
+js7z2oWgQQA
+Calculation of Follow
+pP1-ragPlkQ
+Predictive Parsing Table Construction
+KbTkcSz4ulE
+Predictive Parser
+QXv-WjKFOAw
+Exercise On Parsing
+NMimIgrQ4Uo
+Predictive Parser - GATE Exercise 1
+YaxgdFxh--w
+Predictive Parser - GATE Exercise 2
+uoWCIMUvfl0
+Augmented Grammar
+9gu3BNNP1Q4
+Viable Prefixes and Valid Items
+IcrydbDrNSw
+Calculations of set of LR(1) items
+ukCW2WX7u0c
+SLR Parser Set of Items Construction
+u6vU1Law_2M
+SLR Parser Parsing Table Construction
+JsCx0p4QvqM
+SLR Parser Parsing an Input String
+P7L8omu7Xs8
+Introduction to Canonical LR Parser
+D6h3-qJwWYA
+Canonical LR Parsing Table Construction
+UOVQQq_dOn8
+LALR Parsing Table Construction
+wSj0-LVIRYY
+Exercise On LALR Parser
+dwpHHoipmVM
+Syntax Directed Translation Scheme for Implementation
+Dzik1WWhbQc
+Syntax Directed Translation Scheme for Desk Calculator
+Duw5X8KXY7Y
+Syntax Directed Translation  - GATE Exercise 1
+3SO-WyzUpPc
+Syntax Directed Translation  - GATE Exercise 2
+CLnWr7vAwA4
+Symbol Table with Example
+oyG_JfrbTCQ
+Activation Tree and Activation Record
+GwuYLFZNu4M
+Structure of Activation Record
+3jw2Onu59F0
+Three Address, Quadruples, Triples and Indirect Triples
+jNbSX8dID3g
+3-Address Code - GATE Exercise 1
+XTwWqrmFX0E
+3-Address Code - GATE Exercise 2
+iwEDswcI-TY
+Post Fix Expression - GATE Exercise 1
+_AhGC5qwEDg
+Post Fix Expression - GATE Exercise 2
+mNKnMISjI88
+Register Allocation - GATE Exercise
+4bD1FzNIU6Y
+Introduction to Code Optimization
+D7JmYNaYt4k
+Construction of Basic Block
+1f0w9uGI0tw
+Construction of Flow Graph
+Ql6JZqwzgZM
+Removal of Loop Invariant Computation
+wdwQoo4f_sE
+Removal of Induction Variable
+Kbm-sXBG74I
+Directed Acyclic Graph DAG
+Y0h_5hldibU
+Directed Acyclic Graph Example
+Ed3iwPiZxj8
+Code Optimization - GATE Exercise 1
+NS6nqPg82hc
+Code Optimization - GATE Exercise 2
+nQs27Sj8Tgs
+Code Optimization - GATE Exercise 3
+MIL2cjgFQdU
+Code Optimization - GATE Exercise 4
+9FeO3djF8-k
+Code Optimization - GATE Exercise 5
+1qeW2YxhupA
+Code Generation - GATE Exercise 1
+9e6U1N1_xZo
+Code Generation - GATE Exercise 2
+zTr-4mIwdWo
+Run Time Environment - GATE Exercise
+knS2L7R4Lys
+Tutorix Simply Easy Learning Steps
+1iJn6quPp50
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc

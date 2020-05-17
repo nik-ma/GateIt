@@ -1,0 +1,58 @@
+L00 : Course Overview
+eRkqvQtm4DU
+L01 : Primality Test in O(sqrt(N)) Time complexity
+ga9N_ey4La4
+L01.1 : Primality Test(Codechef)
+mJpLHBH3X_g
+L02 : Sieve of Eratosthenes
+1K-NPoepIHc
+L02.1 : Finding the kth prime (SPOJ)
+bn3inBk83c0
+L03 : Prime Factorization in O(sqrt(N))
+geLyvdjxQNg
+L04 : Binary Exponentiation
+8nOaPV-o5Pg
+L04.1 : Prime Interval (HackerEarth Problem)
+oDDg9-i597A
+L04.2 : Micro and Prime Prime (HackerEarth Problem)
+K6Raj9Eu2HY
+L05 : Prime Factorization using Sieve in O(log(N))
+DQJfvz2Dhss
+L06 : Matrix Exponentiation with problem explanation(MPOW SPOJ)
+d8xB9jgEu-A
+L07 : Calculating Nth element of a recurrence relation in O(LogN)
+1i9xw7QjzHw
+L07.1 : Fibonacci Finding(HackerRank)
+oD1zWvg1-Xo
+L08 : Euclid Algorithm and introduction to Modular arithmetic
+WHVKkc8zSH4
+L08.1 : GCD Queries(Codechef)
+qSM02OvsUP8
+L09 : Modular Arithmetic Part 1
+WSCW769db8g
+L10 : Modular Arithmetic Part 2
+wBu4Xby_aYY
+L10.1 : A. Arpa's hard exam and mehardad's naive cheat (Codeforces)
+21rEmt2J73Q
+L11 : Modular GCD (Codechef)
+rXnS4nf0T0M
+L12 : Modulo Multiplicative Inverse
+f97RWt_IT4U
+L13 : Finding Modulo Inverse | Number Theory Course
+cT2_5WFyjQc
+L14 : Total divisors from prime factorization | Number Theory Course
+GjB-YbBCasg
+L15 : Binomial Coefficient using Modulo inverse | Number Theory Course
+Lxpr5OpeNa8
+L16 : Euler's Totient Function | Number Theory Course
+u8xQUtxUJeg
+L17 : Euler's Totient Function Part 2 | Number Theory Course
+jtmi7Fj7fgE
+L18 : Calculating Euler's Totient Function in O(sqrt(N)) | Number Theory Course
+sRWdCJyJg4E
+L19 : Calculating Euler Phi Function in O(Nlog(logN)) Time | Number Theory Course
+Fv77-SOTxy8
+L20 : Euler Totient Function & GCD Sum | Number Theory Course
+miBVc_ySha8
+L21 : ETF & GCD Sum Part 2 | Number Theory Course
+khCze6j1vXg

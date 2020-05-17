@@ -2,16 +2,24 @@
 <head>
     <style>
         body {
-  background-image: url("{% static 'images/bg.jpg' %}");
- 
+    
+  background-image: url("{% static 'images/bgmain5.jpg' %}");
+ /* display: flex;
+  flex-direction: column;
   background-size: cover;
-  font-family: 'Montserrat', Helvetica, sans-serif;
-  display: flex;
-  flex-direction:column;
-  justify-content:start;
-  height: 100vh;
+  height: 100%;
+  flex-basis: 100%;*/
+  
+  
 }
-
+h1 {
+    color:springgreen;
+font-family: arial, sans-serif;
+font-size: 200%;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1rem;
+}
 p {
   max-width: 50px;
   padding-bottom: 30px;
@@ -24,78 +32,137 @@ p {
 
 .button {
   background: #76B3FA;
-  border-radius: 100px;
+  
   padding: 20px 60px;
   color: #fff;
+  width: fit-content;
+  
   text-decoration: none;
   font-size: 1.45em;
-  margin: 0 15px;
+  
+}
+.butt {
+    background:red;
+  
+  padding: 20px 60px;
+  color: #fff;
+  
+  text-decoration: none;
+  font-size: 1.45em;
+  
+}
+.logout {
+     position: relative;
+     margin-bottom: 1rem;
+
+    
+}
+.form {
+    position: absolute;
+    right: 0;
+    top:.35rem;
+
 }
 
-/* Hover state animation applied here */
-.button:hover { 
-  -webkit-animation: hover 1200ms linear 2 alternate;
-  animation: hover 1200ms linear 2 alternate;
+.parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-/* Active state animation applied here */
-.button:active {
-  -webkit-animation: active 1200ms ease 1 alternate;
-  animation: active 1200ms ease 1 alternate; 
-  background: #5F9BE0;
-}
+
 </style>
 </head>
 <body>
-  <br>
+    <div class="logout">
+        
+    <button class="butt" style="background-color:hotpink;">
+        {{key}}
+    </button>
+    
+    {% if key2 %}
+    <div class="form">
+    <form action="/logout/">
+        {% csrf_token %}
+    <button type="submit" class="butt" style="background-color:hotpink;">
+        Logout
+    </button>
+
+    </form>
+    {% endif %}
+    </div>
+    <br>
+    </div>
+    <div class="parent">
+    
+    
+    <button class="button" id="em" >Engineering Mathematics</button>
+    
+    <div style="display: none;" id="emC">
+      <br>
+      <br>
+  <a href="http://gate.iitd.ac.in/Syllabus/MA.pdf" class="butt"  style="background-color: blueviolet;" download="syllabus" >Syllabus</a>
+        <br>
+        <br>
+        <br>
+        <form action="/ecContent/" method="POST">
+            {% csrf_token %}
+            <button class="butt"  type="submit" name="btn" value="em" id="btn">Lectures</button>
+        </form>
+        <form action="/studyM/" method="POST">
+            {% csrf_token %}
+            <button class="butt"  type="submit" name="btn" value="mmstd" style="background-color: rgb(115, 214, 50);">Study Materials</button>
+        </form>
+    </div>
+    <br>
   <button class="button" id="ece">Electronics and Communication</button>
   
   <div style="display: none;" id="eceC">
     <br>
     <br>
-<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<a href="http://gate.iitd.ac.in/Syllabus/EC.pdf" class="butt"  style="background-color: blueviolet;"download="syllabus" >Syllabus</a>
 <br>
 <br>
 <br>
 
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+    <button class="butt"  type="submit" name="btn" value="com" id="btn">Communication Engineering</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+    <button class="butt" type="submit" name="btn" value="sig">Signals And System</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+    <button class="butt"  type="submit" name="btn" value="net">Network Theory and Analysis</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+    <button class="butt"  type="submit" name="btn" value="ana">Analog Electronics</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">Electromagentic Field Theory</button>
+    <button class="butt"  type="submit" name="btn" value="emf">Electromagentic Field Theory</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
   {% csrf_token %}
-  <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="dig" value="dig">Digital Electronics</button>
+  <button class="butt"  type="submit" name="btn" value="dig">Digital Electronics</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
   {% csrf_token %}
-  <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="cos" value="cos">Control System</button>
+  <button class="butt"  type="submit" name="btn" value="cos">Control System</button>
 </form>
 <br>
 <form action="/studyM/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ecstd" value="ecstdc">Study Materials</button>
+    <button class="butt"  type="submit" name="btn" value="ecstd" style="background-color: rgb(115, 214, 50);">Study Materials</button>
 </form>
 <br>
   </div>
@@ -104,39 +171,59 @@ p {
   <div style="display: none;" id="cseC">
     <br>
     <br>
-<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<a href="http://gate.iitd.ac.in/Syllabus/CS.pdf" class="butt"  style="background-color: blueviolet;"download="syllabus" >Syllabus</a>
 <br>
 <br>
 <br>
 
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+    <button class="butt"  type="submit" name="btn" value="toc">Theory of Computation </button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+    <button class="butt" type="submit" name="btn" value="digl">Digital Logic</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+    <button class="butt"  type="submit" name="btn" value="ds">Programming & Data Structures</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+    <button class="butt"  type="submit" name="btn" value="alg">Algorithms</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+    <button class="butt"  type="submit" name="btn" value="cod">Compiler Design</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+    <button class="butt"  type="submit" name="btn" value="os">Operating Systems</button>
+</form>
+<br>
+<form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="data">Databases</button>
+</form>
+<br>
+<form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="coa">CO & Architecture</button>
+</form>
+<br>
+<form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="con">Computer Networks</button>
+</form>
+<br>
+<form action="/studyM/" method="POST">
+    {% csrf_token %}
+    <button class="butt" type="submit" name="btn" value="csstd" style="background-color: rgb(115, 214, 50);">Study Materials</button>
 </form>
 <br>
   </div>
@@ -145,39 +232,68 @@ p {
   <div style="display: none;" id="meC">
     <br>
     <br>
-<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<a href="http://gate.iitd.ac.in/Syllabus/ME.pdf" class="butt"  style="background-color: blueviolet;"download="syllabus" >Syllabus</a>
 <br>
 <br>
 <br>
 
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+    <button class="butt"  type="submit" name="btn" value="emc">Engineering Mechanics</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+    <button class="butt" type="submit" name="btn" value="flm">Fluid Mecahnics</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+    <button class="butt"  type="submit" name="btn" value="ind">Industrial Engineering</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+    <button class="butt"  type="submit" name="btn" value="het">Heat Transfer</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+    <button class="butt"  type="submit" name="btn" value="mcd">Machine Design</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+    <button class="butt"  type="submit" name="btn" value="pde">Production Enginnering</button>
+</form>
+<br><form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="tmd">Thermodyanmics </button>
+</form>
+<br><form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="vbr">Vibrations</button>
+</form>
+<br>
+<form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="tom">Theory of Machines</button>
+</form>
+<br>
+<form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="mfe">Manufacturing Engineering</button>
+</form>
+<br>
+<form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="mtr">Materials</button>
+</form>
+<br>
+
+<form action="/studyM/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="mestd" style="background-color: rgb(115, 214, 50);">Study Materials</button>
 </form>
 <br>
   </div>
@@ -187,39 +303,44 @@ p {
   <div style="display: none;" id="eeC">
     <br>
     <br>
-<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<a href="http://gate.iitd.ac.in/Syllabus/EE.pdf" class="butt"  style="background-color: blueviolet;"download="syllabus" >Syllabus</a>
 <br>
 <br>
 <br>
 
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+    <button class="butt"  type="submit" name="btn" value="elm">Electrical Machines</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+    <button class="butt" type="submit" name="btn" value="sigE">Signals And System</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+    <button class="butt"  type="submit" name="btn" value="digE">Digital Electronics</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+    <button class="butt"  type="submit" name="btn" value="eim">Electrical Instrumentation And Measurement</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+    <button class="butt"  type="submit" name="btn" value="emf">EMFT</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+    <button class="butt"  type="submit" name="btn" value="pws">Power System</button>
+</form>
+<br>
+<form action="/studyM/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="eestd" style="background-color: rgb(115, 214, 50);">Study Materials</button>
 </form>
 <br>
   </div>
@@ -228,56 +349,90 @@ p {
   <div style="display: none;" id="ceC">
     <br>
     <br>
-<a href="{% static 'C:\Users\Nikhil\Desktop\GATEweb\gateweb\static\pdf\EC_Electronics-and-Communications_Engineering gate.pdf' %}" class="button" style="margin-left: 500px;margin-top: auto;background-color: mediumorchid;" download="syllabus" >Syllabus</a>
+<a href="http://gate.iitd.ac.in/Syllabus/CE.pdf" class="butt"  style="background-color: blueviolet;"download="syllabus" >Syllabus</a>
 <br>
 <br>
 <br>
 
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="com" value="com">Communication Engineering</button>
+    <button class="butt"  type="submit" name="btn" value="fldc">Fluid Mechanics</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;margin-top: auto;" type="submit" name="sig" value="sig">Signals And System</button>
+    <button class="butt" type="submit" name="btn" value="gte">Geotechnical Engineering</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="net" value="net">Network Theory and Analysis</button>
+    <button class="butt"  type="submit" name="btn" value="enve">Enviornmental Engineering</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="ana" value="ana">Analog Electronics</button>
+    <button class="butt"  type="submit" name="btn" value="cons">Concrete Structures</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="emf" value="emf">EMFT</button>
+    <button class="butt"  type="submit" name="btn" value="cmm">Construction Materials And Management</button>
 </form>
 <br>
-<form action="/something/" method="POST">
+<form action="/ecContent/" method="POST">
     {% csrf_token %}
-    <button class="button" style="background-color:#f14e4e;text-decoration: none;margin-left: 500px;" type="submit" name="std" value="std">Study Materials</button>
+    <button class="butt"  type="submit" name="btn" value="emcc">Engineering Mechanics</button>
+</form>
+<br><form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="hdr">Hydrology</button>
+</form>
+<br><form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="sdm">Solid Mechanics</button>
+</form>
+<br><form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="sts">Steel Structures</button>
+</form>
+<br><form action="/ecContent/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="tre">Transportation Engineering </button>
+</form>
+<br>
+<form action="/studyM/" method="POST">
+    {% csrf_token %}
+    <button class="butt"  type="submit" name="btn" value="cestd" style="background-color: rgb(115, 214, 50);">Study Materials</button>
 </form>
 <br>
   </div>
   <br>
-  <button class="button" id="ask">Ask Doubts from experts</button>
- <br>
-  <div style="display: none; margin-left: 400px;" id="askC">
-    <textarea name="doubt" id="doubt" cols="80" rows="5" placeholder="Ask your doubt"></textarea>
-    <button class="button" style="padding: 10px 10px; margin-top: 0px;">Submit</button>
+  <button class="button" id="cp">Competitive Programming</button>
+  
+  <div id="cpC" style="display: none;">
+    <br>
+    <form action="/ecContent/" method="POST">
+        {% csrf_token %}
+        <button class="butt"  type="submit" name="btn" value="nmbt">Number Theory</button>
+    </form>
+    <br><form action="/ecContent/" method="POST">
+        {% csrf_token %}
+        <button class="butt"  type="submit" name="btn" value="gpht">Graph Theory</button>
+    </form>
+    <br><form action="/ecContent/" method="POST">
+        {% csrf_token %}
+        <button class="butt"  type="submit" name="btn" value="dym">Dyanmic Programming</button>
+    </form>
+   
   </div>
+  <form action="/about/">
   <br>
-  <button class="button" id="con">Contact Us</button>
+  <button  type="submit" class="button" id="about" name="btn" value="about">About Me</button>
   <br>
+  </form>
   
   
-  
-  
+  </div>
   
 </body>
 <script>
@@ -285,6 +440,17 @@ p {
 
 button.onclick = function() {
     var div = document.getElementById('eceC');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+};
+var button = document.getElementById('cp');
+
+button.onclick = function() {
+    var div = document.getElementById('cpC');
     if (div.style.display !== 'none') {
         div.style.display = 'none';
     }
@@ -336,9 +502,10 @@ button.onclick = function() {
         div.style.display = 'block';
     }
 };
-var button = document.getElementById('ask');
+
+var button = document.getElementById('em');
 button.onclick = function() {
-    var div = document.getElementById('askC');
+    var div = document.getElementById('emC');
     if (div.style.display !== 'none') {
         div.style.display = 'none';
     }

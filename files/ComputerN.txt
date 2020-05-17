@@ -1,0 +1,140 @@
+Lec-0: Computer Networks and Security Full Syllabus for GATE, UGC NET,DSSSB,NIELIT & University exam
+JFF2vJaN0Cw
+Introduction to Computer Network | OSI MODEL in easiest Way in Hindi | Need of OSI model
+4D55Cmj2t-A
+Lec1:Physical layer in computer networks in hindi | Functions of Physical layer | OSI
+lg-f92uY1Lc
+Lec1.1:Topologies in Computer Networks |Part 1 | All imp points of Mesh,Star,Hub,Bus,Hybrid
+uDulBxDb7GM
+Lec1.2:Topologies in Computer Networks |Part 2 | All imp points of Mesh,Star,Hub,Bus,Hybrid
+7t0YJWTjmdI
+Lec1.3: Manchester encoding and differential manchester encoding in hindi | Computer Network
+3IaB2a8tXLA
+Lec1.4: Various Devices In Computer Networks | Hardware and Software Devices | Communicating devices
+YxyLN3N5w9s
+Lec1.5: Types Of Cables in Computer Networks | Coaxial,twisted pair,fibre optic cable
+wuI6FGsOFZU
+Lec1.6: Repeaters in Computer Networks | Physical layer devices
+mf4bRP_puNQ
+Lec1.7: Hub in Computer Networks | Physical layer devices
+3N5a9cHYzCM
+Lec1.8: Bridges In Computer Networks | Physical and data link layer device
+dDP36_ZBs6A
+Lec1.9: Routers in Computer Networks | Physical, data link and network layer device
+JhBnOamc_8s
+Lec 1.10: What is Circuit Switching in Computer Networks in Hindi
+Cug52cpjM_g
+Lec 1.11: Packet Switching In Computer Networks | Imp for GATE and UGC NET
+_0mE6PH1E4c
+Lec 1.12: Datagram Switching Vs Virtul Circuit Switching in Packet Switching | Computer Networks
+-S-NThI_79o
+Lec 1.13: What is Message Switching In Computer Networks
+T1rSrLPHLLI
+Lecture2: Data link layer in computer Networks and its Responsibilities
+JRgmPco0KWI
+Lec2.1: Various Flow Control Protocols| Stop&Wait , GoBackN & Selective repeat in Data Link Layer
+yNedVgNyE8Q
+Lec2.2: Introduction to Error detection and Correction | Computer Networks
+U7-h2hyM1Dc
+Lec2.3: Single Bit Parity along With Hamming Distance Concept | Error Control
+U09cNsiYpc8
+Lec2.4: Cyclic Redundancy Check(CRC)  for Error Detection and Correction  | Computer Networks
+5Q-Yv6_0Qcw
+Lec2.5: Various Medium Access Control Protocols in Data Link Layer | Computer Networks
+G0h0dC4Zycs
+Lec2.6: What is Pure Aloha in Hindi | MAC Layer Protocol
+WYM9nFYnYAg
+Lec2.7: Pure Aloha Vs Slotted Aloha with all imp points in Hindi | Computer Networks
+ggdeb2_z240
+Lec2.8: Carrier Sense Multiple Access in Computer Network || CSMA || Computer Networks
+IftFvfSywCQ
+Lec2.9: Carrier Sense Multiple Access/ Collision Detection | CSMA/CD | Computer Networks
+v_z888gQWq0
+Lec2.10: Numerical Question on CSMA/CD
+oNOVfVcWBXc
+Lec 3: Network Layer | Responsibilities of Network Layer | OSI Model | Computer Networks
+rW1jPlYgp_0
+Lec 3.1:Class A in IP addressing with Example in HINDI | Classful Addressing | Network Layer
+iurle2xZrBQ
+Lec 3.2: Class B in IP addressing with Example | Classful Addressing in hindi with most easiest way
+es1NEZbgCss
+Lec 3.3: Class C in IP addressing with Example | Classful Addressing | Network Layer
+gk7c-Dceg5Y
+Lec 3.4: Class D & Class E in IP addressing with Example | Classful Addressing | Network Layer
+NDG2SEi2dKo
+Lec 3.5: Find Range, Network Id, Host, Broadcast address with Numerical Examples in Hindi
+vTzrn_M77mo
+Lec 3.6: Disadvantages of Classful Addressing | IP addressing | Computer Networks
+ARfwnD6X6ZI
+Lec 3.7: What is Classless Addressing (CIDR) in Hindi | CIDR vs Classfull Addressing
+N-ywmOpWehE
+Lec 3.8: Subnetting in Classful Addressing with Examples in Hindi | Computer Networks
+rdb2ki4iGuo
+Lec 3.9: Variable Length Subnet Masking(VLSM) in Hindi with Examles | Computer Networks
+mhVATrk0OhU
+Lec 3.10: Subnetting in CIDR Addressing | Classless Interdomain Routing in Hindi with Example
+wvvoT-dpr8o
+Lec3.11: Numerical Question on CIDR | Classless Addressing | Very Imp for all Competitive Exams
+jXioURQ2v8E
+Lec 3.12: VLSM in Classless Addressing(CIDR) | Variable Length Subnet Masking
+DFjz3yxe3aU
+Lec 3.13: IPv4 Header Format – All Fields Explained in Hindi | Computer Networks
+zoFSxIuS5Ro
+Lec 3.14: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks
+k8VgrqDOIUo
+Lec 3.15: IPv6 Header Format in Hindi | IPv4 Vs IPv6 in Computer Networks
+U3rGOTxwXAI
+Lec 3.16: What is Routing Protocols | Various types of Routing Protocols
+rA0p0ouD3aE
+Lec 3.17: Distance vector routing algorithm in hindi | Computer Networks
+5ZuP5qjbKSI
+Lec-3.18:Link state routing in computer networks in Hindi
+kW6zV-040SY
+Lec-4: Transport  Layer | Responsibilities of Transport  Layer | OSI Model | Computer Networks
+kAty4mKczEg
+Lec-4-1:TCP: Transmission control protocol | TCP Header | Transport layer | part -1
+c8aet11HNxg
+Lec 4.2:TCP: Transmission control protocol | TCP Header | Transport layer | part -2
+hsNuqtfxgRI
+Lec4.3: TCP connection Establishment and connection Termination | Transport layer
+qIEHUUt2Wfc
+Lec 4.4:TCP Data Transfer | Piggybacking & Pure Acknowledgement
+7zPfuIf4GL0
+Lec4.5: Connection Termination in TCP in Hindi with example
+dJIAComFq9U
+Lec4.6: TCP Congestion Control in Computer Networks in Hindi
+0bc_T_pEZmo
+Lec4.7: UDP (User Datagram Protocol) header in Computer Networks in Hindi
+HF_znV8x9a0
+Lec4.8: Advantages of UDP protocol over TCP | Transport Layer
+Zs0VixZqgzA
+Lec4.9: TCP vs UDP differences in hindi
+jJyXpMmXJI0
+Lec 5: Session Layer of OSI model | Session layer functions in Hindi
+2Abjxmp7TfU
+Lec 6: Presentation layer in computer networks in Hindi | OSI Model
+cj4OxZRJUdw
+Lec 7: Application layer of OSI model in Hindi | Application layer protocols & Port no
+8An0dRalJeM
+Lec7.1: Domain Name System (DNS) in computer Networks
+vhfRArT11jc
+Lec7.2: Domain Name Server(DNS) & its types in Hindi | All about DNS
+BZISxpdl4lQ
+All Networking Protocols & Devices | Summary from Physical to Application Layer protocols
+aUYwx9bYlGY
+Cryptography in computer network in Hindi | Cryptography in Information Security
+trHox1bN5es
+Symmetric Key Cryptography in Network Security with examples
+6AmmQiOWoXM
+Imp Question on Network Security | Symmetric Key Cryptography
+JUi2x_WbVO0
+Asymmetric key Cryptography with example | Network Security
+xw19eT5thIE
+RSA Algorithm in Network Security with examples in Hindi rsa algorithm example in hindi
+VUxfDCmWM0U
+What is Firewalls and How it Works | Packet Filtering firewall explained in Hindi Part-1
+o_vyfo3Hw0Y
+What is Application(Proxy) Firewall in Hindi | Network Security Part-2
+CHtTLireUCA
+3 Imp Questions on Computer Networks| Must Watch |
+DujE2sRVpeY

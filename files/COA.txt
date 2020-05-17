@@ -1,0 +1,120 @@
+Lec-1: Computer Organization and Architecture Syllabus Discussion for GATE and UGC NTA NET
+L9X7XXfHYdU
+Lec-2: Von Newmann's Architecture | Stored Memory Concept in Computer Architecture
+j8NnE1YeSN0
+Lec-3:Various General Purpose Registers in Computer Organization and Architecture
+2mowjC3dCqk
+Lec-4:Types of Buses (Address, Data and Control) in Computer Organization and Architecture
+xBYhHC8_A6o
+Lec-5: Common bus system using multiplexer | Computer organization and Architecture
+nbDd46e_LpE
+Lec-6: Common Bus system| How basic computer works
+60fQEm6oodc
+Lec-7: Types of Instructions in General Purpose Computer | Computer Organization and Architecture
+r6PChksvxp8
+Lec-8: Data Transfer Instructions in Computer Organisation and Architecture
+bNkiChXPRhM
+Lec-9: Arithmetic Instructions(Data Manipulation) in Computer Organisation and Architecture
+M0znE3jqaxs
+Lec-10: Logical Instructions(Data Manipulation) in Computer Organisation and Architecture
+_YJU5WFT9qw
+Lec-11: Shift Instructions(Data Manipulation) in Computer Organisation and Architecture
+i2UKe6lgrqg
+Program Control Instructions(Types of Control Instructions)| Branch,Skip,Jump|Computer Organization
+OXz7wKHr0_I
+Lec-12: What is Instruction Format | Understand Computer Organisation with Simple Story
+WAO_W6Hpzyk
+Question on Instruction Format | Computer Organization | UGC NTA NET Dec 2019
+GZz9nz7Vgb0
+Lec-13:  Single Accumulator CPU Organisation | Single Address Instructions in Computer Organisation
+k5YMLXPy1SE
+Lec-14: General Register CPU Organisation | Two and Three Address Instructions | COA
+Za7ozdjE8VI
+Lec-15: Register Stack Organisation | Zero Address Instructions | COA
+u-sp4gBAJKI
+Lec-16:Memory Stack Organisation | Memory stack Vs Register stack  | COA
+C1H5gurIcJk
+Lec-17: What is Addressing Mode | Various Types of Addressing Modes | COA
+_CH4cm5PhK8
+LEC-18: Implied Addressing Mode | Computer Organisation and Architecture
+a0jr953kLo8
+Lec-19 : Immediate Addressing Mode | Computer Organisation and Architecture
+mtr7oumkwuk
+Lec-20: Register Mode | Addressing Mode | Computer Organisation and Architecture
+PgQIeB-d6HE
+Lec-21: Register Indirect Mode | Addressing Modes | Computer Organisation and Architecture
+pqwWQD9Pgjg
+Lec-22: Auto Increment and Decrement Addressing Modes | Computer Organisation and Architecture
+7RP8SLdW0S0
+Lec-23: Direct Addressing Mode || Computer Organisation and Architecture
+5A677So9epQ
+Lec-24: Indirect Addressing Mode | Computer Organisation and Architecture
+l7QV6FBTGdE
+Lec-25: Relative Addressing Mode || Computer Organisation and Architecture
+Na7sLEioUjU
+Lec-26: Base Register Addressing Mode || Computer Organisation and Architecture
+Bicfyvcp__s
+Lec27: Indexed Addressing Mode || Computer Organisation and Architecture
+18ZVSnz0JcY
+Question on Addressing Modes | Computer Organization | UGC NTA NET Dec 2019
+fGnMnGyfZVs
+Memory Hierarchy in Computer Architecture | All Imp Points for Competitive Exams
+zwovvWfkuSg
+Independent vs Hierarchical Memory Organisation | 2-Level Memory Organisation
+-B8N9nltt8Q
+3-Level Memory Organisation || Computer Organisation and Architecture
+3-tT52RzgBs
+GATE 2004 Question on 3-Level Memory Organisation || Computer Organisation and Architecture
+_VNY-nhkMhw
+What is Cache Mapping || Cache Mapping techniques || Computer Organisation and Architecture
+m1dA7D6c3C0
+Direct Mapping with Example in Hindi || Cache Mapping || Computer Organisation and Architecture
+eObN3u3eAnU
+GATE 2005 Question on Direct Mapping | Cache Mapping Questions | Computer Organisation
+jZ2jRBVhgSY
+Fully Associative Mapping with examples in Hindi | Cache Mapping | Computer Organisation
+sLCJJdz0WAg
+Advantages and Disadvantages of Direct Mapping | Cache Mapping | Computer Organisation
+i7o3sxFk454
+Set Associative Mapping with Examples in Hindi | Cache Mapping | Computer Organisation
+pFndaJARM4Q
+Locality of Reference in Cache Memory | Spatial Vs Temporal Locality | Computer Organisation
+E6QATWzjWZU
+Cache Replacement Algorithms in Computer Organisation and Architecture
+EXRicJapuOQ
+LRU (Least Recently Used) Cache Replacement Algorithm | Computer Organisation and Architecture
+w32d1lD0Jb0
+Gate 2014 Question on Set Associative Cache Mapping || Computer Organisation and Architecture
+cy7BoO1b66k
+FIFO Cache Replacement Policy with example | Computer Organisation and Architecture
+e8ZrvrNdp9o
+LRU(least recently used ) Cache Replacement Policy | Computer Organisation and Architecture
+7mcy_xMNGF4
+Pipelining Introduction and structure | Computer Organisation
+nv0yAm5gc-E
+Need of Pipelining  | Computer Oraganisation and Architechture
+Al95Owan9Ck
+Pipelining Vs Non-Pipelining | Instruction Execution | Speedup, Efficiency and Utilization | COA
+R9s34-lnd9k
+What is Stage Delay in Pipeline | Previous Year GATE Question | Computer Organisation & Architecture
+-YtmPoGCdfM
+Numerical Question on Pipelining | Previous year GATE Question | COA
+BlnI-eZSt4M
+what is Hazard in Pipelining | various types of Hazards | computer Architecture
+srlgaJgaxRE
+Structural Hazards in Pipelining | Types of Hazards with Example in Hindi
+qn7zf_OSLsk
+Control Hazards in Pipelining | Types of Hazards with Example in Hindi
+BuaIGznkhHQ
+What is Read After Write(RAW) Hazards| Data Hazard in Pipelining with Example in Hindi | COA
+cMKn19y4_9E
+Write After Read Hazard with Example|Data Hazards| Computer Organisation and Architecture
+PWz5VEMYDP8
+Write After Write Hazard | Data Hazards in Pipelining | Computer Organization and Architecture
+-6JjmJNy3nA
+Question on Interrupt Handling(I/O organization) | Computer Organization | UGC NTA NET Dec 2019
+-IlIVW1F5dw
+Question on DMA (Direct Memory Access) | Input/Output Organization| COA | UGC NTA NET Dec 2019
+qhbgkyi_fbw
+Disk Access Time with Example | Seek Time, Rotational Time and Transfer Time
+udZi6uiR8bM

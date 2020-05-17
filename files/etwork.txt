@@ -1,0 +1,190 @@
+Lec 00 Introduction of Network Theory for GATE/ESE/Technical exams
+UWDUHX4tflY
+Lec 01 Basic Concept of Network Theory for GATE/ESE
+mtmOZiPPr4g
+Lec 02 Basic concept of Charges and Current
+CSMF5WDvf60
+Lec 03 Basic Concept of Electromotive Force (e.m.f) Energy and Power
+dyp3GheNci4
+Lec 04 Ohm's Law and Resistance || Part 01
+ZCRyXfkZ1W8
+Lec 05  Ohm's Law and Resistance || Part 02
+JfrrpE_ZUSs
+Lec 06 Basic concept of Inductor and Inductance
+_b4Z-1KBwMk
+Lec 07 Basic Concept of Capacitor and Capacitance
+6pX-X0SA4Jg
+Lec 08 Type of Elements in Network theory
+-Dz5k80eZOw
+Lec 09 Dependent and Independent sources in Network Theory
+iXWWzpZUFa4
+Lec 10 Introduction of Kirchhoff's Current Law (KCL)
+3Cao7S4OPd0
+Lec 11 Important Question Discussion on KCL || Part 01
+-bxWY4Jnkzo
+Lec 12 Important Question Discussion on KCL || Part 02
+d4EJ7bdTg8I
+Lec 13 Kirchhoff's Voltage Law  (KVL) and Question Discussion on KVL || Part 01
+8KR_Tibrsyo
+Lec 14 Important GATE Questions on KVL || Part 02
+YCtiQN4OT9Q
+Lec 15 Question Discussion On KVL || KCL || Ohm's Law Part 1
+sPV6qJtv0bM
+Lec 16 Question Discussion On KVL || KCL || Ohm's Law Part 2
+M7elbvWOfPw
+Lec 17 Some Important Rule For Solving Equivalent Circuit
+mXcR23b3pXc
+Lec 18  GATE Questions on Equivalent Circuit w.r.t Source
+2MiUON-Y4mk
+Lec 19 Equivalent Resistance Problem
+Xz9uWkEWL4k
+Lec 20 Equivalent Resistance of Infinite ladder
+hm25tMjgYSM
+Lec 21 Equivalent Resistance of Cube || Network theory
+otC4Q-GaX1U
+Lec 22 Equivalent Capacitance Problem || Network theory
+SPMuNo58zLQ
+Lec 23 Star and Delta Method for Finding Equivalent Resistance
+SDCsfOPkTnA
+Lec 24 Star Delta Conversion || GATE Question Discussion
+LltbwhOKUeg
+Lec 25 Current Division Rule in Electrical Circuit
+c1bXpKPzLB0
+Lec 26 Voltage Division Rule in Electrical Circuit
+0wraqSD0ulc
+Lec 27 Basic Nodal Analysis technique
+BVeEEBkh5VI
+Lec 29 Question discussion on nodal analysis
+BJd8PXnq2x4
+Lec 30 Question discussion on nodal analysis Part 02
+gWp9NPJ1ulU
+Lec 31 Concept of Mesh Analysis
+90_ULD7YfEQ
+Lec 32 Question discussion on mesh analysis
+VhTXS6pxM-I
+Lec 33 Comparative analysis of ohm's law, kvl-kcl and nodal and mesh
+pHNa4xny53s
+Lec 34 Source Transformation technique
+lVyUKYWsWjo
+Lec 35 Power and Energy calculation with question discussion
+0_rJmvBo2iU
+Lec 36 Incandescent Bulb problems
+2iz4dnXvCZ8
+Lec 38 Singularity Function
+tPY6sXR-5KU
+Lec 39 Introduction of AC circuit analysis
+qVMHPM5ET5M
+Lec 40 Lagging and leading concept in AC circuit
+6WOMx09x8Ro
+Lec 41 Sinusoid and basic Trigonometric function
+DObfWNB-2Mk
+Lec 42 Mean or Average value of AC |  AC analysis for GATE
+WvV8Jl6kbzY
+Lec 43 What is RMS value | Easiest Explanation | AC Analysis
+Jsg-XwJyMrI
+Lec 44 Phasor and phasor diagram | AC circuit analysis
+ZV2fmAgwjK0
+Lec 45 Phasor analysis of R and L circuit
+ADLDICHDSng
+Lec 46 Phasor analysis of C circuit
+f7_Xz37e3d4
+Lec 47 Phasor analysis of series R-L circuit
+4zuJOtF6GbU
+Lec 48 Phasor analysis of RC and RLC circuit
+TzdCsLMzm1I
+LEC 49 Phasor analysis of parallel R-L/R-C/R-L-C circuit
+5p_zEwxUnbg
+LEC 50  GATE questions | AC ANALYSIS  part 01
+7EfcUTYev4I
+Mirror Discussion | Competition | Practice strategy | Accuracy | Time Management | Revision
+XTpO0Owz8Q4
+Lec 51 Concept of Power and Power factor in AC Analysis
+loEgFA2GH0Y
+Lec 52 GATE ||Question discussion || AC analysis Part 02
+kqa_9KoRzQc
+Lec 53  Introduction of RESONANCE
+JrMR424jXC0
+Lec 55 Relation between QUALITY FACTOR, BANDWIDTH and RESONANT FREQUENCY || SERIES RESONANCE
+04x9_LpWmyk
+Lec 56 Relationships between damping factor and Quality factor || SERIES RESONANCE
+Dtgj1IRFyQs
+Lec 57 Introduction to Network theorems | Superposition theorem
+LtAEmQPX7hM
+Lec 58 Superposition theorem | Question discussion
+U8LCm4ItZO0
+Lec 59 Exceptions in super position theorem || NETWORK THEORY
+OIzaqiAIkXY
+Lec 60 Introduction || Thevenin's theorem || Norton's theorem ||Network theory
+Q7sJOOS5z-Y
+Lec 61 GATE QUESTION || Thevenin's & Norton's theorem || part -1
+BARpYyyHXYg
+Lec 62  GATE QUESTION || Thevenin's & Norton's theorem || part -2
+DKDhw588ExA
+Lec 63 Introduction || MAXIMUM POWER TRANSFER THEOREM || Network Theory
+8LKUbCJ4XiE
+Lec 64 GATE QUESTION || MAXIMUM POWER TRANSFER THEOREM || Part 01
+eg03iyumfiQ
+Lec 65 RECIPROCITY THEOREM || GATE 2020 || NETWORK THEORY
+HuhTkHI5OVE
+Lec 66 MILLMAN'S THEOREM || NETWORK THEORY
+ZfY38l5wUAk
+Lec 67 TELLEGEN'S THEOREM || COMPENSATION THEOREM || NETWORK THEORY
+ygSVEiQbsow
+Lec 68 Introduction of Transient || Network theory
+nwfuQEFVHh8
+Lec 69 Behavior of R L C at t=0+ || concept of 0- | 0 | 0+ in Transient analysis
+tPfgpBu8gHQ
+Lec 70 Behavior of R L C at t=infinity || Concept of Time Constant || Transient Analysis
+jz1yIr9vrec
+Lec 71 Transient Analysis Summary and Question Discussion
+5SRcjXYvWmw
+Lec 72 Question discussion on Transient | GATE_2020 | Network thoery
+4beLlqU8gRI
+Lec 73 Concept of Transient Analysis || GATE Question discussion|| Part-2
+Lbt3oCqYsSc
+Lec 74 Important GATE Question || Transient Analysis || Network theory
+HHRNrA1JE_0
+Lec 75 Laplace Transform in Transient Analysis
+HOrFnR-0b2s
+Lec 76 Introduction of Two Port Network || GATE 2020 || Network theory
+e72ixj11gko
+Lec 77 Impedance Parameter || Z parameter || Two Port Network
+HlnOqrGg0Dg
+Lec 78  GATE Question Discussion || Z Parameter || Impedance Parameter
+d4nIACyzkWs
+Lec 79 Y Parameter || Admittance Parameter || Two Port Network
+pTEr0hTh1R8
+Lec 80 ABCD or Transmission Parameter || Two Port Network
+yFqW-N17Jg0
+Lec 81 Hybrid Parameter || H Parameter || Two Port Network
+IeNm87-PYhM
+Lec 82 Inverse H or G Parameter and Relationship among Two Port Parameters
+v00Eee-dEVI
+Lec 83 Interconnection of Two Port Network
+XNo7n5afYVg
+Lec 84 Important GATE Question || Two Port Network || Network Theory
+FN40ex9bKRo
+Lec 85 Magnetic Coupled Circuit | Network Theory
+BjH3zn14h20
+Lec 86 DOT Convention || Magnetic Coupled Circuit
+aw3lg-LuK0g
+Lec 87 Linear Transformer with Dot Polarity || Magnetic Coupled Circuit
+bWAQMooZSQE
+Lec 88 Ideal Transformer with Dot Convention || Magnetic Coupled Circuit
+I3XLGoojXco
+Lec 89 Important GATE QUESTION || Transformer with Dot || Magnetic Coupled Circuit
+e5echu76aEw
+Lec 90 Concept of Duality || network theory
+4EZ8VW-l6jU
+Lec 91 Introduction of Single Phase || Two Phase || Three Phase System
+khUeoZuxuko
+Lec 92 Generation of Three Phase AC || Three Phase AC System
+k0_IB5IasLM
+Lec 93 Star Delta Connections || Three Phase System
+yIjetlTFpfU
+Lec 94 Introduction of Low Pass Filter and High Pass Filter
+Tr8oBLyNmXc
+Lec 95 Introduction to Graph Theory | Network Theory
+O0Uem_Hms74
+Lec 96 Introduction of Locus Diagram
+pGi4NtA6PxE

@@ -1,0 +1,150 @@
+Lec-0: Operating System Syllabus Discussion for all College/University & Compititve exams (GATE,NET)
+bkSWJJZNgf8
+Introduction to Operating System and its Functions with English Subtitles
+WJ-UaAaumNA
+Multiprogramming and Multitasking Operating System in Hindi with real life examples
+3MqyDWDpZoI
+Process States in Operating System| Schedulers(Long term,Short term,Medium term)
+2dJdHMpCLIg
+System Calls in Operating system and its types in Hindi
+tWPa-rZiGM8
+Fork System call with Example | Fork() system call questions
+ixq5cpdEO2Q
+Questions on Fork System Call With Explanation | Operating System
+uMMvYLB4cys
+Process Vs Threads in Operating System
+ITc09gOrqZk
+User Level Vs Kernel Level Thread in Operating System | All Imp Points
+-NONm-Jq34Y
+User mode and Kernel mode in operating system in hindi
+8duV1LLHHJU
+Process Scheduling Algorithms (Preemption Vs Non-Preemption) | CPU Scheduling in Operating system
+zFnrUVqtiOY
+What is Arrival Time, Burst, Completion, Turnaround, Waiting and Response time in CPU Scheduling
+n7Owxwfr6Ko
+First Come First Serve(FCFS) CPU Scheduling Algorithm with Example
+MZdVAVMgNpA
+Shortest Job First(SJF) Scheduling  Algorithm with  Example | Operating System
+VCIVXPoiLpU
+Shortest Remaining Time First(SJF With Preemption)Scheduling Algorithm with  Example|OperatingSystem
+hoN7_VMzw_g
+Round Robin(RR) CPU Scheduling Algorithm with  Example
+TxjIlNYRZ5M
+Pre-emptive Priority  Scheduling Algorithm with  Example | Operating System
+rsDGfFxSgiY
+CPU Scheduling for CPU & I/O Bound Processes with example
+0T5PlFVA9_k
+Multi Level Queue Scheduling | Operating System
+hBPYP0ZEvS8
+Multilevel Feedback Queue Scheduling | Operating System
+-94WGbrWveI
+Question on Shortest Job First(SJF) with Preemption Scheduling Algorithm
+kbfCRoNAPbY
+Process Synchronization | Process Types | Race Condition | Operating System-1
+3Eaw1SSIqRg
+Critical Section Problem |  Mutual Exclusion, Progress and Bounded Waiting | Operating System
+qMQsd7Iy5jo
+Producer Consumer Problem | Process Synchronization Problem in Operating System
+iMD1Z3f9ioI
+Printer-Spooler Problem | Process Synchronization Problem in Operating System
+16NMm0jvu2w
+Semaphores | Wait, Signal Operation | Counting Semaphore | Example| Operating system
+eoGkJWgxurQ
+Solution of Producer Consumer Problem using Semaphore | Operating System
+hh9g5kKl_aE
+Solution to Readers-writers  problem using Binary semaphore
+Zdzp5k3eSYg
+Dining philosophers Problem and Solution using Semaphore in Operating System
+HHoB2t_B6MI
+Binary Semaphore | Operating system
+l5-3mbBV1BQ
+Practice Question on Binary Semaphore in Operating System
+Tav67viXmpA
+DEADLOCK concept | Example | Necessary condition | Operating System
+rWFH6PLOIEI
+Resource Allocation Graph in Deadlock | Single Instance with example | Operating System
+BW74JYB3QOM
+Multi-Instance Resource Allocation Graph with Example | Operating System
+hJhB2ddOQtg
+Deadlock Handling Methods and Deadlock Prevention | Operating System
+pPM9Ajqmy_4
+Deadlock Avoidance Banker's Algorithm with Example |With English Subtitles
+7gMLNiEz3nw
+Question Explaination on Deadlock | Operating System
+mGBjd2WoODs
+GATE 2018 Question Explaination on deadlock | Operating system
+6uEf_F1S-Jo
+GATE 2018 Question on Banker's Algorithm | Deadlock avoidance | Operating Sytem
+k8BHyy6gBls
+Memory Management and Degree of Multiprogramming | Operating System
+eESIFJz7mJw
+Memory management  Techniques | Contigious and non-Contigious | Operating System
+FrTttJLN7Kw
+Internal Fragmentation | Fixed  size Partitioning | Memory management | Operating System
+bK-VhQA512c
+Variable size Partitioning |  Memory management | Operating System
+JdPmsrYqRDY
+First Fit ,Next Fit ,Best Fit ,Worst fit Memory Allocation | Memory Management | Operating System
+N3rG_1CEQkQ
+GATE Question Solved on First Fit ,Best Fit and Worst fit Memory Allocation | Operating System
+W7wDlABjCQI
+GATE 2007 Question Solved on First Fit ,Best Fit and Worst fit with timeline | Operating System
+XOFTINaUZt8
+What is Thrashing | Operating System
+IyWaK8pbN6A
+Need of Paging | Memory Management | Operating System
+I2TbCGNv1xQ
+Paging | Memory management |  Operating System
+6c-mOFZwP_8
+Question Explaination on Paging | Memory Management | Operating System
+L80DakYu4uw
+Paging Questions in Operating System(OS) | Imp Question for all competitive exams
+ucNJMcX-duE
+Inverted paging | Memory Management | Operating System
+spApKfUa8BI
+Segmentation Vs Paging | Segmentation Working | Operating system
+dz9Tk6KCMlQ
+Overlay | Memory Management | Operating system
+Quj-Goz4VMA
+Question Explaination on Logical address and Physical address space | Operating System
+30P73tWmU0s
+Format of Page Table Entry | Memory Management | Operating System
+JyPMJnnkNmQ
+Virtual Memory | Page fault | Significance of virtual memory | Operating System
+o2_iCzS9-ZQ
+Translation Lookaside Buffer(TLB) in Operating System in Hindi
+Z2T2vnyZl0o
+Numerical on Translation Lookaside Buffer (TLB) | Operating System
+Z4vzWxCcDCY
+Page Replacement Introduction| FIFO Page Replacement algorithm with example |Operating System
+8rcUs5RutX0
+Belady's Anomaly in FIFO page Replacement with example | Operating System
+pR1uhp--COc
+Optimal Page Replacement algorithm | Operating System
+q2BpMvPhhrY
+Least Recently Used  Page Replacement Algorithm | Operating System
+dYIoWkCvd6A
+Most recently used page replacement algorithm | Operating System
+H3BU_Do_l-Q
+Disk Scheduling Algorithm | Operating System
+9uoa_p8q47Y
+FCFS in Disk scheduling with Example | Operating System
+yP89YlEGCqA
+SSTF in Disk scheduling with Example | Operating System
+P_dA8VGJjA8
+SCAN Algorithm in Disk scheduling with Example | Operating System
+xouo556RGiE
+LOOK Algorithm in Disk scheduling with Example | Operating System
+Q2qcqX_hvR0
+C-SCAN Algorithm in Disk scheduling with Example | Operating System
+vLqZ6ZMBkX8
+C-LOOK Algorithm in Disk scheduling with Example | Operating System
+gwCgG5ORXW8
+Imp Qus. on Operating System | Must Watch | NTA NET Dec2019
+AF3FoARvtcc
+Very Imp Qus. on Unix Commands(Operating System) | Must Watch | NTA NET Dec2019
+-Mq8Mm_NGxI
+Introduction to Disk Architecture in Operating System
+sveZw_GG_cs
+Disk Access Time with Example | Seek Time, Rotational Time and Transfer Time
+udZi6uiR8bM

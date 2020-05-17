@@ -1,0 +1,32 @@
+L00 : Course Overview | Dynamic Programming Course Part 1
+_dbviFz2aZs
+L01 : Staircase Problem | Dynamic Programming Course Part 1
+2eNnuR0vlFA
+L02 : Staircase Problem Recursive Approach | Dynamic Programming Course Part 1
+oRBL9som81Q
+L03 : 2 x N  Tiling Problem | Dynamic Programming Course Part 1
+0j-snD1b-R4
+L04 : Subsets and BitMasking | Dynamic Programming Course Part 1
+bgXpltW2yAQ
+L05 : Subset Sum Using Bitmask | Dynamic Programming Course Part 1
+1tYoQx2LZDE
+L06 : Chef Got Recipes (Codechef) | BitMasking
+1-VgYXmrF-k
+L07 : Coin Change | Dynamic Programming | LeetCode
+ximB2-AwoS8
+L08 : Subset Sum Part 1 | Dynamic Programming Course Part 1
+BT_ACNC47Os
+L09 : Subset Sum with Linear Space | Dynamic Programming Course Part 1
+-httet0UVUU
+L10 : Printing Result from DP Array | Dynamic Programming Course Part 1
+HjJI1tbtn_M
+L11 : Min / Max Path Queries On 2D Grid | Dynamic Programming Course Part 1
+su3cE9RpGJk
+L01 : Caesar's Legions | Dynamic Programming Course
+AfE1nZjG5ZM
+L02 : Flowers | Dynamic Programming Course
+O8rSLhIlj_I
+L03 : longest Regular Bracket Sequence | Dynamic Programming Course
+pg-8pXQ6M9A
+L04 : Let's Go Rolling | Dynamic Programming Course
+OrqPRouE4jQ

@@ -1,0 +1,196 @@
+Why study Data Structures and Algorithms | Data Structures and Algorithms | Part-1 | Appliedcourse
+12u3R2UCer4
+Sorting & Searching: why bother with these simple tasks? | Data Structure & Algorithms | Part-2
+Qi7PZdS_VZQ
+Satellite data and keys | Insertion sort | Data Structures and Algorithms | Part-3 | Applied course
+Dq-9O9J2ubA
+How it works: Card-sorting | Insertion sort | Data Structure & Algorithms | Part-4 | Applied Course
+oKFa47ZeLTM
+Pseudo code | Insertion sort | Data Structures & Algorithms | Part-5 | Appliedcourse
+kg4VA3Giw9Y
+Correctness | Insertion sort | Data Structure & Algorithms | Part-6 | Appliedcourse
+TZq2TPTPXVE
+Stable sort | Insertion sort | Data Structure & Algorithms | Appliedcourse
+dJRjJMo6fY0
+Model of computation | Analyzing an algorithm | Data Structure & Algorithms | Appliedcourse
+1k2o9GdWH_E
+Space and time analysis of Insertion Sorting-1 | Analyzing an algorithm |Data Structure & Algorithms
+xlLo8kkG3c8
+Space and time analysis of Insertion Sorting-2 | Analyzing an algorithm |Data Structure & Algorithms
+VannOh-15WM
+Insertion sort: Big O-notation | Big O, Theta, Omega notation | Data Structure & Algorithms
+q-6S129YqP8
+Notations: Big O | Big O, Theta, Omega notation | Data Structure & Algorithms | Appliedcourse
+49tv-SR2-PQ
+Notations: Big Omega, Theta | Big O, Theta, Omega notation | Data Structure & Algorithms
+bj7nmgaBA_s
+Notations: Small O, Omega, Theta | Big O, Theta, Omega notation | Data Structure & Algorithms
+-PlqXj50ZZc
+Relationships between various notations | Big O, Theta, Omega notation | Data Structure & Algorithms
+t_rx92RzrLc
+Order of common functions & real world applications.
+zsPdyOEENYk
+Why does asymptotic analysis matter in the real world?
+jZGWYw8_Q3M
+Solved Problem: Polynomials
+mZjkxOknmhU
+Solved Problem: n n0 case
+Jl1C-9EKvQg
+Solved Problem 1: Big O, Theta, Omega Notation
+g_rNpqWJH4M
+Solved Problem 2: : Big O, Theta, Omega Notation
+4sZ39aoKnm0
+Solved Problem 3: Big O, Theta, Omega Notation
+DH35U-T8cCs
+Solved Problem 4: : Big O, Theta, Omega Notation
+6sat2QintFQ
+Solved Problem 5: : Big O, Theta, Omega Notation
+HrHU-XKMIt4
+Solved Problem 6: : Big O, Theta, Omega Notation
+T-hTkL37t3A
+Solved Problem 6 : Big O, Theta, Omega Notation
+v1fTgN-bqWQ
+GATE 2006 | Big O, Theta, Omega notation | Data Structure & Algorithm | Gate Appliedcourse
+pnQu1rqCm6U
+Why learn another sorting algorithm? | Merge Sort | Data Structure & Algorithm | Gate Appliedcourse
+2mpIBwnGNcw
+How it works: Intuition | Merge Sort | Data Structure & Algorithm | Appliedcourse
+krLX93Lylpo
+Pseudo Code | Merge Sort | Data Structure & Algorithm | Appliedcourse
+7YcsGtM8OUs
+Analyzing time & space complexity | Merge Sort | Data Structure & Algorithm |  Appliedcourse
+279cymdrmdg
+Recursion tree method: intuition | Merge Sort | Data Structure & Algorithm | Appliedcourse
+C4JjXc0htp0
+External Merge-Sort | Merge Sort | Data Structure | Appliedcourse
+Bp7fGofslng
+Solved Problem 1: Merge Sort
+FqMnb0Ng4pA
+Solved problem 2: Merge Sort
+AZjaWdegZMI
+Solved Problem 3: Merge Sort
+KnjjLAqliww
+Recursion tree method | Solving Recurrences | Data Structure & Algorithm | Gate Appliedcourse
+JPAA1FbM7jk
+Master theorem | Solving Recurrences | Data Structure & Algorithm | Gate Appliedcourse
+2y0HQGd1-nA
+Extended Master Theorem | Solving Recurrences | Data Structure & Algorithm | Gate Appliedcourse
+nul6EbC3rbo
+Inadmissible cases & Shortcuts | Solving Recurrences|Data Structure & Algorithm | Gate Appliedcourse
+Aude2ZqQjUI
+Substitution method | Solving Recurrences | Data Structure & Algorithm | Gate Appliedcourse
+LC96q_6r3BQ
+Factorial: Time and Space complexity | Recursion in programming| DS & Algorithm | Gate Appliedcourse
+xnVZeb907VA
+Recursion vs iteration | DS & Algorithm | Gate Appliedcourse
+hK01dEvdN_s
+Tail recursion/Tail-Call Optimization | Recursion in programming |DS & Algorithm| Gate Appliedcourse
+Wpkh5YSqwqg
+GATE 2011 | Solved Problems | Data Structures & Algorithms | GateAppliedcourse
+0b6gNKXojzY
+Fibonacci: Time Complexity | Solved Problems | GateAppliedcourse
+AC7KXe4vmgk
+GATE 2007 | Solved Problems | Gate Appliedcourse
+qiw7z5j2iu4
+Solved Problem 7: : Big O, Theta, Omega Notation
+rvue28sC0s8
+Shortcut + GATE 2004 | Solved Problems | GateAppliedcourse
+w1Gkt8CtXv4
+GATE 2009 | Solved Problems | Gate Appliedcourse
+hs4hJGNpdCg
+GATE 2008 | Solved Problems | Gate Appliedcourse
+rk7SnI04Qjo
+GATE 2005 | Solved Problems | GateAppliedcourse
+Sl97JZYHs7I
+GATE 2003 | Solved Problems | GateAppliedcourse
+dgZdBHO7Kxo
+Bubble Sort | How it works: intuition + code  | Appliedcourse
+pxwHxayEzJ8
+Space and time complexity | Bubble Sort | Appliedcourse
+lDpPuG0AFsQ
+When to use Bubble sort | Appliedcourse
+n2nwxbuKq7s
+GATE 2000 | Bubble sort | GateAppliedcourse
+TCek_4zLsCM
+Solved Problem: Bubble Sort | Appliedcourse
+LQckLnNi3Ns
+Why do we need another sorting algorithm? | Quick Sort | Appliedcourse
+tFHLw1sTBsU
+How it works: intuition | Quick sort | Appliedcourse
+eTM3lREUbO8
+Partitioning | Quick Sort | Appliedcourse
+ri5JIgUdvl8
+Quick sort by recursion | Quick Sort | Appliedcourse
+_z8ZP47NNfE
+Time complexity: Best and Worst cases | Quick Sort | Appliedcourse
+4nVbJV5pZa8
+Randomized quick sort and amortized analysis | Quick Sort | Appliedcourse
+HY64dw_Af94
+Solved Problem1: Quick Sort | Appliedcourse
+NIic1MkjjnY
+Solved problem 2: Quick Sort | Appliedcourse
+vopd6SKGWFg
+Solved Problem 3 | Quick Sort | Appliedcourse
+sLbnIivgYLs
+Solved Problem 4: Quicksort | Appliedcourse
+BwsxPTZ_BEw
+Solved Problem 6: Quick Sort | Appliedcourse
+8rg6ENCZmiE
+Solved Problem 6:  Quick Sort | Appliedcourse
+V-cpaHwgdsk
+How it works: intuition + code | Selection Sort | Appliedcourse
+GgSXbXX08QM
+Space and time complexity | Selection Sort | Appliedcourse
+-oBY_roiPJw
+When to use Selection sort? | Selection sort | Appliedcourse
+tmrb2_At3g0
+Solved Problem 1 | Selection Sort | Appliedcourse
+UNNrUNVMEYg
+Solved Problem 2 | Selection Sort | Appliedcourse
+_Y-KZaD92sw
+Solved Problem 3| Selection Sort | Appliedcourse
+hxNfDlxPJ_A
+Solved Problem 4| Selection Sort | Appliedcourse
+rT_8aTMCHHU
+Lower bounds on worst case of comparison sorting | Linear Time Sorting | Appliedcourse
+UllG3EagYbk
+Counting sort: intuition + code | Linear Time Sorting | Appliedcourse
+E6zYX8Pf0W4
+Space and time complexity | Linear Time Sorting | DS & Algorithm | Appliedcourse
+PEgQtubYQvA
+Radix Sort | Linear Time Sorting | DS & Algorithm | Appliedcourse
+MNHdxQDUEyk
+Where to use which sorting algorithm? | Linear Time Sorting | DS & Algorithms | Appliedcourse
+g2zwYrZdHeE
+GATE 2004 | Linear Time Sorting | DS & Algorithms | GateAppliedcourse
+yjlJkrsSJ-Y
+Solved Problem 1 | Linear Time Sorting | DS & Algorithms | Appliedcourse
+f3yBEZR9pbU
+What are Data Structures? | Appliedcourse
+Nw5RHjB64Gw
+Where do arrays fail? | Data Structures: Introduction | DS & Algorithms | Appliedcourse
+lz59b4-zYdo
+Structure & memory organization | Singly Linked List | Appliedcourse
+286ZqlJwdwc
+Code for node | Singly Linked List | Appliedcourse
+0Y6s1Et5Meo
+Insertion | Singly Linked List | Appliedcourse
+JaO_pFL3538
+Delete | Singly Linked List | Appliedcourse
+U_Wtskg4D7c
+Traversal & Search | Singly Linked List | Appliedcourse
+-kDJ1YYp_WA
+Drawbacks | Singly Linked List | Appliedcourse
+WyuvxDPmurE
+Solved Problem 1:  Singly Linked List | Appliedcourse
+6Hyvn3hV50o
+Solved Problem 2:  Singly Linked List | Appliedcourse
+Tn3ZWzg3nKo
+Motivation for DLL | Doubly Linked List | Appliedcourse
+E8IHGFaX-FQ
+Structure & memory organization | Doubly Linked List | Appliedcourse
+XuEtj2iisiA
+Motivation: Why we need them | Stacks | Appliedcourse
+fN5IqmRPmMA
+Motivation: Why we need them | Stacks | Appliedcourse
+fN5IqmRPmMA

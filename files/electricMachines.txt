@@ -1,0 +1,142 @@
+Magnetic Fields in Inverted Induction Motor | GATE (EE) | Electrical Machines
+pjikGa7he0E
+Maximum Torque in 1-phase Induction Motor | GATE (EE) | Electrical Machines
+uZ7E8XSGe8Y
+Dimensions of a Transformer | GATE (EE) | Electrical Machines
+9sYzUsObEQg
+Concept of 3 Phase Transformers - Electrical Machines - GATE EE
+JsYBg45-vSo
+GATE (EE) - Synchronous Machines 2 (Electrical Machines) - Krash - Problem Solving
+i6bv4kesbBM
+GATE (EE) - Induction Machines 2 (Electrical Machines) - Krash - Problem Solving
+tFTo84IBnR0
+GATE (EE) - Induction Machines 1 (Electrical Machines) - Krash - Problem Solving
+nGql-Uqi0v8
+GATE (EE) - DC Machines 2 (Electrical Machines) - Krash - Problem Solving
+rGTkTDOIvxo
+GATE (EE) - DC Machines 1 (Electrical Machines) - Krash - Problem Solving
+8qSVX11DtEg
+GATE (EE) - Transformers 2 (Electrical Machines) - Krash - Problem Solving
+vVc1XduDZ20
+GATE (EE) - Transformers 1 (Electrical Machines) - Krash - Problem Solving
+ptMrg6SbPPc
+Transformer Problem Solving - Electrical Machines (Kapsule)
+NHKPXhxJaTE
+Losses in a Transformer - Electrical Machines (Kapsule)
+aT841qMEZ_w
+Rotating Magnetic Field in Inductor Motor Part 1
+LWH-esUUwxE
+Three Phase Transformer Phasor Diagram | GATE (EE) | Electrical Machines
+IteJDgQT1WA
+Three Winding Transformer | GATE (EE) | Electrical Machines
+iySwuesNjk4
+Starting of Induction Motor | GATE (EE) | Electrical Machines
+lDn9tBztt_s
+Harmonics in Transformers Tutorial for GATE | Electrical Machines | GATE (EE)
+13ZoBhJZG1s
+How to Prepare Electrical Machines for GATE (EE) | Preparation Strategy by Ankit Goyal (AIR 1,2018)
+fmY9orwBu7w
+Machines | Lec 16 | Testing of Transformer (Part 2) | GATE Electrical Engineering
+rW6b0dr-F3Y
+Electrical Machines | Lec 17 | Losses & Efficiency (Part 1) | GATE Electrical Engineering
+qv9uu6GFCP4
+Electrical Machines | Lec 18 | Losses & Efficiency (Part 2)| GATE Electrical Engineering | Ankit Sir
+zjYFMkBac0Y
+Electrical Machines | Lec 19 | Voltage Regulation | GATE Electrical Engineering
+rnehcEm07Fk
+Electrical Machines | Lec 20 | Important Concepts in Electrical Machines - 1| GATE Electrical Engg
+qEpFybbOpvo
+Electrical Machines | Lec 21 | Important Concepts in Electrical Machines - 2| GATE Electrical Engg
+VNK-JKH5I4g
+Electrical Machines | Lec 21 | Important Concepts in Electrical Machines - 2| GATE Electrical Engg
+lMFoAAAXK_o
+Electrical Machines | Lec 22 | Auto Transformer in Hindi - 1| GATE Electrical Engineering Lecture
+pOkxh0EH1qo
+Electrical Machines | Lec 23 | Auto Transformer in Hindi - 2| GATE Electrical Engineering Lecture
+KBen4Tojy80
+Electrical Machines | Lec 24 | Auto Transformer in Hindi - 3| GATE Electrical Engineering Lecture
+zSCNNJFrVvA
+Electrical Machines | Lec 25 | Three Phase Transformer - 1 | GATE/ESE Electrical Engineering Lecture
+KhApv0b7zLw
+Electrical Machines | Lec 26 | Three Phase Transformer - 2 | GATE/ESE Electrical Engineering Lecture
+5n-ERhNlN38
+Electrical Machines | Lec 27 | Three Phase Transformer - 3 | GATE/ESE Electrical Engineering Lecture
+QE2YCIbpFvU
+Electrical Machines | Lec 28 | Three Phase Transformer - 4 | GATE/ESE Electrical Engineering Lecture
+Sg2qwYC0SKY
+Electrical Machines | Lec 29 | Three Phase Transformer - 5 | GATE/ESE Electrical Engineering Lecture
+nKhhMbYe6LY
+Electrical Machines | Lec 30 | Three Phase Transformer - 6 | GATE/ESE Electrical Engineering Lecture
+3V5Xq4NJVGs
+Electrical Machines | Lec 31 | Three Phase Transformer - 7 | GATE/ESE Electrical Engineering Lecture
+VvIk1qmbf7E
+Electrical Machines | Lec 32 | Parallel Operation of Transformers | GATE/ESE Electrical Engineering
+oqgDQt9G2fo
+Electrical Machines | Lec 33 | Excitation Phenomenon - 1 | GATE/ESE Electrical Engineering
+rBRZW_8Meng
+Electrical Machines | Lec 34 | Excitation Phenomenon - 2 | GATE/ESE Electrical Engineering
+jEL_42aqTmk
+Electrical Machines | Lec 35 | Excitation Phenomenon - 3 | GATE/ESE Electrical Engineering
+gqVpwEHk3nA
+Electrical Machines | Lec 36 | Switching Transients | GATE/ESE Electrical Engineering
+ZCa9PWbW3MQ
+Electrical Machines | Lec 37 | Electromechanical Energy Conversion -1 | GATE/ESE Electrical Engg
+j_4jvMwIla0
+Electrical Machines | Lec 38 | Electromechanical Energy Conversion -2 | GATE/ESE Electrical Engg
+yH-8DrE_UtA
+Electrical Machines | Lec 39 | DC Machines Introduction | GATE/ESE Electrical Engineering
+HQA1bni5NHA
+Electrical Machines | Lec 40 | DC Generator Working Principle | GATE/ESE Electrical Engineering
+IAn8EVfKNvA
+Electrical Machines | Lec 41 | Construction of DC Machines - 1 | GATE/ESE Electrical Engineering
+1NM_r_Fu_98
+Electrical Machines | Lec 42 | Construction of DC Machines - 2 | GATE/ESE Electrical Engineering
+_FQ5kltbEC8
+Electrical Machines | Lec 43 | Construction of DC Machines - 3 | GATE/ESE Electrical Engineering
+x_rNN11uHD0
+Electrical Machines | Lec 44 | Armature Winding - 1 | GATE/ESE Electrical Engineering
+YyyQGZMjFw0
+Electrical Machines | Lec 45 | Armature Winding - 2 | GATE/ESE Electrical Engineering
+0_9u3QIryvg
+Electrical Machines (DC Machines) | Lec 46 | Armature Winding - 3 | GATE/ESE Electrical Engineering
+EDIOfBV4_og
+Electrical Machines (DC Machines) | Lec 47 | Armature Winding - 4 | GATE/ESE Electrical Engineering
+eruGa-LwjX4
+Electrical Machines (DC Machines) | Lec 48 | Armature Winding - 5 | GATE/ESE Electrical Engineering
+Xk4xIQ55ZZM
+Electrical Machines (DC Machines) | Lec 49 | Commutation Process | GATE/ESE Electrical Engineering
+8Wk47CN_Wt8
+Electrical Machines (DC Machines) | Lec 50 | Armature Reaction - 1 | GATE/ESE Electrical Engineering
+Bcun6tMPaeQ
+Electrical Machines (DC Machines) | Lec 51 | Armature Reaction - 2 | GATE/ESE Electrical Engineering
+g7wk5WbwP0w
+Electrical Machines (DC Machines) | Lec 52 | Armature Reaction - 3 | GATE/ESE Electrical Engineering
+mii7sHezxuo
+Electrical Machines | Lec 53 | Summary of Construction & Working | GATE/ESE Electrical Engineering
+-N3XEMqTaVc
+Electrical Machines | Lec 54 | Performance Equation of DC Machines | GATE/ESE Electrical Engineering
+_9P_xD6rA7Q
+Electrical Machines | Lec 55 | Power Flow & Efficiency | GATE/ESE Electrical Engineering
+ngrQUBJIlWA
+Electrical Machines (DC Machines) | Lec 56 | Operating Characteristics-1 | GATE/ESE Electrical Engg
+upuMVvV6S3U
+Electrical Machines (DC Machines) | Lec 57 | Operating Characteristics-2 | GATE/ESE Electrical Engg
+bYgyjT08i0E
+Electrical Machines (DC Machines) | Lec 58 | Operating Characteristics-3 | GATE/ESE Electrical Engg
+WRYTwfWQljU
+Electrical Machines (DC Machines) | Lec 59 | Starting of DC Motor | GATE/ESE Electrical Engg
+623DJSoe2-s
+Electrical Machines (DC Machines) | Lec 60 | Braking of DC Motor | GATE/ESE Electrical Engg
+gY7gv4SFSXw
+Electrical Machines (DC Machines) | Lec 61 | Speed Control of DC Motor - 1 |GATE/ESE Electrical Engg
+OWHGkIdIplI
+Electrical Machines (DC Machines) | Lec 62 | Speed Control of DC Motor - 2 |GATE/ESE Electrical Engg
+0T2YSDV2Aig
+Electrical Machines (DC Machines) | Lec 63 | Testing of DC Machines | GATE/ESE Electrical Engg
+vcEtKovdEoY
+Electrical Machines (Synchronous Machines) | Lec 64 | Introduction | GATE/ESE Electrical Engg
+PBnfGb2rqN0
+Electrical Machines (Synchronous Machines) | Lec 65 | Construction -1| GATE/ESE Electrical Engg
+JhKLxfkZzK0
+Electrical Machines (Synchronous Machines) | Lec 66 | Construction - 2 | GATE/ESE Electrical Engg
+VXWGokPTolw

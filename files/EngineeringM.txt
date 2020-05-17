@@ -1,0 +1,414 @@
+Rank of Matrix Using Transformation | Normal Form | in Hindi by GP Sir
+p5rBJj5CKCg
+Consistency and Inconsistency of matrix For System of Linear Equation
+sSjB7ccnM_I
+Short Trick - Eigen values & Eigen vectors | Matrices (Linear Algebra)
+kYAj8oFwj5g
+Short Trick - Matrix Cayley Hamilton Theorem | Inverse of Matrix BY GP
+yfzVvcZryNk
+Inverse & Adj(A) of 3x3 & 2x2 Matrix | Short Trick | XII CBSE/JEE/GATE
+31RhJeGoTmM
+Fourier Series examples and solutions for Even and Odd Function
+NdouX5-KD6Y
+Half Range Fourier Sine and Cosine Series Example | Lecture II by GP Sir
+Sq2FhCxcyI8
+Harmonic Analysis 2018 in Fourier Series | Lecture III  By GP Sir
+X-z6e1zZw80
+Differential Equation First Order and Degree |Methods & Solution
+McOc6OUC7Pc
+Differential Equation Reducible to Linear form | Lecture-II by GP Sir
+MwitOvQxpfY
+Exact and Reducible to Exact differential equation of first order
+Qscs_AZTf7c
+Linear Higher Order Differential Equation | CF & PI |Lecture-I
+tHqx1qxA8q4
+Linear Higher Order Differential Equations, Rules of CF & PI By GP Sir
+EwsAq2zqyew
+Homogeneous cauchy-euler Second Order Differential Equations By GP Sir
+1HKn9IvYiEM
+Second Order Exact Differential Equation with Variable Coefficient
+UOYp8k_hHXQ
+Solution of Second Order Differential Equation | Part of CF is Known
+JsqGebEvxfQ
+Second Order Differential Equation - Change of Dependent Variable Method
+J7kxzE2vqwg
+Second Order Differential Equation - Change of Independent Variable Method
+K1LPzOCIwY8
+Variation of Parameter Method - Second Order Differential Equation | Gp
+jiQ2sX5wGwM
+Concept of Vector Point Function & Vector Differentiation By GP Sir
+FfJtVvQtqTM
+Gradient of a Scalar Field & Directional Derivative | Normal Vector
+9CHfHuFBTw8
+Divergence and Curl of vector field | Irrotational & Solenoidal vector
+csCskd01jwE
+Vector Calculus - Line Integrals of Vector Field | Example & Solution
+pfCwRLK29h4
+Vector Calculus- Application of Line Integral |Scalar Potential | Work Done By Force |
+sO9Z2RSeH4s
+Vector Calculus - Green's Theorem | Example and Solution by GP Sir
+6fJE3vvjB8o
+Vector Calculus - Stoke's Theorem | Example and Solution by GP Sir
+gu08BWK6cv8
+Vector Calculus - Gauss Divergence Theorem | Example and Solution
+_PNsPatRNVA
+Formula of Laplace Transform and Inverse Laplace Transform | By Gp Sir
+EDVJotmT584
+Laplace Transform - First Shifting Theorem  with Example | By GP Sir
+f7IQqZ9zBiY
+Laplace & Inverse Laplace Transform - Second Shifting Theorem | GP Sir
+X5ZhbRjS0yE
+Laplace & Inverse Laplace Transform - Multiplication Property | Gp Sir
+1AhdTdNTkLA
+Laplace & Inverse Laplace Transform - Division Property | By Gp Sir
+KK-dGfgJYA4
+Inverse Laplace Transform -Convolution Theorem Examples | By GP Sir
+bfWu14Ny-tc
+Laplace Transform | Application to Ordinary Differential Equation | GP
+3KtUt78p9a4
+Laplace Transform | Application to Partial Differential Equations | GP
+RggTx6cuXag
+Fourier Transform Examples and Solutions | Inverse Fourier Transform
+GtXmS5YH7XM
+Fourier Sine and Cosine Transform Examples and Solutions By GP Sir
+xUKTxstShv0
+Application of Fourier Transforms to Boundary Value (PDE) Problems
+y725DGwii84
+Complex Analysis | Analytic Function | Cauchy Riemann Equation BY GP
+t9xW7UaZwZ0
+Complex Analysis - Short Trick To Find Harmonic Conjugate By GP Sir
+OQQqbV32b78
+Complex Analysis - Analytic Function | Milne Thomson Method | Example & Solutions
+ABNW9FcZ5zQ
+Complex Analysis - Bilinear transformation | Conformal Mappings By GP
+xgnQTqMc6A4
+Complex Analysis -Complex Integration Line Integral Example & Solution
+ywQVarOaA60
+Cauchy's Integral Formula For Analytic Function | Example & Solution
+fSoQxuVdKIs
+Complex Analysis - Cauchy's Residue Theorem & Its Application by GP
+4yC4IXcMKJg
+Complex Analysis- Contour Integration | Application of Residue Theorem
+xaKTNENeJdA
+Complex Analysis - Contour integration | Evaluation of Improper Integrals
+enF9OuOC9MA
+Gamma Function - Properties & Its Application | Integral Calculus
+SduCO-r_TOA
+Beta Function - Properties with Example | Relation of Gamma & Beta Function
+IaG-24IhULY
+Maxima And Minima of Two Variables Function | Examples And Solution
+NpR91wexqHA
+Maxima and Minima - Langrange's Method of Undetermined Multipliers
+FrD7uu6chP0
+Partial Differentiation Example And Solution | Multivariable Calculus
+eTp5wq-cSXY
+Partial Differentiation - Euler's Theorem for Homogeneous Function
+bTs7ncA_AtY
+Partial Differentiation - Total Differential Coefficient Problem & Solution
+kmsmhnlJ5UI
+Overview of Numerical Analysis | Interpolation | Integration | Differentiation
+rWyTk9eubKM
+Interpolation Formula -Newton Forward & Backward | Example and Solution
+Aw6LvaPtESE
+Interpolation Formula - Stirling, Gauss Forward & Backward, Bessel's | Example & Solution
+-Lf0VZzKRw0
+Lagrange Interpolation | Unequal Interval |Newton divided difference
+zdyUwzOm1zw
+Numerical Integration - Trapezoidal Rule, Simpsons 1/3 & 3/8 Rule
+iviiGB5vxLA
+Picard method of successive approximations Example for solving ODE
+oTN7hGoSPMw
+Euler Modified Method - Solution Of ODE By Numerical Method | Example
+U8-4HLKtmDM
+Runge Kutta Method of 4th Order - Solution of ODE By Numerical Method
+Ym1EUjTWMnE
+Milne Predictor & Corrector Method - Solution Of ODE Numerical Method
+k7p8vNMA7CA
+Adam Bashforth Predictor And Corrector Method - Solution Of ODE By NA
+qT2yTakTi_U
+Definition of Asymptotes with Working Rule in Hindi By GP Sir
+WX6O9TiFYsA
+Asymptotes Example & Solution When Roots are Equal | Definition & Rule
+mco9p6EzR50
+Intersection of Curve and Its Asymptotes Definition & Method | GP Sir
+CBrIHByAlrw
+Asymptotes By Inspection Method | Parallel Asymptotes | By Gp Sir
+m8lmI6LQyWs
+Curve Tracing of Cartesian Curve By GP Sir
+CioY8ElsjO4
+Curve Tracing of Cartesian Curve | Lecture-II | Working Rule of Tracing
+yhGOx0qhGF0
+Curve Tracing of Polar Curves | Cardioids, Limacon, Bernoulli | GP Sir
+zLQE8tO5G90
+Volume of Solids of Revolution | Cartesian & Parametric Form BY GP Sir
+q8SWoyDoNAg
+Surface Area of Solids of Revolution | Cartesian & Parametric Form
+x4U4n4DaxZ8
+Double Integral & Area By Double Integration | Multiple Integral
+db7d_a0wiUg
+Double Integration - Change of Order of Integration | Cartesian & Polar
+fXMyLYwBB3s
+Class 12 Maths NCERT - Differentiability Important Questions Exam 2019
+Zto-EgHoa3Q
+Curve Fitting  Straight Line & Second Degree Parabola By Least Square
+Qy1YAKZDA7k
+Curve Fitting Of Exponential Curve By Least Square Method Examples
+s94k4H6AE54
+Class 12 Maths NCERT Differentiation of Logarithmic Function Exam-2019
+lodcSyms_nU
+Class 12 XII Maths NCERT - Derivative of Function in Parametric Forms
+UqPCNsTlcis
+Second Order Derivative - Class 12 XII Maths NCERT Important Question
+--H51B7RGzs
+Radius of Curvature  | Radius of Curvature Formula & Example & Solution
+qW9slRb9Fic
+Radius of Curvature Part-2 Example and Solutions Differential Calculus
+qtgji5ws8LA
+Radius of Curvature Part-3 Example and Solutions Differential Calculus
+i5auF7-aguk
+Jacobian, Jacobian Transformation, Jacobian Method, Differential Calculus
+YXmeH1yevkk
+Tips to Study Maths, How to Study Maths, How to Score Good Marks in Maths
+fmrGGkeb42A
+Jacobian, Jacobian Properties,Jacobian Example, Differential Calculus
+Z_NUUsbybZU
+Jacobian, Jacobian of Implicit Function, Jacobian Example Par-III
+WUbRYAikFRg
+Envelope and Evolutes, Envelope Math, Differential Calculus By GP Sir
+H9xxLXYSrCw
+Envelope and Evolutes, Evolute, Evolute of Curve Differential Calculus
+Yh1TQcS_byE
+Infinite Series - Convergence Of  Infinite Series | Basic Concepts
+vfg1mmsSMMM
+Infinite Series - Comparison Test For Convergence of Series | Calculus
+S-qzRWJOlf8
+Infinite Series - Cauchy's Integral Test For Convergence of Series
+2SJ7vcJpTd8
+Infinite Series -  D'Alembert's Ratio Test For Convergence of Series
+9sLsX9DV5Fs
+CSIR NET | GATE | IIT-JAM (Mathematics)  Follow me on Unacademy
+PwzN0JfwCq0
+Infinite Series -Cauchy Root Test For Convergence of Series | Calculus
+tF4vDQ6X7Kg
+Infinite Series -Raabe's Test For Convergence of Series | Calculus
+99Hpoc1-uDo
+Infinite Series - Logarithmic Test For Convergence of Series |Calculus
+d78ceBDfYQE
+Infinite Series- De Morgan & Bertrand's Test For Convergence of Series
+7JSiSwQlTAE
+Alternating Series | Leibniz Test | Convergence Of Infinite Series
+AG5mvNsxlXo
+Absolute Convergence  | Conditionally Convergent | Infinite Series
+EX6zkLpHIec
+Conditionally Convergent Series | Alternating Series | Infinite Series
+HVrFbxKbZ6I
+Operation Research | Linear Programming Problem | Overview & Concepts
+knZrhVkZ71Q
+Operation Research | Linear Programming  Graphical Method | Problems
+2EvC1v1FI2k
+Operation Research | Simplex Method | PART -1 | Linear Programming
+01Iy2ZHOmNg
+Operation Research | Simplex Method | PART - 2 | Linear Programming
+NbP4IStg0L0
+Operation Research | Two Phase Simplex Method | Linear Programming
+61lkRMXne2U
+Series Solution of Differential Equation | Ordinary Point and Singular Point
+nWqeWe79o0w
+Series Solution of Differential Equation | Legendre Polynomial | Power Series Method
+MGLgDlE_uaU
+Non Linear Partial Differential Equations Standard Form-I By GP Sir
+dZOTzF0YflY
+Non Linear Partial Differential Equations-Standard Form-II By GP Sir
+N9P5i7aJ88c
+Non Linear Partial Differential Equations-Standard Form-III By GP Sir
+4Te4wuqtjPI
+Non Linear Partial Differential Equation Standard form-IV | Clairaut's Form
+Ul2QNDa6Ec4
+Charpit's Method For Non Linear Partial Differential Equation By GP
+kEN_Ze8QNdM
+Series Solution of Differential Equation | Frobenius Method | Power Series Method
+19Vt7ds8Lvw
+Series Solution of Differential Equation | Frobenius Method  | Bessel's equation
+GH7-eaZ5pXc
+How To Learn Maths Easily | How To Get Good Marks In Maths | Exam Strategy
+55cYPmZa44g
+Differential Equation | Solvable For p | First Order & Higher Degree
+aYrsPeE7NLQ
+Differential Equation | Solvable For y | First Order & Higher Degree
+-PckYOzQ8xQ
+Differential Equation | Solvable For x | First Order & Higher Degree
+owjVBo53hUU
+Differential Equation | Clairaut's Equation | First Order & Higher Degree
+pP_ugcoTews
+Differential Equation | Simultaneous Linear Differential Equation
+Y8CF01gbd_U
+Differential Equation | Simultaneous Linear Differential Equation |P-2
+mvsWB3Z5Uzg
+Statistics And Probability | Overview Of Random Variable & Probability Distribution
+V3iEsLPAD68
+Random Variable, Probability Mass Function, Distribution Function
+7MJ3b_J_ZCE
+Random Variable, Probability Density Function, Cumulative Distribution Function
+l0ecMiNUZu8
+Mathematical Expectation, Variance Of Continuous & Discrete Random Variable
+H2Ji-Q4MfqU
+Binomial Distribution | Mean & Variance | Moment Generating Function
+gT26Y_VJmOM
+Binomial Distribution | Fitting of  Binomial Distribution | Examples
+Nhw5qGKZm5o
+Poisson Distribution | Proof  Binomial Tends to Poisson Distribution
+onFv73Btdno
+Poisson Distribution | Mean & Variance | Moment Generating Function
+pkpe4aMGRg8
+Poisson Distribution | Poisson Distribution Examples with  Solutions
+raySzcgcBFk
+Poisson Distribution | Fitting of Poisson Distribution | Example
+v6M1-ljpSg4
+Exponential Distribution | Mean & Variance | Moment Generating Function
+z5gongqrMv8
+Normal Distribution | Mean and Variance of Normal Distribution
+S8YrED3mf5s
+Z-Transform | Inverse Z-Transform | Concept & Examples Of Z-Transform
+-wrtOYPdbGE
+Z-Transform | Example Based on Z- Transform
+nnpfYF_-T7g
+Properties of Z- Transform | Change of Scale | Shifting Properties
+7-zAtsDhfxw
+Inverse Z-Transform | Inverse Z-Transform Using Partial Fraction | Problems and Example
+AbzItvOCa3Y
+Z-Transform | Inverse  Z-Transform Convolution Method | Examples
+Gr8OwFx3sqA
+Normal Distribution | Moment Generating Function | Mean & Variance By MGF
+Hdhnq9Oyryc
+Uniform Distribution | Rectangular Distribution | Mean & Variance | Moment Generating Function
+mYFygtQrDxc
+Bessel's Function | Recurrence Relation of Bessel's Function | Proofs
+zVbcglXP1NE
+Bessel's Function | Recurrence Relation of Bessel's Function | Part-II
+DERYR2M0JSA
+Bessel's Function | Important Example Problem of Bessel's Function
+VDD8Et_B_ck
+Bessel's Function | Orthogonal Property of Bessel Function | Proof
+SPdf2n0YJXk
+Legendre Polynomial | Rodrigues Formula | Proof of Rodrigues Formula
+fNYyJE4FEzc
+Legendre Polynomials | Generating Function of Legendre Polynomial
+cIymUA0hu4s
+Legendre Polynomials | Recurrence Relation Of Legendre Polynomials
+pUjt-D9Nh_Q
+Legendre Polynomial | Orthogonal Properties of Legendre Polynomial
+RDU7FTqgx7s
+Partial Differential Equation | Homogeneous  PDE | CF & PI | Part -I
+EYK4jmDzrOU
+Partial Differential Equation | Homogeneous PDE | CF & PI | Part-II
+HNiKIE0uCQQ
+Partial Differential Equation | Homogeneous PDE | CF & PI | Part-III
+KkbqxD4Ht1I
+Partial Differential Equation | Homogeneous PDE | CF & PI | Part-IV
+DOdG_VeXo0A
+Partial Differential Equation | General Method To Find PI | Part-V
+5ToxeGoXc3o
+Partial Differential Equation | Non Homogeneous PDE | Rules of CF & PI
+a8gsVtiZFnI
+Partial Differential Equation | Non Homogeneous PDE  | Rules of  PI
+NgpKdAV6i-g
+Mathematics | Youtube Channel | Playlist Overview | Dr.Gajendra Purohit
+8Y1Oo6gMVMg
+Unacademy | Crash Course On Mathematics | CSIR -NET | Unacademy Plus
+om3ZVKZCrww
+Correlation Coefficient | Correlation Coefficient Example | Statistics
+lBB4stn3exM
+Rank Correlation | Rank Correlation Coefficient | Spearman Rank Correlation
+0WejW9MiTGg
+Rank Correlation | Repeated Rank Correlation | Spearman Rank Correlation
+G0H340p97YE
+Regression Analysis, Regression Coefficient, Linear Regression Part-I
+QAEZOhE13Wg
+Regression Analysis, Regression Coefficient, Linear Regression Part-II
+ddYNq1TxtM0
+Regression Analysis, Angle Between Two Regression Lines, Proof
+YciBHHeswBM
+Joint Probability Distribution , Joint PMF, Marginal PMF, Bivariate RV
+L0zWnBrjhng
+CSIR NET, What Is CSIR NET EXAM, Important Topics & Tips By GP Sir
+MYmphNmlXKY
+Joint Probability Distribution , Joint PMF, Marginal PMF, Statistical Independence
+C8DLKwVRQeE
+Eigen Values & Eigen Vectors , Short Tricks For IIT-JAM, GATE &  NET
+8KhJDsCdfpg
+Diagonolization of Matrices Short Tricks For  IIT-JAM, GATE & CSIR NET
+8DgjVfVhhpw
+Rank Of Matrix, Concepts & PYQs Of IIT-JAM, GATE & CSIR NET Live BY GP
+P6pu9xjBn3k
+System Of Linear Equations Matrices, MCQs for IIT-JAM, GATE & CSIR NET
+Es65dcYrwGo
+Linear Algebra Previous Year Top 10 MCQs  of  IIT-JAM, GATE & CSIR NET
+aTkDSXkJcvM
+Bisection Method | Numerical Methods | Solution of Algebraic & Transcendental Equation
+3j0c_FhOt5U
+TARGET CSIR NET- 2020 | CSIR NET Maths | Complete Course  | Unacademy
+uTYFBXSwmFQ
+Regula Falsi Method | False Position Method | Numerical Methods
+FliKUWUVrEI
+Iteration Method | Fixed Point Iteration Method | Numerical Methods
+yahnkyvVF20
+Secant Method | Chord Method | Numerical Methods , Formula & Examples
+Eud16189QRA
+Newton Raphson Method | Numerical Methods | Formula & Example
+7eHuQXMCOvA
+Gauss Elimination Method | Numerical Methods | solution of Linear Equations
+Gkit1hUTsX8
+Career Option After 12th Science | Career Counseling | B.Sc. & B.Tech. Students
+qzqwzXovBBU
+Gauss Jordan Method | Numerical Methods | solution of Linear Equations
+oPkTasoJngA
+LU Decomposition Method | Numerical Methods | Solution of Linear Equation
+dwu2A3-lTGU
+Jacobi method | Iterative method | Solution of Linear System Equation
+jPv5pP1kOco
+CSIR NET Mathematics | Unacademy | CSIR NET Dec.19 | Gajendra Purohit
+Igy5YIy3Ils
+Gauss Seidel Method | Iterative Method | Numerical Methods | Problems
+gxy6VI1hEfs
+Benefits Of Online Course | CSIR-NET Mathematics | Unacademy | GP Sir
+InTANbKvN4s
+Arc Length | Arc Length Formula | Rectification | Integral Calculus Part-I
+n4JJ3fNKHUc
+How To Crack CSIR NET Exam 2019  | Unacademy | Motivational | GP Sir
+WRiJ_JdXkk4
+Arc Length | Arc Length Formula | Rectification | Integral Calculus Part-II
+qwJYHoalErk
+Arc Length | Arc Length of Polar Curve | Cardioid | Integral Calculus
+LDPGDtxezWs
+Theory of Equation | Roots Of Equation | Theorems with Examples
+5nNPf_EB7Es
+Synthetic Division | Theory of Equation | Roots Of Equation | Examples
+F8qm64q02qk
+Theory of Equation | Relation Between Roots & Coefficients | Examples
+FAPShLAdkto
+Theory of Equation | Solution Of Cubic Equation | Roots are in A.P.
+8B6Aef975Qw
+Theory of Equation | Solution Of Cubic Equation | Roots are in G.P.
+eH6qeYpMBTo
+Theory of Equation | Solution Of Cubic Equation | Roots are in HP
+1M8ArcfnTcc
+Theory of Equation | Transformation Of Equation  | Roots With Sign Change
+NdvI67GKf-s
+Theory of Equation | Transformation Of Equation  | Roots Multiplied By K
+Sz8_ZA7nQAo
+Theory of Equation | Transformation Of Equation  | Reciprocal Of Roots
+LMG8SUx8TaY
+Theory of Equation | Solution Of Reciprocal Equation  | Roots Of Reciprocal
+dppJ_iHcZsQ
+Theory of Equation | Roots Diminished By h | Transformation Of Equation
+e7VxjaGlf8c
+Theory of Equation | Removal Of Terms  | Transformation Of Equation
+Vs--rcuVD-w
+Theory of Equation | Descarte's Rule Of Sign | Finding Sign Of Roots
+9EEDfNpSVhY
+Theory of Equation | Cardan Method | Solution Of Cubic Equation
+mxtCRZeJLCw
+Theory of Equation | Ferrari Method | Solution Of Bi-quadratic  Equation
+4tXrBALMZmI
+Skewness & Kurtosis | Moments | Leptokurtic, Mesokurtic, Platykurtic
+m9a6rg0tNSM

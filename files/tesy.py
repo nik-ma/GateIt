@@ -1,0 +1,2 @@
+subjects = [['PLs5_Rtf2P2r5YY5b23uDGrtpo42ezMmGp','\electricMachines'],['PLs5_Rtf2P2r6UILVryIBdKfRkp05vHPMy','\electricMachines'],['PLgzsL8klq6DLhLOLOgEHsH4Li7zJhw6HT','\AnalogE'],['PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS','\AnalogE'],['PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-','\Digital'],['PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm','\Digital'],['PLbRMhDVUMngcoKrA4sH-zvbNVSE6IpEio','\Measurement']]
+print(subjects[0][1])

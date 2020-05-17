@@ -1,0 +1,122 @@
+Lec 00 Introduction to Power System | Genique Education
+j44kQiphUB4
+Lec 01 Single Line Diagram & PU Concept
+pORkI4ERHoE
+Lec 02 Reactance Diagram
+qJ4x2jgNtb8
+Lec 03 Symmetrical Fault Analysis
+bT86pV0uMhg
+Lec 04 Thevenin Concept in Symmetrical Fault Analysis
+W4UJlhMYHGU
+Lec 05 Important Question Discussion on Symmetrical Fault Part I
+lpUKG1Old2Y
+Lec 06 Important Question Discussion on Symmetrical Fault  Part II
+kf7hEtT4SOI
+Lec 07 Important Question Discussion on Symmetrical Fault  Part III
+0g_QPceXVhY
+Lec 08 Fortescue Theorem
+m-KI9DTMPuQ
+Lec 09 Sequence Network of Three Phase Load
+uhZMF-0-NiA
+Lec 10 Sequence Network of Alternator
+6GooiiB8p7s
+Lec 11 Sequence Network of Transformer
+ykXgoDV7Rw4
+Lec 12 Line to Ground Fault | Unsymmetrical Fault
+9YjvJouIluY
+Lec 13 Line to Line Fault | Unsymmetrical Fault
+Z9SOB-YygTw
+Lec 14 Double Line to Ground Fault | Unsymmetrical Fault
+DRhoW56nt58
+Lec 15 How to Recall Full Fault Analysis in 30 Minutes
+G3M3Eo7bjxs
+Lec 16 Question Discussion on Unsymmetrical Faults
+2IhWQfWdEMo
+Lec 17 Question Discussion on Unsymmetrical Faults
+RbG_age7hRY
+Lec 18 Introduction to Stability
+_MYKtj0tXUA
+Lec 19 Swing Equation
+LX0xbvIWz7Q
+Lec 20 Steady State Stability Analysis
+AM075ZkoP9w
+Lec 21 Question Discussion on Steady State Stability
+JYZWxu-TGdU
+Lec 22 Question Discussion on Steady State Stability Contd
+hk0-dGV7Irg
+Lec 23 Introduction to Transient Stability Equal Area Criteria
+nS0E5NpLngk
+Lec 24 Transient Stability Analysis by Increasing Steam Input Suddenly
+QfiWkePJilI
+Lec 25 Critical Clearing Angle Considering Fault Near Bus
+Rlxe27D82W8
+Lec 26 Critical Clearing Angle Considering Fault in Middle of Parallel Transmission Line
+gni84Mw_x_k
+Lec 27 How to Recall Power System Stability
+BYh3UoaQkV8
+Lec 28 Question Discussion on Transient Stability
+BKpmLRQ8Oc8
+Lec 29 Question Discussion on Transient Stability
+4V8kCHe9Hs8
+Lec 30 Question Discussion on Transient Stability
+Dcj83ni_LO4
+Lec 31 GATE Question Discussion on Fault
+qVVrR_HIXnc
+Lec 32 Resistance Calculation | Transmission Line Parameter
+moU031Kpug0
+Lec 33 Inductance Calculation  Transmission Line Parameter
+P730r7_ovGY
+Lec 34 Bundeling of Conductor
+18fqNSnCIao
+Lec 35 Question Discussion on Inductance Calculation
+qngazdQmXBA
+Lec 36 Capacitance Calculation
+_Dc_2c9UDaw
+Lec 37 Short Transmission Line
+m7cPmscMKAk
+Lec 38 Approximate Voltage Regultaion of Short Line
+tKBm0OPSr1s
+Lec 39 Medium Transmission Line
+UTpNcra_2Zs
+Lec 40 Long Transmission Line
+HExijgcpfBI
+Lec 41 Question Discussion on Performance of Transmission Line
+lzlM459g0Jc
+Lec 42 Question Discussion on Performance of Transmission Line Continued
+sRbn36VIeAQ
+Lec 43 Power Flow Equations in Transmission Line
+qa6rPqmitFE
+Lec 44 Power Flow Continued
+UkjWoG5Dr1A
+Lec 45 Question Discussions on Power Flow Equations
+w4YF2M60Itc
+Lec 46 Voltage Control  Compensation Technique
+JLwJr3Lkvns
+Lec 47 Question Discussion on Compensation Technique
+ITRI1TmMg2k
+Lec 48 Power Factor Correction
+DYfyUAYDsCc
+Lec 49 Distribution System
+fx6T4NOQ0U0
+Lec 50 Introduction to Load Flow | Power System Analysis
+fOt6HZyIuME
+Lec 51 Question Discussion on Y BUS Matrix in Load Flow
+zE936wuZJ9s
+Lec 52 Bus Classification & Size of Jacobian Matrix | Crash Course Completed
+3qDjh1WCky4
+Amazing Concept of Reactive Power | Core Subject on Genique Education
+YZrV8bVrgSY
+READY FOR SUBJECTWISE PLAN WITH LOTS OF FEATURES | GENIQUE EDUCATION
+cmCj2w1yLuA
+CHAPTER 01 | POWER SYSTEM FINAL REVISION | GENIQUE EDUCATION
+aGUpcH7Jrw0
+CHAPTER 02 | MODELLING & SURGES IN TRANSMISSION LINE | POWER SYSTEM GATE 2020 | FINAL REVISION
+P-_AciDxsUE
+Chapter 03 SIL Power Flow & Voltage Control | POWER SYSTEM Final Revision | Genique Education
+ox3UER0SHM4
+Chapter 04 Fault Analysis Final Revision | Power System | Genique Education
+OnG4uOtKHB0
+CHAPTER 05 POWER SYSTEM STABILITY | FINAL REVISION | GENIQUE EDUCATION
+59Nmz6ZCeXA
+Chapter 06 Load Flow Analysis Revision | Power System | Genique Education
+l7fwBO7FFZw

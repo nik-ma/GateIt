@@ -1,0 +1,146 @@
+Lec 00 Introduction to Communication System | GATE 2019
+9BG61FZl4Og
+Voice Problem Will be Resolved soon!
+NuGMht4myJI
+Lec 01 I Basics of Communication systems I GATE
+HVHgusEhgkg
+Lec 02 I Need of Modulation I GATE I Communication System
+vDxKWFEdStI
+Lec 03 I Modulation Processes I Communication System I GATE
+DNxF0rNmN4A
+Lec 04 I Modulation Process I Part 2 I Communication System I GATE
+_95oGRk6mKE
+Lec 05 I Brief of Fourier Transform I Communication System I GATE
+jc2FNjKDCO4
+Lec 06 I Frequency shifting property I Communication system I GATE
+Zu9nQxx7muE
+Lecture 07 | Concept of Modulation & Demodulation I communication System I GATE
+GR9DOVtI_jI
+Lec 08 | Amplitude Modulation I Part 01 I Communication System I GATE
+wMyAgfd-mW4
+Lec 09 Amplitude Modulation Part 2 for GATE
+WkIvSx_C9A0
+Lec 10 Single Tone Modulation for GATE
+MO-culRjxy0
+Lec 11 Single Tone Modulation Contd.
+KEpLLxprqbc
+Lec 12 GATE Questions on AM
+Zs3Oo2dTyRc
+Lec 13 GATE Questions on Amplitude Modulation
+tBpwax0rPkI
+Lec 14 Multi Tone Modulation
+sm3CQm7n5nc
+Lec 15 GATE Question on Multi Tone AM
+7gwIT5LgKGA
+Lec 16 Generation of AM Signal
+V1vo75H3RbQ
+Lec 17 Demodulation
+WW8WZDfxHLQ
+Lec 18 Envelope Detector
+-PA-hk9OidY
+Lec 19 Synchronous Detector
+zV2oex_0PQ0
+Lec 20 DSB SC Modulation
+_S1tVyLaAqU
+Lec 21 Generation of DSBSC Modulation
+-ylS-PkBx1M
+Lec 22 SSB SC Modulation
+4d3XM12tYbA
+Lec 23 Demodulation of SSB
+B5ckoBBWciE
+Lec 24 Vestigial Side band Modulation
+z5RSCJ1Ba7A
+Lec 25 Angle Modulation
+CFdSXhtPPWQ
+Lec 26 Frequency Modulation (NBFM)
+b_424i0YHDE
+Lec 27 Frequency Modulation (WBFM)
+Z4f40PD-oKo
+Lec 28 Question Practice on WBFM/NBFM
+yl-v8IRla24
+Lec 29 Generation of WBFM
+n5Ug9rIESp8
+Lec 30 Demodulation of FM
+e7r9xKIzgE8
+Lec 31 Quick Revision of AM, FM and PM
+s0Y7yZmg5LI
+Lec 32 GATE QUESTION Practice AM, FM and PM
+2VpwwfDl_RI
+Lec 33 GATE question practice on AM,FM and PM
+ky9ZRl0M1hU
+Lec 34 AM Receivers (TRF Receiver)
+63pf3q0ApN8
+Lec 35 Superhytrodyne Receiver
+44435xnOcu8
+Lec 36 Gate Question on AM Receivers
+hSNEgBvT5RE
+Lec 37 Introduction of Noise
+l1hm986FjxE
+Lec 38 White Noise in Communication system
+Ze9ku_iXOXU
+Lec 39 SNR and FOM
+CLy7kMT2TI8
+Lec 40 FOM for PM and FM
+7JH4pRN5ynE
+Lec 41 Introduction of Digital Communication
+KKGDI2CixUo
+Lec 42 Quantization and Sampler in PCM
+ZAs2AFot4-w
+Lec 43 Gate question on nyquist rate and quantization power to noise ratio
+EbFZw-rm8RM
+Lec 44 Gate Questions on Quantization SNR
+ELMHoZxE4ZA
+Lec 45 GATE Questions on Sampling
+PSEPY3DrB2M
+Lec 46 Companding, Encoding and TDM
+b2fhcE65THE
+Lec 47 Time Division Multiplexing, PAM PWM and PPM
+XQvyl8tAKvI
+Lec 48 PAM PWM and PPM
+U1MMwABET2U
+Lec 49 Delta Modulator
+kxv7GqjEP30
+Lec 50 GATE Questions on DM PCM
+WRhN3QLegtw
+Lec 51 ASK PSK and FSK
+9QrD5kVVmUM
+Lec 52 Comparison of ASK PSK and FSK
+nBaQdlBzm80
+Lec 53 M ary Signalling
+M-HuZ1fNCzU
+Lec 54 GATE Question Discussion
+wXHH6BA6eeM
+Lec 55 Information Theory/Communication Concluded for 2019
+_OK6S2mJkeA
+Lec 01 One Dimensional Random Variable I Part 01 I Digital Communication I GD/PD Course I GATE
+onz-uQW5_F0
+Lec 02 One Dimensional Random Variable I Part 02 I Digital Communication I GD/PD Course I GATE
+NwWKjPyrcxM
+Lec 03 One Dimensional Random Variable I Part 03 I Digital Communication I GD/PD Course I GATE
+Y1fAmpISsc0
+Lec 04 One Dimensional Random Variable I Part 04 I Digital Communication I GD/PD Course I GATE
+K4Vo8iCbmMo
+Lec 05 One Dimensional Random Variable I Part 05 I Digital Communication I GD/PD Course I GATE
+6MfcJA6ImPo
+Lec 06 One Dimensional Random Variable I Part 06 I Digital Communication I GD/PD Course I GATE
+n7aer1U-bvM
+Lec 07 Two Dimensional Random Variable I Part 01 I Digital Communication I GD/PD Course I GATE
+KzIvmhiCNQY
+Lec 08 Two Dimensional Random Variable I Part 02 I Digital Communication I GD/PD Course I GATE
+pG541HeF79E
+Lec 09 Two Dimensional Random Variable I Part 03 I Digital Communication I GD/PD Course I GATE
+HJW4EcW6UQ0
+Lec 10 Two Dimensional Random Variable I Part 04 I Digital Communication I GD/PD Course I GATE
+U0H5okEYKDY
+Lec 11 Random Process I Part 01 I Digital Communication I GD/PD Course I GATE
+OCGxUY3VJVg
+Lec 12 Random Process I Part 02 I Digital Communication I GD/PD Course I GATE
+w-9qfPOmL1Q
+Lec 13 Random Process I Part 03 I Digital Communication I GD/PD Course I GATE
+ODJM0OthxpI
+Lec 14 Random Process I Part 04 I Digital Communication I GD/PD Course I GATE
+bHxH2o8r0tk
+Lec 15 Random Process I Part 05 I Digital Communication I GD/PD Course I GATE
+OAfTJTG9Puo
+Lec 16 Random Process I Part 06 I Digital Communication I GD/PD Course I GATE
+YVtnr1SpUSo

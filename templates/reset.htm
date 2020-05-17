@@ -1,0 +1,25 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color: salmon;">
+    
+    <form action="/reset/" method="POST">
+        {% csrf_token %}
+        {% if key  ==  'false' %}
+    <div style="width: 100%;height:100vh;  display: flex;flex-direction: column;align-items: center;justify-content: center;">
+<input type="email" placeholder="Enter your email" style="width: 20%;height: 5%;" id="email" name="email">
+<button >Send Otp</button>
+    </div>
+{% else %}
+<div  id="otps">
+    
+    
+        <div style="width: 100%;height:100vh;  display: flex;flex-direction: column;align-items: center;justify-content: center;">
+    <input type="number" placeholder="Enter Otp"  id="otpe" style="width: 20%;height: 5%;" name="otpe">
+    <button type="submit" formaction="/reset/validate/">Validate Otp</button>
+        </div>
+    </form>
+
+</div>
+{% endif %}
+</body>

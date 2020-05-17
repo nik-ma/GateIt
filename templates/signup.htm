@@ -129,11 +129,16 @@ body {
     <form id="signup-form" action="/signup/" method="POST">
         {% csrf_token %}
       <label for="name">Name</label><br>
-      <input type="text" name="name" placeholder="Name" required><br>
+      <input type="text" name="name" id="name" placeholder="Name" required><br>
       <label for="email">Email</label><br>
-      <input type="email" name="email" placeholder="Enter your email" required><br>
+      <input type="email" name="email" placeholder="Enter your email" id="email" required><br>
       <label for="password">Password</label><br>
-      <input type="password" name="name" placeholder="***********" required><br>
-      <button  >Submit</button>
+      <input type="password" name="password" id="password" placeholder="***********" required><br>
+      <label for="password1">Confirm Password</label><br>
+      <input type="password" name="password1" id="password1" placeholder="***********" required><br>
+      <button>Submit</button>
     </form>
+    {% for message in messages %}
+    <h1 style="color: red; margin-top:0px">{{message}}</h1>
+    {% endfor %}
   </section>

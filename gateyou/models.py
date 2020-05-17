@@ -4,5 +4,7 @@ from django.db import models
 class viewers(models.Model):
     name=models.CharField(max_length=100)
     email=models.EmailField()
-    password=models.IntegerField(default=1)
+    password=models.CharField(max_length=20)
+    
+
 

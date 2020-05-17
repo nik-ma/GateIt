@@ -1,0 +1,362 @@
+Theory of computation in Hindi | GATE Lectures | Introduction | TOC GATE lectures by Well Academy
+ZWUw6k4D-fo
+Basic Terminology in TOC | Theory of Computation in Hindi | TOC GATE lectures by Well Academy
+-CD4xmLwp-Y
+Theory of Computation in Hindi | Power of Alphabet in Automata in TOC | TOC GATE lectures
+8LhTeABfzFU
+Basic Operations on Strings | Strings in Theory of Computation in Hindi | TOC GATE lectures
+6_kVJyVkdE0
+Basics of formal Language in Theory of Computation in Hindi | TOC GATE lectures
+wELkLh-2qn4
+Types of Languages | Grammars | Automata | Theory of computation Lectures in HINDI | GATE Lectures
+1BCd7bxj9gM
+CHOMSKY HEIRARCHY in Theory of Computation in Hindi | Theory of computation Lectures in HINDI | GATE
+939221xuWWY
+Expressive power of Automata in Theory of Computation | DFA NFA DPDA NPDA PDA LBA HTM TM | TOC GATE
+h-tD5jJEomQ
+Theory of Computation Practice Questions with Solution | Theory of Computation gate lectures
+uIq-fOliYoY
+Theory of Computation Practice Questions with Solution | Part-2 | Theory of Computation gate lecture
+E-pxdJG57cE
+Theory of Computation in HINDI | SET | Countable and Uncountable Sets | TOC GATE lectures
+pXImLoIdo1Q
+Theory of Computation GATE Practice Questions | Theory of Computation gate lectures
+7ipPhiZ70kU
+Applications of Language and String in HINDI | Theory of Computation GATE Lectures in HINDI
+s3XBs_aXogA
+Finite Automata in Theory of Computation | DFA | Theory of Computation GATE Lectures
+TZfEqEHG2pM
+Finite Automata Example | String Start with | End with | Contains | Theory of Computation GATE
+3WHLC_UteRY
+Finite Automata Example | Length of String | Exact | At Most | At Least | Theory of Computation GATE
+p47dGnK_YQ4
+Theory of Computation GATE Example | Construct DFA String contain abb as SubString | TOC GATE
+zGWmvf3wkaY
+Theory of Computation Example | Construct DFA String Ends with abb | TOC GATE Lectures
+Y3ahZbgMGsM
+Theory of Computation Example | Construct DFA Start and End with same Symbol | TOC GATE Lectures
+3BaHvHoFSzc
+Theory of Computation Example | Construct DFA Starts and Ends with different Symbol |  | TOC GATE
+z9EOTbB17po
+Theory of Computation Example | Construct DFA Start and End with ab | Theory of Computation GATE
+PwwZB7OiLYg
+Theory of Computation Example | Construct DFA Starts aa or bb | Theory of Computation GATE
+WH_98781u9I
+Theory of Computation Example | Construct DFA Ends with aa or bb | Theory of Computation GATE
+tPy8gtqwZ78
+Theory of Computation Example | Construct FA that accepts all the Strings of a and b | TOC GATE
+-jlZL7wXmyg
+Theory of Computation | Construct FA accepts all the strings second symbol from right side is a
+tjrmo7n6aLI
+Theory of Computation | Construct FA accepts all the strings Third symbol from right side is 'a'
+KGgRjAJJGDM
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's
+T8_jXKQD0Rw
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's | TOC GATE
+E8muYKLVXBU
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's | Mode Example
+VpDAzXiXuEs
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's | TOC Gate
+oDcCirtMsVE
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's | Divisible by 3
+6EwMmIxkFGk
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's | TOC GATE
+A-81J8elIFM
+Theory of Computation Example | Construct FA accepts all the strings of 0's and 1's | TOC GATE
+A-81J8elIFM
+Theory of Computation Example | IMP Example | Construct FA accepts all the strings of 0's and 1's
+j65mlAnuQmg
+Theory of Computation DFA Example(20) | Integer equivalent of binary number divisible by 4
+9uhVL1DkV9I
+Theory of Computation DFA Example(21) | Integer equivalent of binary number divisible by 8 | TOC
+fbeZ9p-JPws
+Theory of Computation DFA Example(22) | Direct Calculation of number of state | TOC GATE
+Anpg_9CobZM
+Theory of Computation DFA Example(23) | Integer Number divisible by 6 | TOC GATE Lectures
+DU1WYbJ4wsQ
+Theory of Computation DFA Example(24) | Base-8 Number divisible by 6 | TOC GATE Example
+0mw4iaN8w5A
+Theory of Computation DFA Example(24) | Calculate Number of Strings accepted by DFA | TOC GATE
+5Q4tBQVhy6M
+Theory of Computation DFA Example(26) | Calculation of Number of Strings accepted by DFA | Part-2
+0h1CqHshH2M
+Theory of Computation DFA Example(27) | Construction of DFA with condition and Pattern | TOC GATE
+IQAMuoahBxw
+Theory of Computation DFA Example(28) | Important Problem for GATE | TOC GATE Example
+18wDKDvuD1Y
+Theory of Computation DFA Example(29) | Compound DFA Example | TOC GATE Example
+EkHliet3oHc
+Theory of Computation DFA Example(30) | Compound DFA Example | TOC GATE Example
+Py2VV9QxrT0
+Theory of Computation DFA Example(31) | Compound DFA Example | TOC GATE Example
+fzgLupzI2TQ
+Theory of Computation DFA Example(32) | Complement of DFA Example | TOC GATE Lectures
+-JhTr_y0sTc
+Theory of Computation DFA Example(33) | Complement of DFA Example | TOC GATE Lectures
+KX7OfkPHNGk
+Minimization of DFA in HINDI | Minimization of DFA in TOC | Minimization of DFA Example
+wyQLY8GCKy0
+Minimization of DFA Example in HINDI | Minimization of DFA in TOC | Minimization of DFA Example
+3ox6BQWlIdA
+Minimization of DFA Example in HINDI | Minimization of DFA in TOC | Minimization of DFA IMP Example
+Yy_zNF3du4w
+Introduction about NFA | NFA in HINDI | Non Deterministic Finite Automata | TOC GATE Lectures
+l9wfU6rzG54
+Theory of Computation NFA Example(01) | NFA That Accepts all Strings | TOC Examples for GATE
+ZtI74mBmtI4
+Theory of Computation NFA Example(02) | NFA That Accepts all Strings | TOC Examples for GATE
+-oSSrtPzC_g
+Theory of Computation NFA Example(03) | NFA That Accepts all Strings | TOC Examples for GATE
+m0tVABbklMI
+NFA to DFA Conversion in HINDI | NFA to DFA Conversion Example | Theory of Computation GATE Lectures
+QsxLjEIfSAU
+NFA to DFA Conversion in HINDI | NFA to DFA Conversion Example(2) | Theory of Computation GATE
+gVUG5-g9mdI
+NFA to DFA Conversion in HINDI | NFA to DFA Conversion Example(3) | Theory of Computation GATE
+G3wP4xR1vVU
+Theory of Computation Example | NFA Practice Problem |  Theory of Computation GATE
+-nm1q6DtymI
+NFA to DFA Conversion in HINDI | NFA to DFA Conversion Example(4) | Theory of Computation GATE
+jxQ6rvVPTMs
+Theory of Computation Example | NFA Practice Problem(2) |  Theory of Computation GATE
+nz4K20AA-gs
+Epsilon NFA in hindi | Introduction to epsilon NFA | Theory of Computation GATE Lectures | TOC
+SmK9Ncn2TEA
+Epsilon Closure in TOC | Epsilon Closure Example | Theory of Computation GATE Lectures | TOC GATE
+VGvyNCTU1nM
+Conversion of Epsilon NFA to NFA in HINDI | Example (1) | Theory of Computation GATE | TOC GATE
+4QDyoHcF-4I
+Conversion of Epsilon NFA to NFA in HINDI | Example (2) | Theory of Computation GATE | TOC GATE
+qp34K219n54
+Epsilon NFA to DFA Conversion  in HINDI | Example (1) | Theory of Computation GATE | TOC GATE
+LsQscdnYQl8
+Epsilon NFA to DFA Conversion in HINDI | Example (2) | Theory of Computation GATE | TOC GATE
+WutjxQhPcX0
+Introduction to Theory of Computation
+58N2N7zJGrQ
+Finite State Machine (Prerequisites)
+TpIBUeyOuv8
+Finite State Machine (Finite Automata)
+Qa6csfkK7_I
+Deterministic Finite Automata (Example 1)
+40i4PKpM0cI
+Deterministic Finite Automata (Example 2)
+2KindKcLjos
+Deterministic Finite Automata (Example 3)
+_2cKtLkdwnc
+Deterministic Finite Automata (Example 4)
+Fpmr1nHqYrw
+Regular Languages
+WrzaPNj9OZ4
+Operations on Regular Languages
+6aRJQNYYz4s
+Non-Deterministic Finite Automata
+ehy0jGIYRtE
+Formal Definition of Non-Deterministic Finite Automata (NFA)
+egXhe55dAIk
+Non-Deterministic Finite Automata (Solved Example 1)
+4bjqVsoy6bA
+Non-Deterministic Finite Automata (Solved Example 2)
+Bcen1W_uFEU
+Non-Deterministic Finite Automata (Solved Example 3)
+NGF-b3QVeJU
+Conversion of NFA to DFA
+--CSVsFIDng
+Conversion of NFA to DFA (Example 1)
+pnyXgIXpKnc
+Conversion of NFA to DFA (Example 2)
+i-fk9o46oVY
+Conversion of NFA to DFA (Example 3)
+dY1bCC6syLI
+Conversion of NFA to DFA (Example 4)
+Y92dtMnarAU
+Minimization of Deterministic Finite Automata (DFA)
+hOzc4BUIXRk
+Minimization of DFA (Example 1)
+0XaGAkY09Wc
+Minimization of DFA (Example 2)
+ex9sPLq5CRg
+Minimization of DFA (With Multiple Final States)
+DV8cZp-2VmM
+Minimization of DFA (With Unreachable States)
+kYMqDgB2GbU
+Myhill Nerode Theorem - Table Filling Method
+UiXkJUTkp44
+Myhill Nerode Theorem - Table Filling Method (Example)
+Dx2RJ2DXRYs
+Finite Automata With Outputs
+EzMWYmRkHFQ
+Construction of Mealy Machine
+LioitkXDfmA
+Construction of Mealy Machine (Example 1)
+s-Ul9dIS9AE
+Construction of Mealy Machine (Example 2)
+fkdufhcBraw
+Construction of Moore Machine
+MFnRF07SoFo
+Construction of Moore Machine (Example 1)
+BQPSt8dRX1Q
+Construction of Moore Machine (Example 2)
+UKTzwXSJiIk
+Conversion of Moore Machine to Mealy Machine
+HEVWx4irOx4
+Conversion of Moore Machine to Mealy Machine (Example 1)
+lqvVtBdazvg
+Conversion of Moore Machine to Mealy Machine (Example 2)
+GHStZkC080k
+Conversion of Mealy Machine to Moore Machine
+-etILQcfgTg
+Conversion of Mealy Machine to Moore Machine (Example 1)
+rkgbhngdJ5Y
+Conversion of Mealy Machine to Moore Machine (Example 2)
+t48LqMDqNrA
+Conversion of Mealy Machine to Moore Machine (Using Transition Table)
+j8IkqBJNMwA
+Epsilon NFA
+84oNUttWlN4
+Conversion of Epsilon NFA to NFA
+WSGcmaHNBFM
+Conversion of Epsilon NFA to NFA - Examples (Part 1)
+I6GFKekMr7s
+Conversion of Epsilon NFA to NFA - Examples (Part 2)
+Jz4YQ09nOxA
+Regular Expression
+upu_TeZImN0
+Regular Expression - Examples
+paOPoZyjzdg
+Identities of Regular Expression
+yp4pYgXfYD8
+Arden’s Theorem
+Idl_0mPzZjE
+An Example Proof using Identities of Regular Expressions
+TkqcPh0BFUw
+Designing Regular Expressions
+FOhEmW_nMRs
+NFA to Regular Expression Conversion
+OKFrju0HB7k
+DFA to Regular Expression Conversion
+SmT1DXLl3f4
+DFA to Regular Expression Conversion (when the DFA has Multiple Final States)
+fRVljh8y7Qw
+Conversion of Regular Expression to Finite Automata
+RxfXyvfTsgQ
+Conversion of Regular Expression to Finite Automata - Examples (Part 1)
+62JAy4oH6lU
+Conversion of Regular Expression to Finite Automata - Examples (Part 2)
+RsSQPwUIR8U
+Conversion of Regular Expression to Finite Automata - Examples (Part 3)
+zSHS_7omxRY
+Equivalence of Two Finite Automata
+nX4JrcHgpZY
+Equivalence of Two Finite Automata (Example)
+5Jg3KqRQTvM
+Pumping Lemma (For Regular Languages)
+dikEDuepOtI
+Pumping Lemma (For Regular Languages) | Example 1
+Ty9tpikilAo
+Pumping Lemma (For Regular Languages) | Example 2
+kZzH8E-s-9o
+Regular Grammar
+WgEsPTAL55Q
+Derivations from a Grammar
+ejXgLRSIxsA
+Context Free Grammar & Context Free Language
+5_tfVe7ED3g
+Regular Languages & Finite Automata (Solved Problem 1)
+_dfj__KOo8U
+Regular Languages & Finite Automata (Solved Problem 2)
+efKSarb5oxM
+Regular Languages & Finite Automata (Solved Problem 3)
+rtAy-CDYJeo
+Regular Languages & Finite Automata (Solved Problem 4)
+XIHctzKa6P4
+Regular Languages & Finite Automata (Solved Problem 5)
+gLSLHDYsE38
+Regular Languages & Finite Automata (Solved Problem 6)
+x7jO9Dai6Go
+Method to find whether a string belong to a Grammar or not
+htoFbcwES28
+Derivation Tree (Left & Right Derivation Trees)
+u4-rpIlV9NI
+Ambiguous Grammar
+wQjppolFdas
+Simplification of CFG (Reduction of CFG)
+EF09zxzpVbk
+Simplification of CFG (Removal of Unit Productions)
+B2o75KpzfU4
+Simplification of CFG (Removal of Null Productions)
+mlXYQ8ug2v4
+Chomsky Normal Form & CFG to CNF Conversion
+Mh-UQVmAxnw
+Conversion of CFG to Chomsky Normal Form
+FNPSlnj3Vt0
+Greibach Normal Form & CFG to GNF Conversion
+ZCbJan6CGNM
+CFG to GNF Conversion (Removal of Left Recursion)
+rauqqM0nfuI
+Pumping Lemma (For Context Free Languages)
+jRhqx1_KcCk
+Pumping Lemma (For Context Free Languages) - Examples (Part 1)
+eQ0XkUk3qGk
+Pumping Lemma (For Context Free Languages) - Examples (Part 2)
+DPs8sBcIjs8
+Pushdown Automata (Introduction)
+4ejIAmp_Atw
+Pushdown Automata (Formal Definition)
+JtRyd7Svlew
+Pushdown Automata (Graphical Notation)
+eY7fwj5jvC4
+Pushdown Automata Example (Even Palindrome) PART-1
+TEQcJybMMFU
+Pushdown Automata Example (Even Palindrome) PART-2
+BxA-aI2dyRo
+Pushdown Automata Example (Even Palindrome) PART-3
+xHj2WI1Rrl4
+Equivalence of CFG and PDA (Part 1)
+FjGrU7vczyg
+Equivalence of CFG and PDA (Part 2a)
+kyvLetfjOhc
+Equivalence of CFG and PDA (Part 2b)
+DjbukiTf-48
+Turing Machine - Introduction (Part 1)
+PvLaPKPzq2I
+Turing Machine - Introduction (Part 2)
+GPSk9tRsK2I
+Turing Machine (Formal Definition)
+yFEdBR-rP9g
+Turing Machine (Example 1)
+D9eF_B8URnw
+Turing Machine (Example 2)
+cR4Re0YfoOo
+The Church-Turing Thesis
+0D7yInuKvKs
+Turing Machine for Even Palindromes
+KW9md3j4_cU
+Turing Machine Programming Techniques (Part 1)
+BKhQJP4sa_8
+Turing Machine Programming Techniques (Part 2)
+23vQEJWXc-k
+Turing Machine Programming Techniques (Part 3)
+CyB3aQhH9u4
+Multitape Turing Machine
+CLLutxGVDY4
+Nondeterministic Turing Machine (Part 1)
+gQnPM6sydkk
+Nondeterministic Turing Machine (Part 2)
+9Bk11XgiC1E
+Turing Machine as Problem Solvers
+f_1GptvagSw
+Decidability and Undecidability
+JfX7VK7ocRU
+Universal Turing Machine
+eKCX-4_jzck
+The Halting Problem
+6XZvw9W9QSc
+Undecidability of the Halting Problem
+_eM0-KfAmhQ
+The Post Correspondence Problem
+VZNN1OGoqr8
+Undecidability of the Post Correspondence Problem
+7w9elZjJ9Ko
+TOC – Conclusion and Summary
+BBuBv3P2aSs

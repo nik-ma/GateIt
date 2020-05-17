@@ -1,0 +1,422 @@
+Introduction to Thermodynamics
+CiXDXpw9HyM
+Thermodynamic System
+s72u-N-4FNE
+Thermodynamic Surroundings
+wcRthycM6kg
+Macroscopic & Microscopic point of view
+eeu6OVNtjkc
+Property of a System
+EEWU6TdyOCE
+State of a System Process Cycle
+XWSMgqmliEs
+Path and Point Function
+9CjPDXujjBY
+Quasi Static Process
+W-SGenm9PZc
+Zeroth Law Introduction
+u7odAbrUYHw
+Liquid in Glass Thermometer
+6SbmWQORc0Q
+Constant Volume Gas Thermometer
+UMkGwzrsYs0
+Thermo Couple
+7Sjn_QGduUs
+Work & Heat Transfer
+1qI7Ys1Of6o
+Displacement Work
+l0USlOHJJDE
+Displacement Work Example
+ky6Wqu2cgNA
+First Law of Thermodynamics
+C6VVk7Imosw
+First Law of Thermodynamics - Isobaric Process
+MKm04FOwz38
+First Law of Thermodynamics - Isochoric Process
+p-ddTAlb_oE
+First Law of Thermodynamics - Isothermal Process
+Nw_VJMTUU0o
+First Law of Thermodynamics - Adiabatic Process
+8p6WwZ1OpFQ
+First Law of Thermodynamics Example 1
+-PBZpHSo3JE
+First Law of Thermodynamics Example 2
+XoS-cRt3bDE
+Flow Process in Flow Work
+kCG0WaW01-k
+Energy Balance in Study Flow Process
+EaHpii3VZBg
+SFEE Application on Nozzles and Diffuser
+tgi1l2tYxv4
+SFEE Application on Steam and Gas Turbine
+3RK_QFHC00Q
+SFEE Application on Compressor
+Ny_yuf5QsZY
+SFEE Application on Throttling Device
+mQyosSpCcKw
+SFEE Numerical Example 1
+_clLvHDuMkU
+SFEE Numerical Example 2
+vHG3JUo68uc
+Transient Flow Process
+HrZ_x_FR2vk
+Transient Flow Process Example
+AGJF3aq-Wfg
+Second Law Thermodynamics
+D9KvIT47csY
+Heat Engine
+tyr6vNII3Bk
+Heat Pump & Refrigerator
+uEErWdtkRUM
+Heat Engine Numerical Example
+ugMtu1MdTjM
+Second Law Thermodynamics - Carnot Cycle
+77EIce2Nu8Y
+Efficiency of Carnot Cycle
+zD2XDeBu8sI
+Refrigerator Numerical Example 1
+Pabf5BbL64I
+Refrigerator Numerical Example 2
+sLbdBbWQnu0
+Kelvin Planck and Clausius statement
+kNNwrp7tHPU
+Introduction of Entropy
+KOEJ4UvlnAc
+Two Reversible Adiabatics cannot intersect
+UGPQeW5knEM
+Clausius Theorem
+tJAH_cgXc3Q
+Clausius Inequality
+0Cn--CqXals
+Entropy as a System Property
+vRuSgtNb-lE
+Change of Entropy in Reversible Process
+aMfEfOma0z4
+Increase of Entropy Principle
+BbcJZmwzpcw
+Clausius Inequality Example 1
+FWmliLAY9zY
+Clausius Inequality Example 2
+BEsyPJaLpEA
+Entropy Balance
+oFiUm1TG0Kg
+Entropy Numerical Example 1
+KwDCrA4kfOk
+Entropy Numerical Example 2
+M1Fg70tEVGk
+Entropy Numerical Example 3
+VNMRfj1D-eg
+Availability & Available Energy
+WYgVDEgz1_c
+Available Energy
+a-wBkU9tkg8
+Useful Work
+UvqMkQSq4Xg
+Availability of Energy Entering a System
+iMSES77icZc
+Availability of a System
+sVhDK2EQkV8
+Availability of a Closed System & Steady Flow System
+H4FO5NMyuSw
+Second Law Efficiency
+e8w1W8U_YD4
+Availability Numerical Example 1
+0SWDp_PlIW8
+Availability Numerical Example 2
+m9ORAjxOZ7E
+Helmholtz Gibbs Function Gibbsian Equation
+9VmLBDfFMEU
+Maxwells relations
+S1ZIQkNhz5Q
+Volumetric Expansivity Isothermal Compressibility and Isentropic Compressibility
+wEiBHsqxrEM
+Change in Internal Energy
+jH3v1vhMhV4
+Change in Enthalpy
+yvWvgeOXrVY
+Clausius Clapeyron Equation
+Tqh6sl5YMoU
+Introduction of Pure Substances
+LUQyX22CjxY
+Phases of Pure Substances
+wzUxIQ-f5Fs
+Phase Change Phenomena of Pure Substances
+Ef5IzdpLmio
+Saturation Temperature & Saturation Pressure
+68fqHdk7iCI
+Pure Substances - T V Diagram
+0srmqfcO4HI
+Pure Substances - P T Diagram
+k7njkTRQOuU
+Pure Substances - P V Diagram
+cXcF8Z1zD7M
+Critical Point & Triple Point
+50-qMlkTpW0
+Temperature Entropy Diagram
+1IPT7fLvka0
+Enthalpy Entropy Diagram
+y7DOZKn4LJE
+Stirling Cycle
+zUWPsFtR7wE
+Ericsson Cycle
+DdFEiEPeWiw
+Otto Cycle
+57gwEkbexQA
+Diesel Cycle
+Op1b1j0ViJg
+Otto Cycle Numerical Example
+CNwZFiYq0NQ
+Diesel cycle Numerical Example
+EDq0T4Cd8yY
+Brayton Cycle
+17-2uYI76k4
+Brayton Cycle Numerical Example
+kB3JJK_2f60
+Introduction to Vapour Power Cycle
+96QDuDqOjzE
+Carnot Vapour Power Cycle
+3n1oeoJQhE8
+Rankine Cycle
+g6AI5ahi7OY
+Reheat Cycle
+5pub7egimeA
+Reheat Factor
+_0w7UwHxKhA
+Regenerative Cycle
+wE_HRezMXuY
+Internal Combustion Engines
+J-vDDbFJVuw
+Components of an IC Engine
+W01aN-S8AXg
+Air fuel Mixture
+h5Ug-U-Rsts
+Performance of IC Engine
+KtKmsj1U1XY
+Indicated Power Brake Power Friction Power
+2bGMUFdMA1A
+Fuel Consumption
+LmttdF6vi70
+Air Consumption
+oizDyOJQu4g
+Efficiency of IC Engine
+6mhVjk_aj6c
+IC Engine Numerical Example 1
+bFDUpSOkmPo
+Reciprocating Air Compressor Introduction
+VO0IVe9ZHY0
+Important Terms of Reciprocating Air Compressor
+ID2C8PtbA20
+Construction of Reciprocating Air Compressor
+FUioPxrT_Hs
+Indicated Work for a Single Acting Compressor
+g4idagtBDiA
+Mean Effective Pressure
+AoZoXb4i8EE
+Reciprocating Air Compressor Example
+tF6-KgyhFVA
+Introduction to Rotary Compressors
+NwhBLeWsXkA
+Roots Blower
+CqWHWb19xrU
+Roots Blower Example
+jzG6ILvy5gU
+Vane Type Compressor
+UmyxXP6a65c
+Vane Type Compressor Example
+pNooQ7NVwJM
+Construction of Centrifugal Compressor
+cjmDWKwNiG4
+Velocity Diagram
+u8Q8-quiNNw
+Degree of Reaction
+eaJ1sSBwVps
+Losses in Centrifugal Compressor
+UehTlp0RjVY
+Centrifugal Compressor Example 1
+7SoDlf-q12U
+Centrifugal Compressor Example 2
+tF17OWW4_o4
+Centrifugal Compressor Example 3
+WzSInbFBUEA
+What is Turbine?
+JTNRXEt2TS8
+Energy Transfer in Axial Flow Turbine
+_PXPhxascZU
+Velocity Diagram for Axial Flow Turbines
+9Ayn8zLJibw
+Thermodynamics & Power Plant - GATE Exercise 1
+LUrH7waUC9s
+Thermodynamics & Power Plant - GATE Exercise 2
+aRngqmKwAho
+Thermodynamics & Power Plant - GATE Exercise 3
+3XkAr17jM04
+Thermodynamics & Power Plant - GATE Exercise 4
+h7OlZCbgOrU
+Thermodynamics & Power Plant - GATE Exercise 5
+dhtPHMEekiE
+Thermodynamics & Power Plant - GATE Exercise 6
+N8OMG9j5sqQ
+Thermodynamics & Power Plant - GATE Exercise 7
+cSlQkLu3aDE
+Thermodynamics & Power Plant - GATE Exercise 8
+vW5umeYe-fg
+Thermodynamics & Power Plant - GATE Exercise 9
+23ARm--iLBY
+Thermodynamics & Power Plant - GATE Exercise 10
+MzRDXZLbStk
+Thermodynamics & Power Plant - GATE Exercise 11
+m4xA9eElQ9k
+Thermodynamics & Power Plant - GATE Exercise 12
+0pXl-y0dajI
+Thermodynamics & Power Plant - GATE Exercise 13
+aj2-qD2H_-s
+Thermodynamics & Power Plant - GATE Exercise 14
+8qlBtgstTpQ
+Thermodynamics & Power Plant - GATE Exercise 15
+eGC2W183B1c
+Carnot Gas Power Cycle
+lbwAVMZh9Vk
+Tutorix Simply Easy Learning Steps
+1iJn6quPp50
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Introduction of Basic Thermodynamics  | PD Course & GD Course
+zPA_SkpO92Q
+Thermodynamics | Module 7 | Pure Substance | Part 4 | (Lecture 29)
+sYl0cQtYwp4
+Thermodynamics | Module 7 | Pure Substance | Part 3 | (Lecture 28)
+6WBhEvWHD_o
+Thermodynamics | Module 7 | Pure Substance | Part 2 | (Lecture 27)
+UHtGZA0PcWs
+Thermodynamics | Module 7 | Pure Substance | (Lecture 26)
+D28Mg5u3cW8
+Thermodynamics | Module 6 | Available Energy for Open and Closed System | (Lecture 25)
+p9sUtWjgbp0
+Thermodynamics | Module 6 | Available Energy I Part 3 (Lecture 24)
+JvG0xOzQGig
+Thermodynamics | Module 6 | Available Energy I Part 2 (Lecture 23)
+Cfx88lbMtmk
+Thermodynamics | Module 6 | Entropy Generation | (Lecture 22)
+r72T4-y4O5U
+Thermodynamics | Module 6 | Useful Work Part - 2 | (Lecture 21)
+y9iAgMCLkC0
+Thermodynamics | Module 6 | Useful Work Part - 1 | (Lecture 20)
+aKNkeICh_fg
+Thermodynamics | Module 6 | Available Energy I Part 1 (Lecture 19)
+K-_mrrUeAhU
+Thermodynamics | Module 6 | Available Energy I Part 1 (Lecture 19)
+K-_mrrUeAhU
+Thermodynamics | Module 5 | Entropy I Part 4 (Lecture 18)
+ePTc1mtBmcM
+Thermodynamics | Module 5 | Entropy I Part 3 (Lecture 17)
+6f5jF-GuErk
+Thermodynamics | Module 5 | Entropy I Part 2 (Lecture 16)
+47tQkVZVAaM
+Thermodynamics | Module 5 | Entropy I Part 1 (Lecture 15)
+XyQ9P4eKn6E
+Thermodynamics | Module 4 | Numericals on Unsteady Flow & Second Law of Thermodynamics (Lecture 14)
+xS5Bch55DbE
+Thermodynamics | Module 4 | Second Law of Thermodynamics (Lecture 13)
+Z1crLo7KyH8
+Thermodynamics | Module 3 | Unsteady Flow & Work Transfer for Open System (Lecture 12)
+AG594Afx4Uo
+Thermodynamics | Module 3 | Numericals on Steady Flow Energy Equation (Lecture 11)
+jlI12By7oh4
+Thermodynamics | Module 3 | Steady Flow Energy Equation | Part 2 (Lecture 10)
+nQW0eYK7UF0
+Thermodynamics | Module 3 | Steady Flow Energy Equation | Part 1 (Lecture 9)
+x0AubLeLKxU
+Thermodynamics | Module 3 | First Law of Thermodynamics | Part 2 (Lecture 8)
+Tcg6Y68dSpA
+Thermodynamics | Module 3 | First Law of Thermodynamics | Part 1 (Lecture 7)
+dQsaFCk_vLM
+Thermodynamics | Module 2 | Work and Heat Transfer | Part 4 (Lecture 6)
+Q9_BYI4ZQFQ
+Thermodynamics | Module 2 | Work and Heat Transfer | Part 3 (Lecture 5)
+MP5gbIOZGs8
+Thermodynamics | Module 2 | Work and Heat Transfer | Part 2 (Lecture 4)
+DZXaZ1wsHZY
+Thermodynamics | Module 1 | Thermodynamics System & Properties (Lecture 1)
+iUEjQQtrT50
+Thermodynamics | Module 1 | Laws of Thermodynamics  (Lecture 2)
+Q9BW6tgOXwU
+Thermodynamics | Module 2 | Work and Heat Transfer | Part 1 (Lecture 3)
+0fG3aNRsSaA
+Thermodynamics | Introduction to Thermodynamics
+08aJpz_ZiMg
+Thermodynamics Video Lectures | By : Venugopal Sharma Sir
+gG9mzVV9FYA
+Deleted video
+932uhkVcxmQ
+Deleted video
+QpWV1CxRWL4
+Deleted video
+8zQ3jdF-IOI
+Deleted video
+Xo9JG_BTp9A
+Deleted video
+pL5C6nIiuto
+Lec 01 Introduction to Thermodynamics | GATE Mechanical Engineering
+iwi9mbZ9BFQ
+Lec 02 Basics of Thermodynamics | Mechanical Engineering Crash Course
+1jA6RO6YDG4
+Lec 03 Basics of Thermodynamics Contd. | Mechanical Engineering GATE
+wZOLgHQHj2o
+Lec 04 Ideal Gas and its Properties | Thermodynamics
+fy3KTm4om-o
+Lec 05 I First Law of Thermodynamics I Part 01 I GATE 2020 I Mechanical
+RDXawvi4TdA
+Lec 06 I First Law of Thermodynamics I Part 02 I GATE 2020 I Mechanical
+IsbxMh2pwI4
+Lec 08 I Work Transfer In case of Open System PART-2 I GATE 2020 I MECHANICAL
+YatLGlqRk4I
+Lec 09 I Heat Transfer in Open and Closed system I GATE 2020 I Mechanical
+38aB65dMYwM
+Lec 10 I IMP Question Discussion on closed systems I GATE 2020 I Mechanical
+wq9dGsY-y9g
+Lec 11 I IMP Question Discussion on closed systems Part-II I GATE 2020 I Mechanical
+f-WqKMWkOqg
+Lec 12 I IMP Question Discussion on open systems I GATE 2020 I Mechanical
+I7PbwQIAUwc
+BE THE CHANGE I 4th OCT date final I DELHI I Protest Against M.TECH Fee Hike I GENIQUE is with You
+EP5gOZTOUNw
+Lec 13 Entropy | Thermodynamics |  GATE 2020 I Mechanical
+L40vzunTQUI
+Lec 14 Entropy Part 2 | Thermodynamics |  GATE 2020 I Mechanical
+IwdLau18GQg
+Lec 15 I Entropy Part 3 | Thermodynamics |  GATE 2020 I Mechanical
+CAvNILDBJWQ
+Lec 16Imp gate problem discussin on entropy concept I  GATE 2020 I Mechanical
+GFv423U3vHs
+Lec 17 Imp gate problem discussin on entropy concept I  GATE 2020 I Mechanical
+8itWKCy44BM
+Lec 18 Entropy Generation | Thermodynamics |  GATE 2020 I Mechanical
+0iPvJuXEZgY
+Lec 19 Concept Related with Heat Engine | Thermodynamics
+LLT5vjqKgu4
+Lec 20 I Imp GATE Question Discussion I  GATE 2020 I Mechanical
+YQlud1PI98k
+Lec 21 I Available Energy ( Part 01) | GATE Mechanical Engineering I  GATE 2020 I Mechanical
+CprtrXhhFnc
+Lec 22  Available Energy I Part 02 I GATE 2020 I Mechanical I  GATE 2020 I Mechanical
+kVoPCVJ_zHA
+Lec 23 Available Energy in case of Closed System I GATE 2020 I Mechanical
+i56rDMpMdj0
+Lec 24 I Available Energy in case of Open System  I GATE 2020 I Mechanical
+9uLCAVu6pAE
+Lec 25 I Refrigeration and Air-conditoning I GATE 2020 I Mechanical
+L-lCxQ1xJM4
+Lec 26 IGas Refrigeration System  (Reversed Brayton or Bell Coleman Cycle) I GATE 2020 I Mechanical
+zVZ9nvV9NGo
+Lec 27 I Gas Refrigeration System Part 02 I GATE 2020 I Mechanical Engineering
+VXcMMf3jPU4
+Lec 28 I Vapour Compression Refrigeration cycle I Thermodynamics IGATE 2020 I Mechanical Engineering
+nVavj50cO1A
+Lec 29 I Vapour Compression Refrigeration Cycle I Thermodynamics IGATE 2020 I Mechanical Engineering
+DN5Kco1s9w4
+Lec 30 I Vapour Compression Refrigeration Cycle I Thermodynamics IGATE 2020 I Mechanical Engineering
+qnirogisEB0

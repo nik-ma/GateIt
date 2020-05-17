@@ -1,0 +1,166 @@
+Lecture 1 | Introduction to Signals | Signals & Systems
+H-R_ZT0IPwY
+Lecture 2 | Standard Signals - Unit Step Signal | Signals & Systems
+-ISp35eMbsI
+Lecture 3 | Rectangular & Ramp Signal | Signals & Systems
+r2_v8eg5Auk
+Lecture 4 | Signum & Sinc Signals | Signals & Systems
+mbQgEvSzrBA
+Lecture 5 | Triangular & Exponential Signal | Signals & Systems
+9xWYH269V0g
+Lecture 6 | Continuous Time Impulse Signal | Signals & Systems
+8BsrtcCKFaU
+Lecture 7 | Standard Discrete Signals - Step, Impulse and Ramp | Signals & Systems
+yUNM_otNFyA
+Lecture 8 | Basic Operations on Signals | Signals & Systems
+FL8_lg6VsW0
+Lecture 9 | Even & Odd Signals | Signals & Systems
+E1gUcFlIVWU
+Lecture 10 | Concepts, Tricks & Questions on Periodic Signal | Signals & Systems
+DGqdozjfcUc
+Lecture 11 | Concepts, Tricks & Questions on Discrete Periodic Signal | Signals & Systems
+DNS4Km17SJk
+Lecture 12 | Energy & Power Signals | Signals & Systems
+ySNkam2h_Nc
+Lecture 13 | Part-18 | Signal & Systems | Electrical Engineering Questions & Solution GATE 2018
+q-1TOsLvHBc
+Lecture 14 | Concept & Question on RMS Value | Signals & Systems
+DUiFQWpXLH0
+Lecture 15 | Part 15 | Signal & Systems | Electrical Engineering Questions & Solution GATE 2018
+Cpwf2hULZ04
+Lecture 16 | Questions on Signals | Important GATE Questions | Signals and Systems
+xJoPnunrp0U
+Lecture 17 | Classification of Systems | Signals & Systems
+G0SnWTPzvuI
+Lecture 18 | Classification of Systems | Important GATE questions | Signals and Systems
+JkRYi65huNY
+Lecture 19 | GATE 2017 Solution | Set 1 | Electrical Engineering l Signals & Systems
+7GTKuJFrG5k
+Lecture 20 | Continuous Time Convolution | Important GATE Questions | Signals and Systems
+PjRK1kLryrI
+Lecture 21 | Discrete Time Convolution | Important GATE Questions | Signals and Systems
+ByK1tTjO-dc
+Lecture 22 | Properties of Laplace Transform | Signals & Systems
+FJ8G5CQ0YGI
+Lecture 23 | Questions on Laplace Transform | Important GATE Questions | Signals and Systems
+NkG7uahAE4g
+Lecture 24 | Laplace Transform | Important GATE Questions | Signals and Systems
+QkBxcPEDwqg
+Lecture 25 | Continuous Signal | Eigen Values & Functions | Signals & Systems
+8EwgY6ko_5M
+Lecture 26 | Fourier Transform (Rect & Sinc) | Signals & Systems
+XhffFKvs4xY
+Lecture 27 | Properties of Fourier Transform | Signals & Systems
+NlqCCRyoYNc
+Lecture 28 | Energy of Sinc | Conceptual Discussion | Signals & Systems
+DMwj5aT0Jwo
+Lecture 29 | Continuous Time Fourier Transform | Important GATE Questions | Signals and Systems
+Nt7Gqt5sVKA
+Lecture 30 | Behavior of LTI System with Sinusoidal Input | Signals & Systems
+uTPC2bOglLg
+Lecture 31 | Fourier Series | Important GATE Questions | Signals and Systems
+0bpwrk4Y-jY
+Lecture 32 | Z Transform | Important GATE Questions | Signals and Systems
+Wv7ebVHArd4
+Lecture 33 | DTFT and DFT | Important GATE Questions | Signals and Systems
+iLj7-nz0pS8
+Lecture 34 | Digital Filter for GATE | Part 1 | Signals & Systems
+O1-Rs1wX_uY
+Lecture 35 | Digital Filter for GATE | Part 2 | The Conclusion | Signals & Systems
+lTY1PdVAulo
+Tips to Remember Changes in ROC on applying LT Properties
+86HvihSHo-Y
+Effects of properties on ROC of Z Transform
+H0bS7xOmu3k
+Sampling | Signals & Systems | EE & IN | Part 1
+MTP0H8tMG84
+Sampling | Signals & Systems | EE & IN | Part 2
+PHA5tidXYCI
+Sampling | Signals & Systems | EE & IN | Part 3
+RKoNnXEhdjs
+(Part-18) Signal & Systems | Electronics Questions & Solution GATE 2018
+nQ9x7vIS2us
+Combat Solution of SIGNALS & SYSTEMS #9
+61dcw8U3Dh0
+Combat Solution of SIGNALS & SYSTEMS #4
+vXx13ikaOsQ
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #12
+hvKUn-klgsg
+Combat Solution of SIGNALS & SYSTEMS #8
+vyPQKKGVjds
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #11
+slxLyJryOJE
+Combat Solution of SIGNALS & SYSTEMS #7
+L6mSzvf9iBc
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #5
+PPkzibzdit8
+Combat Solution of SIGNALS & SYSTEMS #14
+Rc04nKQH8cE
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #14
+SFfsvtzQTtw
+Combat Solution of SIGNALS & SYSTEMS #13
+KQYxtGQq05I
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #10
+fGjkiEUJS9g
+Combat Solution of SIGNALS & SYSTEMS #2
+fx3OcyC9rQU
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #8
+MGXOWvoha00
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #4
+Rn6hUmPmSg8
+Combat Solution of SIGNALS & SYSTEMS #12
+I3h4rPRdCgs
+Combat Solution of SIGNALS & SYSTEMS #11
+Z5qi1K8GqeE
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #13
+PTEkSleOuo0
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #9
+7_MdDnnGIyY
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #1
+4JxZxZ1VPsE
+Combat Solution of SIGNALS & SYSTEMS #10
+eNib0hXTT0M
+Combat Solution of SIGNALS & SYSTEMS #1
+a9SjepUBMEo
+Combat Solution of SIGNALS & SYSTEMS #6
+ZO8FuQxMni4
+Combat Solution of SIGNALS & SYSTEMS #5
+iQR3h1c2UEA
+Combat Solution of SIGNALS & SYSTEMS #3
+fss-RJNCNkY
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #6
+bS9ED0SUzg8
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #3
+dgQD1Fb5H2s
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #7
+EtH-Yxj4p3E
+SIGNALS & SYSTEMS Combat ... for GATE 2019/20.  #2
+WeTIPzNsidg
+Checklist for GATE 2019 | Preparation Strategy for 2020-21 | Signals and Systems
+lSXZHHsgeLg
+Quick Revision of Signals and Systems ..
+Jf3smGx0yBc
+10 Challenging Questions of Signals & Systems | Part 1
+BAjnQFefl-U
+10 Challenging Questions of Signals & Systems | Part 2
+dn5FApRdasc
+10 Challenging Questions of Signals & Systems | Part 5
+465OsIK6fjU
+10 Challenging Questions of Signals & Systems | Part 4
+JGuPvvFnKyA
+10 Challenging Questions of Signals & Systems | Part 6
+SRXpJKPNlKU
+10 Challenging Questions of Signals & Systems | Part 7
+w7yPeHSWISM
+10 Challenging Questions of Signals & Systems | Part 8
+7GYyj_yHfZo
+10 Challenging Questions of Signals & Systems | Part 9
+0_VRl5xyFC0
+10 Challenging Questions of Signals & Systems | Part 10
+FFbbWFHhDv4
+Part - 2 | Important for GATE 2020 | Fourier Transform | For Self Studying Students
+7KcTK7pFjW8
+Discrete Time Fourier Series | Signals and Systems
+wHtXNU2F0wc
+Cross Correlation & Autocorrelation | Signals and Systems
+avtu3VTnHa0

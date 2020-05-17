@@ -1,0 +1,384 @@
+Introduction-Mechanisms
+0uQAPnaW5D4
+Kinematic Pairs
+oCXSVOBagXI
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Constrained Motion
+OQbrwBbWfqo
+Kinematic Chain
+8wuOfPxr-L8
+Degree Of Freedom
+QNtGWkkvnQs
+Grashof’s Law
+AmVXQONTSTE
+Numerical On Degree Of Freedom
+TIydWlVZk5Y
+Concept Of Relative Velocity
+CejhFaqxplA
+Relative Velocity Of Points On Same Link
+b0mUgC2CqVY
+Velocity Analysis Of 4 Bar Mechanism
+feAMEsyjptc
+Instantaneous Centre Method
+CvRecHOF7-o
+Types Of Instantaneous Centres
+heD1hCfEIbI
+Arnold-Kennedy Theorem
+YW_asjM_Qro
+Angular Velocities Of Link
+hU7li_8RjVI
+Total Acceleration Of A Link
+UW9rtNjvdnY
+Absolute Acceleration Of A Link
+oVAkiXBxpac
+Acceleration Analysis For A 4 Bar Chain
+fNu9QQftuTY
+Coriolis Acceleration
+YUDn8Ay4uSI
+Angular Velocity Radio Of A Flat Belt
+fA2O8X_v3NQ
+Effect Of Slip
+nc2sJz6SlX8
+Length Of Open Belt
+xRp0qXKX88s
+Length Of Cross Belt
+_sFoAR_kAmg
+Ratio Of Belt Tensions
+dgjGQnr8tjQ
+Centrifugal Tension
+SZ6u0EOyvbQ
+Condition for Maximum Power Transmission
+fahvtOB_w8k
+Problem 1 On Belts
+6VvN_9CbASk
+Problem 2 On Belts
+YBFC3K1T-RI
+Ratio Of Tension In V-Belts
+bwJ1pXA8EcA
+Problem On V-Belts
+g6ZKpLnuEcE
+Chain Drive
+D-zhgsbZy3c
+Problem On Chain Drive
+hl1OFfZC9q0
+Tutorix Simply Easy Learning Steps
+1iJn6quPp50
+Rope Drive
+3T_4dT1_WpM
+Problem 1 On Chain Drive
+SNhTXxo-e4M
+Types Of Cams And Followers
+-ld6DWnSpiQ
+Follower Motion-Simple Harmonic Motion (SHM)
+-Pi60Aw1JKY
+Follower Motion-Uniform Acceleration and Deceleration
+d4TFrYO_kvQ
+Follower Motion With Uniform Velocity
+SHKYdBtozoE
+Follower Motion Parabolic Motion
+kO3DGzJZQaw
+Cycloidal Motion
+y3sLRzR9qgs
+Problem 1 On Cams
+I-TV3oh4wSM
+Problem 2 On Cams
+zvPF04jF-GU
+Problem 3 On Cams
+VtZYRILNsZA
+Theory of Machines Types Of Gears
+qbbmQniDAec
+Gear Terminology
+8hkmFClpwPU
+Law Of Gearing
+t5MuEujPWqQ
+Tooth Profile
+Z4z27Nswrec
+Problem 1 On Gears
+cjMObtXj_lk
+Problem 2 On Gears
+seBthVbPHpM
+Gear And Gear Trains
+kpu59_TociE
+Minimum Number Of Teeth-Pinion
+PSuFhwpIlFo
+Problem 3 On Gears And Gear Trains
+APywgJ2pu8w
+Problem 4 On Gears And Gear Trains
+jiK-E_qP6Hw
+Only One Gear On Each Shaft(SImple Gear Train)
+4rAznqLtqbg
+Compound Gear Trains
+Q_toev7usPk
+Reverted Gear Train
+HGgZUBPLQmM
+Epicyclic Gear Train
+5GMuBZR8ZQg
+Tabular Method For Epicyclic Gear Trains
+vbY10grOSas
+Problem 1 On Gear Trains
+Ij4PE0R8P5M
+Problem 2 On Gear Trains
+hw5tzuOXpFc
+Problem 3 On Gear Trains
+f_6SI7q_UPc
+Types Of Governors
+LgEY56Vkhso
+Watt Governors
+OIKKq6EgzR4
+Porter Governor
+odwtQ19ewkk
+Proell Governor
+74EtKHNvhEQ
+Problem On Walt Governor
+GobROiZVoag
+Problem On Porter Governor
+f9xdFB6kvkI
+Problem On Proell Governor
+WCtAEf42dbs
+Sensitiveness Governor
+OKsoNohCbh4
+Stability Of A Governor
+2-0s36IDBB0
+Hartnell Governor
+ZuVRKGuFdz0
+Isochronism
+QsoVCbl2ems
+Problem On Hartnell Governors
+Tj_obQVplPM
+Balancing Of Single Rotating Mass
+VDNir2xO8bs
+Balancing Of Single Rotating Mass By Two Balancing Mass
+eVAI3nPGY3E
+Many Masses Rotating In the Same Plane
+xZ6y_1zwEdk
+Many Masses Rotating In Different Plane
+5IwxCr3PEZE
+Problem On Balancing
+dZPS0aJosBc
+Balancing Of Reciprocating Engine
+br54S01ixiA
+Partial Primary Balance
+p2jraiMA2Zo
+Processional Motion
+UfmKD0h79YE
+Gyroscopic Couple For A Plane Disc
+H75B313Cvsg
+Problem 1 On Gyroscopic Motion
+U1ykyZ64YXk
+Problem 2 On Gyroscopic Motion
+I-0NiqDRG3E
+Problem 3 On Gyroscopic Motion
+mWW-kw1ravU
+Gyroscopic Effects On An AeroPlane
+zGBqQJDKclM
+Gyroscopic Effects On a Four Wheel Vehicle
+AXvmcu2FmXI
+Numerical On Gyroscopic Effect On Four Wheel Vehicle
+lYX5olJN9r8
+Friction Introduction
+qPtpsARSZIs
+Force Analysis Of Body Resting On A Horizontal Plane
+XPoi2u6-RYM
+Body Resting On Inclined Plane With Inclined Force
+Kwh_-Pls708
+Body Resting On Inclined Plane With Horizontal Force
+aYufE99ygYA
+Efficiency On An Inclined Plane
+ma9dl7CBhak
+Theory of Machines Screw Jack
+lt1KrTKFKvY
+Efficiency Of Screw Jack
+QdT42_7sG90
+Self Locking And Over Hauling Screw
+MebdlbopEOU
+Screw With V- Threads
+Ocn2Zsb0nLs
+Problem On Screw Jack
+LKmAwgey9x8
+Problem On V-Threads
+je8S2OEv7Q0
+Flat Pivot Bearing - Uniform Pressure
+6gVpC-PgcZg
+Flat Pivot Beaming Uniform Wear
+aLy0LyNW05E
+Problem 1 On Flat Pivot Bearing
+U7cI8TEcH7U
+Problem 2 On Flat Pivot Bearing
+iE4kN6gR-kM
+Motion Analysis Of Reciprocating Mechanism
+camHjygUZ20
+Velocity Of Piston
+0Xmvqomcxxs
+Acceleration Of Piston
+JtDWmAerpDw
+Angular Velocity Of Connecting Rod
+2KXWc4Bi-0Y
+Angular Acceleartion Of Connecting Rod
+fdcFjvYITpc
+Problem On Inertia Force
+BR-MUJhJYuI
+Equilibrium Forces In Out Stroke
+EPClsNJvDUM
+Crank Effort
+3lXByZc1F3w
+Turning Moment Diagram For A 4 Stroke Cycle
+V03OXiD9fWg
+Determination Of Maximum Fluctuation Of Energy
+Gi2Y_YIvHgQ
+Coefficient Of Fluctuation Of Energy
+EenDKepZXKU
+Coefficient Of Fluctuation Of Speed
+hKYeh6EZJ2I
+Energy Stored In A Fly Wheel
+yFUuZNw3OXc
+Problem 1 On Fly Wheel
+LMnLcXk_ViY
+Problem 2 On Fly Wheel
+wM7NdDbtQjc
+Problem 3 On Fly Wheel
+XXm2AduK5s8
+Problem 4 On Fly Wheel
+raD16cQv9iY
+Single Block Or Shoe Brake
+7u6mOvs1hQ0
+Pivoted Shoe Brake
+pg7WtndqBdY
+Double Shoe Brake
+dJA5jSivMMo
+Simple Band Brake
+A30Avz6fuk0
+Differential Band Brake
+lf03T0qE4oU
+Braking Of A Vehicle
+_XtzaZPbeO8
+Problem 1 On Brakes
+o6ed_LyYZNA
+Problem 2 On Brakes
+dYAecoEXo2c
+Problem 3 On Brakes
+AEKkZB4odVY
+Single Plate Clutch
+a1KXTlNflB8
+Single Plate Clutch - Uniform Wear
+UJT1_uxXV0o
+Cone Clutch - Uniform Pressure
+vosEgTUUxj8
+Cone Clutch - Uniform Wear
+-SoQ_8Bxjzk
+Clutch example problem 1
+7s7Td-RcGzE
+Clutch example problem 2
+9gF361LGOVM
+Clutch example problem 3
+9Jt-n8n1JOw
+Elements Of A Vibratory System
+Tz4r5BSqC6M
+Types Of Vibration
+cmTbQ-P-DHo
+Important Terms Used In Vibratory System
+4zJRfIOuIl8
+Newton’s Method
+2BKrcMpkRKw
+Spring Combinations
+rBpKtIPcEis
+Torsional Vibrations
+ER5nVy4-q6s
+Free Damped Vibrations
+USa0VYAEzug
+Overdamped System
+qArJWDEPOPs
+Critically Damped System
+ZieU83IvnDE
+Under Damped Vibrations
+ammdBPtiVSk
+Logarithmic Decrement
+Zp9g0Xbv7G4
+Forced Damped Vibrations
+LbVL5O_bG9w
+Forced Vibrations Due to Rotational Unbalance
+rlTlGP3midA
+Mechanical vibrations example problem 1
+KiniyN_Zpmk
+Mechanical vibrations example problem 2
+TgMdKkEWWlM
+Mechanical vibrations example problem 3
+yBGkbNgt3eg
+Mechanical vibrations example problem 4
+kUg8SwBqOGA
+Mechanical vibrations example problem 5
+nnu6Sp157rg
+Theory of machines GATE example problem 1
+xPrHy9biez8
+Theory of machines GATE example problem 2
+jcFCWt7DsEg
+Theory of machines GATE example problem 3
+9BnFNy65xFA
+Theory of machines GATE example problem 4
+4jY0FieBteY
+Theory of machines GATE example problem 5
+siOA2r1-r1E
+Theory of machines GATE example problem 6
+4G0qtT0EjNU
+Theory of machines GATE example problem 7
+QwbQBGLvUaQ
+Theory of machines GATE example problem 8
+U0wyqh2S2F0
+Theory of machines GATE example problem 9
+RwKbs7I2YpU
+Theory of machines GATE example problem 10
+KYmuJl1xDc0
+Theory of machines GATE example problem 11
+oetcpOrpxBc
+Theory of machines GATE example problem 12
+La6NC_0QYs0
+Theory of machines GATE example problem 13
+Y_kncnGVa7M
+Theory of machines GATE example problem 14
+4MQ-31L4HlY
+Theory of machines GATE example problem 15
+DouNo2up4YM
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Mechanism
+RiF3rq9OL5o
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Mechanism (Part 2)
+teaxNaYcSQc
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Mechanism (Part-3)
+r0wcwSsdIMA
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Mechanism (Part-4)
+N5GEZ5DqJyY
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Mechanism (Part-5)
+JoTwXxNSoL0
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Mechanism (Part-6)
+gZrziyMUe9k
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Velocity Analysis
+HmHWMmNugFI
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Velocity Analysis
+lezEYqAiecU
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Velocity Analysis
+sJ2xZdFggLE
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Velocity Analysis
+BXz7gFUKoTg
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Gears
+OqLNhuNKISY
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Gears - 2
+zPt-MldOuhQ
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Gears - 3
+tWahvpZ9Gwk
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Gear Train
+QYvl-2n1nFw
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Gear Train #2
+8lGuBUGRZtk
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Gear Train #3
+h8HHA5UCS74
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | PYQs
+aBdwzly2BVc
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Flywheel
+N872brYceww
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Governor
+QgCLrhRraZU
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Vibration
+BB3mCKcHkpA
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Vibration
+3ncqW2-w-xE
+8 PM - GATE, IES, SSC JE, CIL, UPPSC 2020 | Mechanical Engg by Neeraj Sir | TOM | Vibration (Part-3)
+0m5Kj8YZttw

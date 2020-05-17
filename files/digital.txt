@@ -1,0 +1,496 @@
+What is Signal?
+M0mx8S05v60
+What is an Analog Signal?
+F5h3z8p9dPg
+What is Digital Signal?
+jRL9ag3riJY
+Need of Digital Signals
+izBaDRyqnBk
+Introduction to Digital Electronics
+2xXErGeeb_Q
+Switch and Bits Intuition
+RF9I6UzI4Rc
+Introduction to Boolean Algebra (Part 1)
+WW-NPtIzHwk
+Introduction to Boolean Algebra (Part 2)
+OjWmVCG8PLA
+Boolean Algebra Examples (Part 1)
+k04ksfLBuak
+Boolean Algebra Examples (Part 2)
+uPBYaCarXDM
+Redundancy Theorem (Boolean Algebra Trick)
+3pbH9IhxwOg
+Sum of Products (Part 1) | SOP Form
+xnLBbOYYnHM
+Sum of Products (Part 2) | SOP Form
+NGgNoa0_zns
+Product of Sums (Part 1) | POS Form
+nXsiLPJfDZ4
+Product of Sums (Part 2) | POS Form
+ihTH1C6qCYI
+SOP and POS Form Examples
+K2cpJex0o_A
+Minimal to Canonical Form Conversion (Part 1)
+Km5pTz67uGc
+Minimal to Canonical Form Conversion (Part 2)
+f0trF1LtYZ4
+Examples & Tricks (SOP and POS Forms)
+KBlYNYpFtIs
+Positive and Negative Logic
+gtucOKD1pHA
+Dual Form
+ZEOeN8rGlXU
+Self Dual
+37XqJqt0Jl4
+Complement Meaning and Examples
+bY8o35iCyGQ
+Venn Diagram
+xsG3J7cxloM
+Switching Circuits (Part 1)
+9RLEt0r0SCs
+Switching Circuits (Part 2)
+IcTCjbq9otk
+Statement Problems in Boolean Algebra (Part 1)
+jQW2yxxodqw
+Statement Problems in Boolean Algebra (Part 2)
+Pp1mzhN1AaU
+Introduction to Number Systems
+crSGS1uBSNQ
+Binary Number System
+w7ZLvYAi6pY
+Decimal to Binary Conversion
+2U9b76JRz7s
+Decimal to Octal Conversion
+1J89-aWI-5Y
+Decimal to Hexadecimal Conversion
+uVpQ9pPskNI
+Binary to Decimal Conversion
+6Tt-RA6KD30
+Octal to Decimal Conversion
+6WGTf0fg4zA
+Hexadecimal to Decimal Conversion
+1tHgs0mrZ5I
+Octal to Binary & Binary to Octal Conversion
+urasJ3jx08I
+Hexadecimal to Binary & Binary to Hexadecimal Conversion
+WI6Uvci2p7E
+Hexadecimal to Octal & Octal to Hexadecimal Conversion
+s9kwJ03uzmE
+Binary Addition
+Ri0VhKhw7dY
+Binary Subtraction
+31N9tjaWZbs
+Binary Multiplication
+_kwXcIV7dyo
+Binary Division
+VKemv9u40gc
+Octal Addition
+Qq-4h4tlKAQ
+Octal Subtraction
+ynvcRidq--0
+Octal Multiplication
+Cvk7FyepPXQ
+Hexadecimal Addition
+y0B6tuC6niE
+Hexadecimal Subtraction
+3mV7q3_OAGM
+Hexadecimal Multiplication
+66sIxqnXUvI
+r's Complement
+ldFofOqKcPs
+(r-1)'s Complement
+iS8i6RyZ2TE
+1's and 2's Complement
+S_fPMrrIA30
+Shortcut for 2's Complement
+V-e9Q9YWC6U
+Data Representation using Signed Magnitude
+1k71RxUtgUY
+Data Representation using 1's Complement
+pWORlDyPxs8
+Data Representation using 2's Complement
+kxcL0Vb5bEQ
+Binary Subtraction using 1's Complement
+kx8DFNf6pQU
+Binary Subtraction using 2's Complement
+L_m7jBvtzpQ
+Classification of Codes
+hCmbZ0bWPfE
+Binary Coded Decimal (BCD) Code
+0rLiYpy2CqQ
+BCD Addition
+yPu57aSj9kA
+Shift Add 3 Method | Simple method for Binary to BCD conversion
+IBgiB7KXfEY
+2421 Code
+X0YZY2yqQJA
+Excess-3 Code (XS-3 Code)
+LHw8TVk9iOY
+Excess-3 Code Addition
+CXn4lxBlO2U
+Introduction to Gray Code
+0dPN4gh0CKI
+Binary to Gray Code Conversion
+cF-Q5j7RUEw
+Gray Code to Binary Conversion
+-qMm9hhvp9Y
+What is Parity?
+DdMcAUlxh1M
+Hamming Code | Error detection
+1A_NcXxdoCc
+Hamming Code | Error Correction
+wbH2VxzmoZk
+Logic Gates (Part 1)
+xDARFvArIpc
+Logic Gates (Part 2)
+iogRGu7nbJw
+Logic Gates (Part 3)
+TbV2lVIdfEM
+Logic Gates (Part 4)
+1kLbY1-f4rs
+Logic Gates (Part 5) | Important!
+9VKHu3V4wEE
+Logic Gates (Part 6) | Important!
+bd16TkFCDjM
+NAND Gate as Universal Gate (Part 1)
+ChtmE09BSy0
+NAND Gate as Universal Gate (Part 2)
+MZ_Pd40F4MU
+NOR Gate as Universal Gate
+Z6Nds10n7rs
+Karnaugh Map (K' Map) - Part 1
+FPrcIhqNPVo
+Karnaugh Map (K' Map) - Part 2
+uWjKzsWXAF4
+Karnaugh Map (K' Map) - Part 3
+p7ittaZrZ1g
+K' Map and Implicants
+J_t_7npo0CE
+4 Variable Karnaugh Map (Part 1)
+k_gavfON5uA
+4 Variable Karnaugh Map (Part 2)
+a89jQWIGrY4
+4 Variable Karnaugh Map (Part 3)
+nIxpTuR0E0s
+Don't Care in Karnaugh Map (K' Map)
+_F9nAb6m4U4
+Don't Care in K' Map (Response to Doubt)
+WUEmPO13iAI
+K' Map using Max Terms (Part 1)
+iBSMoDLhxB4
+K' Map using Max Terms (Part 2)
+lPT9Ltjij1s
+5 variables K' Map
+1_cxX2pxf10
+Quine-McCluskey Minimization Technique (Tabular Method)
+l1jgq0R5EwQ
+Digital Electronics Previous Year Solution of DRDO & ISRO (Part 2)
+i6SjOZSxMH8
+Digital Electronics Previous Year Solution of DRDO & ISRO (Part 3)
+vMrWwGz0kb0
+4-Bit Even Parity Generator
+RfTGvpY2Z5Y
+Seven Segment Display Decoder
+smeUN1Bxj3M
+Seven Segment Display Decoder (Part 2)
+_qGFpgpqf7s
+Seven Segment Display Decoder (Part 3)
+vZKRs_1jPeI
+Comparison between Combinational and Sequential Circuits
+SzV4l0_1MCQ
+Half Adder
+aLUY-s7LSns
+Full Adder
+RK3P9L2ZXk4
+Full Adder using Half Adder
+Z_DYRgtAXfw
+4 Bit Parallel Adder using Full Adders
+NO7Gt8IDSGA
+Half Subtractor
+SV4VTYWxKV4
+Full Subtractor | Easy Explanation
+dBXGGWbtt6U
+Realizing Half Adder using NAND Gates only
+S91WnV2wCbA
+Realizing Half Adder using NOR Gates only
+P_UW41wMvpM
+Realizing Full Adder using NAND Gates only
+ulIRZPFd3Nc
+Realizing Half Subtractor using NAND Gates only
+TWhRqp8eVhU
+Realizing Half Subtractor using NOR Gates only
+1K6f05yuAr8
+Realizing Full Subtractor using NAND Gates only (Part 1)
+7Ell1saTBM4
+Realizing Full Subtractor using NAND Gates only (Part 2)
+YHVenkuydzw
+2-Bit Multiplier Using Half Adders
+7Bz9IgFNhDo
+Carry Lookahead Adder (Part 1) | CLA Generator
+6Z1WikEWxH0
+Carry Lookahead Adder (Part 2) | CLA Adder
+9lyqSVKbyz8
+BCD Adder | Simple Explanation
+9O7OJi7RCLQ
+Introduction to Multiplexers | MUX Basic
+FKvnmxte98A
+4X1 Multiplexer
+g1Lfz1XgrH8
+8X1 Multiplexer
+b0z7YKKCCyY
+MUX Tree Basic | 4X1 MUX using 2X1 MUX | Easy Explanation
+_nd77x1ooGQ
+Implementing 8X1 MUX using 2X1 MUX
+uoBZZ53Okvo
+Implementing 8X1 MUX using 4X1 MUX (Special Case)
+neXhD9qyQmo
+32X1 MUX using 8X1 MUX
+XdhygaTrwCo
+Implementation of Boolean Function using Multiplexers
+vOFeSu6Zr94
+1-Bit Full Adder using Multiplexer
+ai8FpkD5gGo
+Logical Expression from Multiplexer
+HEluMErB3-s
+Introduction to Demultiplexer | 1:2 DEMUX
+t3Ed13z9uz8
+1:4 Demultiplexer
+4kgPMT9k3bg
+Full Subtractor using 1:8 Demultiplexer
+-9s3xBlcBVM
+Demultiplexer as Decoder
+vMvvggyriCc
+2-Bit Comparator
+BhUUmbz76P0
+Introduction to Encoders and Decoders
+feBvhLFQEDk
+Priority Encoder
+kEj-m3YuGa4
+Decimal to BCD Encoder
+I_-3HN1ueNk
+Octal to Binary Encoder
+IgaTy_Tm2_M
+Hexadecimal to Binary Encoder
+6R-ZC8rLqm8
+Full Adder Implementation using Decoder
+u863cwgdlnA
+Practice Problems on Combinational Circuits (Part 1)
+sE695XvWFSY
+Practice Problems on Combinational Circuits (Part 2)
+S9olXqYBHic
+Practice Problems on Combinational Circuits (Part 3)
+o22PeIImcKc
+Practice Problems on Combinational Circuits (Part 4)
+SBDahvbKGfc
+Digital Electronics Test-1
+3w4nEjntiw0
+Introduction to Sequential Circuits | Important
+AaN72s5WfOM
+SR Latch | NOR and NAND SR Latch
+kt8d3CYWGH4
+What is a Clock?
+wx0NyUfpm48
+Triggering Methods in Flip Flops
+Pi_MHyMoenA
+How to get Edge Triggering | Simulation using Multisim
+GIMahA35dUE
+Difference between Latch and Flip Flop
+m1QBxTeVaNs
+Introduction to SR Flip Flop
+HZg7fNu-l24
+Truth Table, Characteristic Table and Excitation Table for SR Flip Flop
+uiKKRPZbuXA
+Introduction to D flip flop
+dnfXXpW7tIw
+Truth Table, Characteristic Table and Excitation Table for D Flip Flop
+4c6z9RKrC8Q
+Introduction to JK flip flop
+j6krFp511HA
+Truth Table, Characteristic Table and Excitation Table for JK flip flop
+lnQD2_M9uDI
+Race Around Condition or Racing in JK Flip Flop
+trPGhO7MPnw
+Master Slave JK Flip Flop
+t2LZtaNck_g
+Behaviour of Master Slave D Flip Flop
+5ykewHgHYBI
+Introduction to T flip flop
+wcfnEla_Y78
+Truth Table, Characteristic Table and Excitation Table for T flip flop
+9mh-2QwxmF4
+5 Steps for Flip Flop Conversions | JK to D Flip Flop Conversion
+ApJ972OYyXQ
+T Flip Flop to D Flip Flop Conversion
+JGl7dV1UgMI
+SR Flip Flop to JK Flip Flop Conversion
+NytpDrESCV8
+SR Flip Flop to T Flip Flop Conversion
+B9eUdgCKEkg
+Preset and Clear Inputs in Flip Flop
+mXoQ4WAQ0qk
+Introduction to State Table, State Diagram & State Equation
+NNOSWnTHakY
+Design Procedure for Clocked Sequential Circuits
+NbON135lf60
+Mealy and Moore State Machines (Part 1)
+0_OZKWdCixw
+Mealy and Moore State Machines (Part 2)
+vdZKehWMJSM
+Analysis of Clocked Sequential Circuits (with D Flip Flop)
+ntiv1g7G_C4
+Analysis of Clocked Sequential Circuits (with JK Flip Flop)
+6jteVyUcAQU
+Analysis of Clocked Sequential Circuits (with T Flip Flop)
+eu16cf1RFu0
+Sequence or Pattern Detector
+XNAK-L7NlOM
+Sequence Detector (Example)
+HXG_YPVNIsM
+State Reduction and Assignment
+IXORIs1dHs0
+ASM Chart
+HjD5mVbbBK4
+ASM Chart for Moore State Machine
+kNG0l2vAGjw
+Difference between Synchronous and Asynchronous Sequential Circuits
+L80k-alK58g
+Introduction to Counters | Important
+iaIu5SYmWVM
+Types of Counters | Comparison between Ripple and Synchronous counters
+yqg1sqhZG3M
+3 Bit Asynchronous Up Counter
+s1DSZEaCX_g
+4 Bit Asynchronous Up Counter
+eEeBh8jfDjg
+3 bit & 4 bit Asynchronous Down Counter
+noUcCs2zNaI
+3 Bit & 4 Bit UP/DOWN Ripple Counter
+5Um3NDvsYjQ
+Modulus of the Counter & Counting up to Particular Value
+l20xHDJPHBM
+State Diagram of a Counter
+mq0rLKpkjAQ
+Decade (BCD) Ripple Counter
+fKVZpupyP_o
+How to Design Synchronous Counters | 2-Bit Synchronous Up Counter
+5vkWccb7uO4
+3-Bit Synchronous Up Counter
+6e8oV2blkGs
+3-Bit & 4-bit Up/Down Synchronous Counter
+svFUEJkoeVY
+Ring Counter
+yOW-JsJL1Ks
+Johnson's Counter (Twisted/Switch Tail Ring Counter)
+X4mx7J1ckyU
+Introduction to Registers
+-paFaxtTCkI
+Data Formats and Classification of Registers
+b43_I4r1R2c
+Shift Register (SISO Mode)
+unorn9n-UpE
+Shift Register (SIPO & PIPO Mode)
+HGFGQ3D3iJ8
+Shift Register (PISO Mode)
+7LmBcGiiYwk
+Bidirectional Shift Register
+zoEeQgQkPLA
+Universal Shift Register
+AEGzpMlOsvc
+Practice Problems on Sequential Circuits (Part 2)
+bMHJ1qldiaE
+Practice Problems on Sequential Circuits (Part 3)
+XXmW7nY4EjY
+Programmable Logic Array (PLA) | Easy Explanation
+jrQ1YYgiOTo
+Programmable Array Logic (PAL)
+qlq4NHk5Y_w
+mple 1
+3gtxUmsGrl4
+Counters Problem Example 2
+b4dRAmAoAls
+Asynchronous & Direct Inputs
+aJlAxBAwzvg
+MOD 3 Asynchronous Counter
+6DR4qYMY7xc
+MOD 12 Counter
+kbZxoKR0FY4
+MOD Counter Example
+OwS9fA1BZ3U
+Introduction to Logic Families
+nb11AipMJd4
+Characteristics of Logic Families
+9Rt7iuqSVJ8
+Resistor Transistor Logic (RTL)
+Jar8gw7oyGQ
+Direct Coupled Transistor Logic
+bJVKGBV7KDY
+Diode Transistor Logic NAND Gate
+eUUoBtJAmVI
+Diode Transistor Logic NOR Gate
+XopoRmASU_k
+Transistor Transistor Logic
+sW1FEm2yNnA
+Versions in Transistor Transistor Logic
+Oj56f-cXPlw
+PMOS & NMOS Inverter
+vFDoRVTQII8
+CMOS Inverter
+6jLd02O8uo8
+PMOS NAND Gate
+vW4uYKWiv3U
+PMOS NOR Gate
+bAjV6J_ZWuY
+Designing of Universal Gates using NMOS
+ZxjhBr2S5do
+CMOS NAND Gate
+orNRyYhOtG8
+CMOS NOR Gate
+601dZ7NYJf4
+Comparision of Logic Families
+bj4oiFUoYAs
+Semi Conductor Memories
+1G7TCcgVuiQ
+ROM (Non Volatile)
+BNdsJ08RhwQ
+RAM (Volatile)
+CyQoiZjR_Wk
+Difference Between SRAM & DRAM
+r8x0MZWr9iU
+Introduction to Data Converters
+QrGBpGYc5Rg
+Binary Weighted Resistor DAC
+jDn1eXijQdY
+R-2R Ladder DAC (Voltage Switched)
+nDjcJNThnbQ
+R-2R Ladder DAC (Current Switched)
+q6WVxBs82IQ
+Counter type ADC
+ktn7w8yv4Tg
+Successive Approximation type ADC
+2CflTZXE9_Q
+Flash Parallel type ADC
+A9NinZYWyo8
+Dual Slope or Integrating type ADC
+K07T1dSnwxY
+Sigma Delta ADC
+isJv56sOMjc
+ADC Problem Example
+6p1MjDgi3Rk
+Resolution of DAC
+F7q_5FDO9MI
+ADC GATE Model Example 1
+DxIb6djxJNM
+ADC GATE Model Example 2
+UTQfd5u1J4s
+Flash ADC GATE Model Example
+xanPStsRgcc
+Resolution of DAC GATE Model Example
+NpxqoD9NZ1g
+Tutorix Simply Easy Learning Steps
+1iJn6quPp50
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc
+Tutorix Brings Simply Easy Learning
+lezQQ0d1pxc

@@ -1,0 +1,74 @@
+Introduction to Heat Transfer | Heat Transfer
+q6UVlhEBhpk
+Heat Conduction | Heat Transfer
+1pGW0h1nm9s
+Thermal Conductivity  | Heat Transfer
+4uoUdXLA1Jw
+Thermal Resistance  | Heat Transfer
+BlIVDgooJXo
+Conduction in Composite Wall | Heat Transfer
+JNalwAmOy_E
+Critical Radius of Insulation | Heat Transfer
+K0GbVf2scJA
+Heat Transfer 01 Basics of heat transfer
+CR7JhYCROoc
+Heat Transfer 02 concept of Heat generation, heat equations
+czr74wQlFho
+Heat Transfer 03 Heat Conduction | audio issue resolved
+GUGxeincGYs
+Heat Transfer 04 concept of thermal resistance
+vjCM9P5bsQk
+Heat Transfer 05 conduction heat generation
+C96UeTXZ_LU
+Heat Transfer 06 conduction heat generation continued
+0QASayVLMls
+Heat Transfer 07 critical thickness of insulatin
+SkxFlH5Hvcc
+Heat Transfer 08 Unsteady and transient heat conduction
+-9qjZPLI8BI
+Heat Transfer 09 THC lumped method
+0XLZuh2lWGk
+Heat Transfer 10 numerical
+ZC8F9BE9lRE
+Heat Transfer 11_1 extended surfaces
+ulNzWCk6nu0
+Heat Transfer 11_2 extended surfaces
+plvgKkG4ZCY
+Heat Transfer 12 fin efficiency and effectiveness and numericals
+D7nn8BdmmwM
+Heat Transfer 13_1 Heat Exchanger introduction
+eHjYtSeJD8M
+Heat Transfer 13 2 heat exchanger energy balance
+ZID8iYpJ3CM
+Heat Hransfer 14 LMTD and AMTD METHOD
+SoDixf1S3E8
+Heat Transfer 14_2 Numericals
+cyDKDwjbSLc
+Heat Transfer 15 Effectiveness and NTU method | Numericals
+FGSbl3_sljE
+Heat Transfer 16  Convection
+Lu1svgIHorE
+Heat Transfer 17_1 Calculation of 'h' for different conditions
+ESPQWlQekeI
+Heat Transfer 17_2 Calculation of 'h' for different conditions
+kxQXr_s2Es4
+Heat Transfer 18_1 Forced convection | Internal flows
+DMfGiwtYkb8
+Heat Transfer 18_2 Forced convection | Internal flows
+xVqAS4DDG3M
+Heat Transfer 18_3 Forced convection | Internal flows
+wwkzaRp5O0o
+Heat Transfer 19_1 Free Convection
+4k5cmmNv9uo
+Heat Transfer 19_2 Free Convection
+l1YVoYH3K00
+Heat Transfer 20_1 Radiation Introduction
+DgCCXoCYio4
+Heat Transfer 20_2 Radiation continue
+isI1bQ6zIrw
+Heat Transfer 21_1 laws of radiation
+-BFWsjYQ7LQ
+Heat Transfer 21_2 shape factor and related numerical
+ECkhABkJ19o
+Heat Transfer 22 surfaces and space resistance radiation shield
+x3U299_8Hlo

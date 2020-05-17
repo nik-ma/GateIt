@@ -1,0 +1,108 @@
+Mechanics of Solids | Simple Stress and Strain | Part 1 |
+B9lyGZzb_6M
+Mechanics of Solids | Simple Stress and Strain | Part 2 |
+mgyRpaTzzlE
+Mechanics of Solids | Simple Stress and Strain | Part 3 |
+iPBxWTHq47o
+Mechanics of Solids | Simple Stress and Strain | Part 4 |
+owZFCpovTvg
+Mechanics of Solids | Simple Stress and Strain | Part 5 |
+-Qd6jpsjr-Q
+Mechanics of Solids | Simple stress and Strain | Problems on Superposition Principle | Part 6 |
+ef-A8JfK9OE
+Mechanics of Solids | Simple Stress and Strain | Problems on Statically Indeterminate Systems 1 |
+SHxrPvG_81c
+Mechanics of Solids | Simple Stress and Strain | Problems on Statically Indeterminate Systems 2 |
+PlwUmzEXqIc
+Mechanics of Solids | Thermal Stresses and Strains | Basic Concept |
+dzeCpS7xTno
+Mechanics of Solids | Thermal Stresses and Strains | Composite Bars |
+L23kW_RRsf0
+GATE Previous Year Objective Problems_Simple Stress and Strain_Part 1
+9E2rNT0kQDI
+GATE Previous Year Objective Problems_Simple Stress and Strain_Part 2
+0W1t_IcEsCM
+Mechanics of Solids | Stress | Tensor |
+D6DTb4tXfOQ
+Mechanics of Solids | Stress | Average Normal Stress |
+wSFXpHTuu6Q
+Mechanics of Solids | Principal Stress and Strains | Introduction
+jw1wSwbzjWY
+Mechanics of Solids | Principal Stress and Strains | Direct Stresses | Pure Shear |
+E9ZvNnHkZeE
+Mechanics of Solids | Principal Stress and Strains | Direct Stresses combined with Shear Stress |
+-dLD0RA-9Hw
+Mechanics of Solids | Principal Stress and Strains | MOHR CIRCLE METHOD 1 |
+EEiRLGRsm7g
+Mechanics of Solids | Principal Stress and Strains | MOHR CIRCLE METHOD 2 |
+QTIjEK42WoQ
+GATE Previous Year Objective Problems_Principal Stress and Strain_MOHR CIRCLE
+V1B23HCi-n4
+Fixed Beams || Introduction and Example || Lecture 1
+RQdlfImyMq0
+Fixed Beams || Example 2_Point Load and UDL || Lecture 2
+d3dksjcFBdc
+Fixed Beams || Example 3_Concentrated Couple || Lecture 3
+bzYp2hxL62A
+Continuous Beams || Introduction and Clapeyrons Three Moment Theorem || Lecture 1
+xIVBJ2U3iyM
+Continuous Beams || Example on UDL || Lecture 2
+rKqGxOv00OM
+Continuous Beams || Example on UDL and Point Loads || Lecture 3
+XmTP3me0DII
+Deflection of Beams || Slope Deflection Formula || Lecture 1
+DnKG0J_tBso
+Deflection of Beams || Double Integration Method_Cantilever Beams || Lecture 2
+ez5R5R-Fyag
+Deflection of Beams || Double Integration Method_Cantilever Beams || Lecture 3
+cDRL-PDKe_k
+Deflection of Beams || Double Integration Method_Simply Supported Beams || Lecture 4
+kxrhA0g_Igo
+Deflection of Beams || MACAULAY's METHOD || Lecture 5
+w6DCoplLEQE
+Deflection of Beams || Example 1 on MACAULAY's METHOD || Lecture 6
+Q8x7dqvNEMc
+Deflection of Beams || Example 2 on MACAULAY's METHOD || Lecture 7
+4ZGwghkkHio
+Deflection of Beams || Example 3 on MACAULAY's METHOD || Lecture 8
+4R1SakL5LmY
+Deflection of Beams || Example 4 on MACAULAY's METHOD || Lecture 9
+-jXeiaLsC8Q
+Deflection of Beams || Example 5 on MACAULAY's METHOD || Lecture 10
+14sQ5w74cS0
+Deflection of Beams || MOMENT AREA METHOD || Lecture 11
+kVJRHaoZfvI
+Deflection of Beams || MOMENT AREA METHOD || Lecture 12
+whBaUyNmXeA
+Deflection of Beams || MOMENT AREA METHOD || Lecture 13
+n1-skzqf1qs
+Deflection of Beams || MOMENT AREA METHOD || Lecture 14
+fsxm6uKkIHk
+Deflection of Beams || MOMENT AREA METHOD || Lecture 15
+Q1bypcTs3fY
+Deflection of Beams || MOMENT AREA METHOD || Lecture 16
+hVizWKRV-6U
+Deflection of Beams || MOMENT AREA METHOD || Lecture 17
+bxzmnueZKRU
+Bending of Beams || Flexure Formula_Bending Stress || Lecture 1
+ZM2K8REg5QA
+Bending of Beams || Bending Stress in I Beam || Lecture 2
+wYSPK1mf7Vk
+Bending of Beams || Bending Moment in Beam || Lecture 3
+Eukfs49KuVM
+Bending of Beams || Stress in Channel Section || Lecture 4
+u0HRDKV2KuE
+Bending of Beams || Comparing Stress || Lecture 5
+-wZBv5q9tBQ
+Unsymmetrical Bending || Biaxial Loading
+enrMALVUJ38
+Unsymmetrical Bending || Example 1
+VqAbWTQ8KlI
+Unsymmetrical Bending || Example 2
+vdvMwr6tvgY
+Unsymmetrical Bending || Asymmetric Section
+BRYnX6UFiZY
+Moment of Inertia about Inclined Axis
+mVqWsLS8RQM
+Principal Moment of Inertia
+vLe7lHcRpu8

@@ -1,0 +1,196 @@
+Lec 00 Introduction of Control System for GATE
+Ma9zbDFJIMM
+Lec 01 Basic concept of control system | Control System for GATE
+_CpJClKABu4
+Lec 02 Open loop and closed loop control system | Control System for GATE
+tU9ck0RLWVs
+Lec 03 Transfer function, Negative feedback and positive feedback | Control System for GATE
+wvxz92pJ1Xk
+Lec 04 Concept of OLTF & CLTF | Control System for GATE
+9hKXi8km0ww
+Lec 05 Dominant Pole Concept and time constant for a system | Control System for GATE
+6br3t98mrXA
+Lec 06 DC gain of a transfer function | Control System for GATE
+lpa94liE0po
+Lec 07 Question discussion on dominant pole concept | Control System for GATE
+LRsBtudLDSQ
+Lec 08 Sensitivity of a system wrt forward and feedback path parameters | Control System for GATE
+zVWyWUoj9uc
+Lec 09 Question discussion on Sensitivity concept | Control System for GATE
+o2PFv-aOxs8
+Lec 10 Laplace transform of some basic functions part 01 | Control System for GATE
+2yST-wAfAPU
+Lec 11 Laplace transform of some basic functions part 02 | Control System for GATE
+dY5lmq-R9UA
+Lec 12 Significance of poles and condition for stability  | Control System for GATE
+JleDhU_ZYF0
+Lec 13 Initial value and final value theorem | Control System for GATE
+E6vYccGYvqA
+Lec 14 Question discussion on initial and final value theorems | Control System for GATE
+pNA06dqIggo
+Lec 15 Impulse response and Step response | Control System for GATE
+q3XkAHmtUGw
+Lec 16 Question Discussion on Basic concepts Part 01
+kGonogczn_w
+Lec 17  Question Discussion on Basic concepts Part 02
+R-vEHBeRxI0
+Lec 18 Question discussion on basic concepts part 03
+SoWM-Lvt6bE
+Lec 19 Question discussion on basic concepts part 04
+RZx3bLNwpRs
+Lec 20 Question discussion on basic concepts part 05
+-ythLF8DF1g
+Complete Revision of Basic Concept of Control system Chapter 01 Part 01
+_SucYMS5Hz4
+Complete revision of Basic concepts of control system chapter 01/part 02
+tetay8wS-iE
+Mirror Discussion | Competition | Practice strategy | Accuracy | Time Management | Revision
+XTpO0Owz8Q4
+Lec 21 Introduction of Block diagram and SFG
+BtzfIipQ97A
+Lec 22 Question discussion on Block diagram reduction
+MMY9mXz0iWs
+Lec 23 Terminology of Signal flow graph
+qItW5so9lL8
+Lec 24 Mason's Gain Formula
+Ocn7tFDsDLw
+Lec 25 Question discussion on  Mason's gain formula part 01
+SsswHMGQo3k
+Lec 26 Question discussion on mason's gain formula part 02
+EvcRNnznhmc
+Lec 27 Question discussion on mason's gain formula part 03
+chQSPQ6Ppb8
+Lec 28 Question discussion on mason's gain formula part 04
+HJKAkhEXs3U
+Lec 29 Limitation of Mason's gain formula
+ENRXJeNRvbM
+Lec 30 How to draw an SFG from an ELECTRICAL network?
+-BYlnl0LJUs
+Lec 31 Complete revision of Block diagram and SFG
+5o1POwk7bHI
+Lec 32 Time Response Analysis | Control Systems
+LlQMNlw14iY
+Lec 33 Time domain analysis | First order system
+HRzhlWAptQI
+Lec 35 Time domain analysis | First order system| Second order system
+58NBUJU3Fgo
+Lec 36 second order system | Undamped| Underdamped | Critical damped| Over damped system
+d8xKvnc-zwY
+Lec 37 Damping Ratio | Natural frequency of oscillation |  second order system
+5haL60TjVuE
+Lec 38 Undamped | Underdamp | Critical damp | Over damped system for series and parallel RLC circuit
+2UO1JQ0V6MM
+Lec 39 Quality factor | Time domain parameters of first order system
+alTXcnmbv3w
+Lec 40 Step response of second order system
+43ggf3ICBdg
+Lec 41 Brief of Impulse response and Step response of second order system
+ZJBMrdUGrTI
+Lec 42 Time domain parameters of first order system | Delay time | Rise time | settling time
+McKiQfsdxoo
+Lec 43 Time domain parameters of second order system | Delay, Rise, Peak and settling time
+vMxx8QIg5Dw
+Lec 44 Maximum peak overshoot, settling time for under damped system
+IzCkfMJERb4
+Lec 45 Question discussion on time domain parameters | Second order system part 01
+SVj6QCakMkk
+Lec 47 Question discussion on time domain parameters | Second order system part 03
+gpEZj6ooEMk
+Lec 48 Question discussion on time domain parameters | Second order system part 04
+olO31bGPE_o
+Lec 49 Question discussion on time domain parameters | Second order system part 05
+Dtv2jmJIgAM
+Lec 50 Question discussion on time domain parameters | Second order system part 06
+eSLGSjsIKTQ
+Lec 51 Analysis of Steady State Error for Unity Feedback System | Complete Control System
+M_M-J9u4Ffw
+Lec 52 Analysis of steady state error for unity feedback system and questions
+72XtZ1U2F_g
+Lec 53  Noise and disturbance elimination from the system
+EpVT95sHa4g
+Lec 54 Sinusoidal response of an LTI system
+pM0kki6vHB8
+Lec 55 Steady state error for unity feedback system question discussion
+yZez0EtpPuU
+Lec 56 Steady state error for Non Unity feedback system
+FLS2F3t3GFk
+Lec 57 Steady state error for Non unity feedback system by Kuo method
+FmsSz65TTco
+Lec 58 Complete revision of Time Domain Analysis
+Aj7uu_PbF4M
+Lec 59 Stability analysis | Routh hurwitz criteria
+_Y_HI2sifEE
+Lec 60 Concept of Row of Zeros | Routh Hurwitz criteria continue
+BymyZoxy7QE
+Lec 61 Concept of sign change occurs above and below ROZ | Routh hurwitz criteria continue
+7UQngpAfGsQ
+Lec 62 Concept of auxiliary equation | Two ROZ | Routh Hurwitz criteria
+wwYEpisp-eY
+Lec 63 Concept of Third order system stability | Routh Hurwitz
+2VGyeJBb3XU
+Lec 64 Question discussion on Routh Hurwitz
+4DIK7LhH6vk
+Lec 65 Root Locus Diagram | Important Concept | Control Systems
+2SGDGLN0f2A
+Lec 66 Relationship between OLTP poles & zeros to CLTF poles & zeros | Root Locus | Control system
+G0yq1xWOMmc
+Lec 68 Centroid, Break point, angle of asymptote concept in Root Locus | Control system
+RaasnZJq8Kg
+Lec 69 Angle of departure | Root locus | Control system
+51SgoLsif1A
+Lec 70 Question discussion on Root locus | Control system
+smqgCQfgF5g
+Lec 71 Addition of Pole and Zero into the system | Root Locus | Control System
+dc7k3Af2480
+Lec 72 Complimentary root locus | Inverse root locus | Control system
+uBK43WqAgQ8
+Lec 73 Introduction of Bode Plot | Control system
+A-T6q1XY1js
+Lec 74 How to draw Bode Plot for Pole and Zero at origin | Bode Plot | Control system
+g9N3NX9PMZw
+Lec 75 Bode plot for finite pole and zero | Corner frequency | Error | Control system
+fq1xsPOGmNs
+Lec 76 Error in Bode Plot | Control System
+aRxRvYpzQvU
+Lec 77 How to get TF from Bode Plot | Control system
+SpbTKUX1eWY
+Lec 78 Question discussion on Bode Plot | Control System
+Gtcv7x7z0n8
+Lec 79 Polar Plot | Introduction | Control system
+1IpBI9c9e2M
+Lec 80/81 Polar plot basics | Control System
+UH_Ce-8Jqcc
+Lec 83 Polar plot | Gain Margin and Phase crossover frequency
+IuatMO-2zM8
+Lec 84 Stability from Gain-Phase plot | Polar Plot
+S4yHV85YL48
+Lec 86 Nyquist Plot | important GATE concept continue |Control system
+k9fPixrb77E
+Lec87 Nyquist Plot | Principle of Argument | Control System
+Ib2ynwZ_LXI
+Lec 88 Nyquist Plot | Question discussion | Control system
+Oszhj0ZIcX4
+Lec 89 Compensator and Controller | Control System for GATE
+djIciK7WmQk
+Lec 90 Lead Compensator | Control System for GATE
+SElmVtfZKnQ
+Lec 92 Complete Lag compensator, Lead-lag, Lag-Lead Compensator
+Lbzc3H-R6tU
+Lec 93 Compensator | Important Question Discussion
+_aYCLynknCU
+Lec 94 Introduction of Controller | Control system for GATE
+BqSERSKv-m0
+Lec 95 Proportional, Derivative and Integral controller
+drj3JD0u-co
+Lec 96 Frequency Response of Second Order System
+Ty0AvIo9hx4
+Lec 97 State Space Analysis | Control System for GATE
+GLQQSMQP0UU
+Lec 98 State space model for Differential Equation
+sjJTWZN4e5s
+Lec 99 State Model for Differential Equation and Transfer function | State space analysis
+pycssCrp3io
+Lec 100 Controllability and Observability | State space analysis
+kQoLhvpkL28
+Lec 101 Question Discussion on state space continue
+78g07D-viwE

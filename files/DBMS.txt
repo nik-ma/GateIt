@@ -1,0 +1,302 @@
+Introduction To DBMS | DBMS lectures in hindi | #1
+T75o4KUhc9k
+Database Model | DBMS gate lectures in hindi | #2
+R3vQfLShQyM
+ER Model in DBMS in hindi |  DBMS gate lectures in hindi | #3
+Oa1Sg70Kfyw
+Attributes in DBMS in hindi  | DBMS gate lectures in hindi | #4
+-NfekEIEVl4
+Relationship in DBMS in hindi | Degree,Cardinality,Participation | DBMS gate lectures in hindi | #5
+gOnbszMCE3o
+Relationship types in dbms with example | Mapping Cardinalities | DBMS gate lectures in hindi | #6
+-o9pAKWnJ2o
+Relationship types in dbms  | Mapping Cardinalities | DBMS gate lectures in hindi | #7
+GRgzVeQJ0NY
+Relationship type in dbms with example | many to many relationship | DBMS gate lectures in hindi |#8
+d5U2D7z0vEM
+Relationship type in dbms with example | Recursive Relationships | DBMS gate lectures in hindi | #9
+NyEn8vj3250
+Attributes in DBMS in hindi | Relationship Attributes | DBMS gate lectures in hindi | #10
+M9HTxyrXW8U
+weak entity in dbms | weak entity in dbms with example | DBMS gate lectures in hindi | #11
+lL3kN-fa2fk
+ER Diagram symbols and meaning | ER Diagram notations | DBMS gate lectures in hindi | #12
+Sezi1zxO-SU
+ER model to Relational tables | convert ER diagram into relation | DBMS gate lectures in hindi | #13
+688WXNRMMg8
+ER model to Relational tables | convert weak Entity to relation | DBMS gate lectures in hindi | #14
+sVCmOHIDs3E
+ER model to relational tables | convert one to one Relationship | DBMS gate lectures in hindi | #15
+XvCaLBKlX28
+ER model to relational tables | convert one to many Relationship | DBMS gate lectures in hindi | #16
+U2FlpOOjbUk
+ER model to relational tables | convert many to many Relationship | DBMS gate lectures in hindi |#17
+Pq6dv2n8_cU
+ER model to relational tables | convert Multivalued Attribute | DBMS gate lectures in hindi | #18
+MC0-DyDEwk8
+ER model to relational tables | convert N-ary Entities | DBMS gate lectures in hindi | #19
+2qYxPg5r9gc
+ER to Relational Model Summary | DBMS gate lectures in hindi | GATE Lectures by well academy | #20
+Ki6zhORDGm0
+Dbms Gate Questions | GATE 2005 Question Solved | DBMS gate lectures in hindi | #21
+iWysjy-KmYQ
+Dbms Gate Questions | DBMS GATE 2012 Question Solution  | DBMS gate lectures in hindi | #22
+GPp9sboxxUY
+Dbms Gate Questions | DBMS GATE 2004 Question Solution  | DBMS gate lectures in hindi | #23
+R8ogRAmKhRk
+Dbms Gate Questions | DBMS GATE 2005 Question Solution  | DBMS gate lectures in hindi | #24
+A_XTtRtWJEg
+Dbms Gate Questions | DBMS GATE 2008 Question Solution  | DBMS gate lectures in hindi | #25
+4-dlT8G_3pI
+Superkey and candidate key | DBMS gate lectures in hindi | #26
+ikZzXWIlvYY
+Basic concept of NORMALIZATION | Normalisation in dbms in hindi | Normalisation in hindi | DBMS #27
+7NLJWRr3rCM
+functional dependency in dbms with example | functional dependency in hindi | DBMS lectures | #28
+Ga318By1yZo
+functional dependency in dbms with example | Solved examples | DBMS lectures in hindi | #29
+T6e5nqRb7Xs
+Functional Dependency GATE 2000 | functional dependency in dbms | DBMS lectures in hindi | #30
+rWc7_A-_loc
+Functional Dependency GATE 2002 | functional dependency in dbms | DBMS lectures in hindi | #31
+aHCF5gzv9DI
+Closure of set of functional dependencies | Closure Set of Attributes | DBMS lectures in hindi |#32
+mg_Ly2RcldY
+Closure of set of Attributes | GATE 2006 question solved | DBMS lectures in hindi | #33
+9upT7zPF5yA
+Candidate key from Functional dependency | finding candidate key | DBMS lectures in hindi | #34
+XRtFQiafDgE
+Candidate key GATE 1996 | candidate key in dbms in hindi | well academy #35
+8P2M88Sr63M
+Candidate key GATE 2014 DBMS lectures in hindi | #36
+yQopX_sjja0
+GATE 2013 candidate key | #37
+dSN4G0cGbPk
+candidate key in dbms in hindi | candidate key functional dependency | DBMS lectures in hindi | #38
+-MBzY_qKeNk
+GATE 2005 Functional Dependency Example | dbms gate questions | DBMS lectures in hindi | #39
+AkBd0rKtfE0
+functional dependency equivalence | Compare two different set of functional dependencies | #40
+CeIpNcwAldY
+Minimal Cover in dbms | Minimal Cover of Functional Dependencies | DBMS lectures in hindi | #41
+y7cOG2zu7L8
+lossless decomposition in dbms | lossless decomposition in dbms in hindi | DBMS lectures #42
+hX-vbKZbCCA
+Functional Dependency Preservation | functional dependency preservation example | DBMS lectures #43
+iSjWcYfc3Rk
+functional dependency preservation example | lossless decomposition example | DBMS lectures #44
+A_C4y_y4XqM
+first normal form in dbms in hindi | first normal form in database normalization | #45
+bscrJ7fPjEY
+Second normal form in dbms in hindi | second normal form in database | gate lectures
+u5tNe1nUaH0
+Second Normal Form in dbms with Example | Second normal form Database | well academy #47
+aLpgq9p6Bjs
+Third Normal Form | third normal form example | third normal form in hindi | DBMS lectures #48
+B5yaAXpp2aw
+Third Normal Form | third normal form in hindi | Easy Method without 2NF |  DBMS lectures #49
+J-FmTiU9Zew
+Third Normal Form Example | Simple and Easiest Way | third normal form in hindi | DBMS lectures #50
+rLdTAgdGMw4
+BCNF in dbms in hindi | bcnf normal form |  bcnf normalization | bcnf decomposition DBMS lecture #51
+0hVP_aOLsQE
+BCNF Example | bcnf decomposition example | BCNF in dbms in hindi | DBMS lecture #52
+SJftD8EbDuk
+Normalization GATE 2003 | normalization examples in dbms | normalization in dbms | DBMS lectures #53
+QfcJco-5iuQ
+Normalization GATE 2008 | normalization examples in dbms | normalization in dbms | DBMS lectures #54
+C_kcwnUIRiE
+Normalization GATE 1995 | normalization examples in dbms | normalization in dbms | DBMS lectures #55
+MiEiiar_ZP4
+Normalization GATE 2010 | normalization examples in dbms | normalization in dbms | DBMS lectures #56
+-JvAXSkWGnA
+Normalization GATE 2011 | normalization examples in dbms | normalization in dbms | DBMS lectures #57
+pxFLQXc4YEw
+relational algebra in dbms | relational algebra operations in dbms | DBMS lectures in hindi #58
+zbnyudmh4ys
+Select Operation in Relation Algebra | Selection in Relational Algebra | DBMS lectures in hindi #59
+NsIL7z4Ck4A
+Projection in Relational Algebra | relational algebra in dbms | DBMS Lectures in hindi #60
+5QVMyeDfih4
+Gate 2012 Relaional Algebra | relational algebra in dbms gate | DBMS lectures in hindi #61
+SeGqtlzy5_k
+Rename operation in Relational Algebra | relational algebra in dbms | DBMS Lectures in hindi #62
+0bklGoIBcQ8
+set operations in dbms | Set Operations in Relational Algebra  in dbms | DBMS lectures in hindi #63
+cE8mZnWxyN4
+Join Operation in DBMS | join operation in relational algebra | join operation in database  DBMS #64
+Au-ab_Yq1rw
+Natural join operation in dbms | Natural join in relational algebra | Natural join in hindi | #65
+rBaSaPoUeqQ
+Division Operation | Division Operation in DBMS | Division Operation in dbms with example | DBMS #66
+705ljW1X5gM
+join in dbms | Types of Join in dbms | join operation in relational algebra | DBMS lectures #67
+4DppvRx5a2Y
+GATE 2015 Relational Algebra | relational algebra in dbms with examples | DBMS Lectures in hindi #68
+gj0xiXmjVaw
+Relational Calculus | relational calculus database | relational calculus in hindi | DBMS #69
+1hG_qqckYj0
+Tuple Relational Calculus | tuple relational calculus in dbms | tuple relational calculus in hindi
+RzGg0fykY3I
+Tuple Relational Calculus | Bounded Variables and Free Variables | DBMS Lectures in Hindi #71
+Yjz10ysczUc
+SQL create table in hindi | SQL tutorial in hindi | DBMS Lectures in hindi #72
+Pm8XAQYDBGw
+sql insert command | sql insert into table | sql insert query | DBMS Lectures in hindi #74
+lsxyUFjh148
+constraints in dbms | constraints in sql in hindi | DBMS Lectures in Hindi #73
+kevkLGrJvUg
+SQL Delete row | SQL Update Query | sql queries tutorial in hindi | DBMS Lectures in hindi  #75
+KuUPDpYKtT0
+referential integrity constraint in dbms | referential integrity in sql | DBMS Lectures in Hindi #76
+UT_8T7EL2Og
+SQL Alter command | sql alter table add column | dbms queries tutorial | DBMS Lectures in Hindi #77
+uCjKTMdy094
+sql select query | sql select statement | sql select from multiple tables | dbms Lectures #78
+-Lo6KHlkiQk
+create view in sql | view in sql in hindi | View Operation in SQL | DBMS Lectures in Hindi #79
+YURtgFm0cIk
+SQL Pattern Matching | LIKE Condition | DBMS Gate Lectures in hindi #80
+goMsplCB730
+arithmetic operators in SQL | SQL Arithmatic Operators | DBMS Lectures in Hindi #81
+kAfHeYfTXFI
+SQL order by | sql order by tutorial | dbms queries tutorial | DBMS Lectures in Hindi #82
+E8p1HzzCUW0
+file organization in dbms | file organization in database | file organization in dbms in hindi #83
+ofslaTIpT8A
+organization of records in files in dbms | Ordered and Unordered | DBMS Lectures in hindi #84
+AsrQuq53xRI
+Indexing in dbms | dbms indexing in hindi | Introduction to Indexing | DBMS Lectures in Hindi #85
+mEkNFhuq8t4
+types of indexing in dbms | dbms indexing gate | DBMS Lectures in Hindi #86
+ngRAJF-OtfU
+Primary Index | primary index in dbms | DBMS lectures in hindi #87
+Ocy0ICQhkOA
+Clustering Index | clustering index in dbms | clustering index example | DBMS Lectures in hindi #88
+vr7pDFli02U
+Secondary Index | secondary index in dbms | index in dbms in hindi | DBMS Gate Lectures in Hindi #89
+rRY5c4EZzLU
+GATE 2013 Indexing question Solution | Indexing in DBMS in Hindi | DBMS Gate Lectures in Hindi #90
+xxY8D6u-sBQ
+b tree in dbms | b tree in hindi |  b tree and b+ tree in dbms in hindi | DBMS Lectures in Hindi #91
+FRa896YeSVg
+b tree in dbms | b tree in hindi |  b tree and b+ tree in dbms in hindi | DBMS Lectures in Hindi #92
+Nh0wpiVlWd4
+B tree Example | b+ tree in dbms in hindi | b tree in dbms | b tree in hindi | DBMS in Hindi #93
+3aAIJV6y2Ps
+Overflow And Underflow in B tree
+2OCHpq_tscI
+Search in B tree | b tree search example | b tree search | B tree in DBMS | DBMS lectures hindi #95
+T--1iCqNvIs
+b tree insertion example | b tree insertion algorithm | b tree insertion and deletion | DBMS #96
+Gal_iO-5nBI
+B tree Deletion in hindi | b tree Deletion example |  b tree insertion and deletion | DBMS #97
+R88Sm1jS22U
+B+ trees in dbms | b+ trees in hindi | b+ trees in dbms with example | DBMS Lectures in Hindi #98
+XH2FGjoVI6Y
+B+ Trees Example | B+ trees in dbms | b+ trees in hindi | b+ trees in dbms with example | DBMS #99
+704j9C4QtNA
+Searching in B+ Tree | b+ trees in hindi | b+ trees in dbms with example | DBMS Lectures hindi #100
+60TW33JxTGw
+B+ Tree Example GATE 2016 | b+ trees in dbms with example | DBMS Lectures hindi #101
+sWT5UOw8Vck
+B+ Tree Example GATE 2015 | b+ trees in dbms with example | DBMS Lectures hindi #102
+v7u6szWxmx4
+b+ tree insertion example | B+ tree insertion and deletion in dbms | b+ tree insertion and deletion
+0m2R5Xn1cYE
+b+ tree deletion in dbms | b+ tree deletion tutorial | b+ tree deletion video | DbMS Lectures Hindi
+3piRGPjuugk
+Transaction management in dbms | Transaction in dbms for gate | Transaction management in dbms gate
+5CbMi1njxtQ
+ACID Properties in DBMS | acid properties in dbms in hindi | DBMS GATE | DBMS lectures in Hindi #106
+Z57b-1HLSU8
+Lost Update Problem | Dirty Read Problem
+UBylAC5BECs
+Problems with concurrency in DBMS | Non-Repeatable read Problem | DBMS GATE in Hindi 108
+80BeHGEU1TQ
+Schedule in DBMS | DBMS Gate Lectures in Hindi | DBMS Lectures in hindi #109
+PAQJh1IOcNA
+Serial Schedule | Schedule in DBMS | DBMS Gate Lectures in Hindi | DBMS Lectures in hindi #110
+cLKY2bxDMh0
+Complete Schedule | Schedule in DBMS | DBMS Gate Lectures in Hindi | DBMS Lectures in hindi #111
+b68Q5rC5eTo
+Cascading rollback schedule | cascading rollback in dbms | cascadeless rollback | cascading rollback
+bhnitK4FSRU
+Strict schedule | strict schedule in dbms | strict schedule dbms | dbms gate lectures in hindi #113
+eQJPIeO6zwI
+Serializable in dbms | Serializable Schedule | serializable schedule in dbms  | DBMS Lectures #114
+WVyBhmcIcn8
+conflict serializability in dbms in hindi | conflict serializability in hindi | DBMS lectures #115
+24k2CZ8CKU8
+Conflict Serializability Precedence Graph | conflict serializability in hindi | DBMS Lectures #116
+UQRkH-uQ01E
+Conflict Serializability Example in DBMS | conflict serializability in hindi | DBMS Lectures #117
+_QxpNa8dNuY
+Conflict Serializability GATE 2014 Example | conflict serializability in hindi | DBMS Lectures #118
+wNFeIuyVZJM
+Conflict Serializability GATE 2014 Example | conflict serializability in hindi | DBMS Lectures #119
+iXTcIQ7lkAM
+Conflict Serializability GATE 2015 & 2016 |  conflict serializability in hindi | DBMS Lectures #120
+dFaKQlSfWlE
+GATE 2016 Recoverable  Example | serializability in hindi | DBMS Lectures #121
+g1h3d9plc28
+View Serializability in dbms in hindi | view serializability in dbms | view serializability example
+sRzlrlIzQ7Q
+View Serializability Polygraph | view serializability in dbms in hindi | DBMS Lectures #123
+vIZw5-z3DAM
+view serializability example using polygraph |  view serializability in dbms in hindi | DBMS #124
+cxfZeZmNmlc
+Concurrency Control Protocols | concurrency control in hindi | DBMS Gate Lectures in Hindi #125
+lYF0OaefDsg
+locks in DBMS | dbms locks | Lock Based Protocol DBMS Transaction Management | Concurrency Control
+XoDtkYsKU98
+2 phase locking protocol in dbms in hindi | 2 phase locking in dbms | DBMS Lectures in Hindi #127
+CJAbkRZe77g
+strict 2 phase locking | 2 phase locking in dbms in Hindi | DBMS Lectures in Hindi #128
+lcJJavnUpOg
+Introduction to DBMS | Database Management System
+T7AxM7Vqvaw
+File processing system in dbms | disadvantages of file system | file system vs DBMS
+bjIEw15FKs8
+Super Key | Candidate Key | Primary Key | Types of keys in DBMS
+MjwaP18s0Xs
+Functional dependency in DBMS | What is functional dependency | Database Management System
+dR-jJimWWHA
+Armstrong's axioms in DBMS | Inference rules of Functional Dependency
+eIH7zRVelnw
+What is Attribute Closure | Closure set of Attribute in DBMS | How to find Closure of Attributes
+AGFUfLPFJ7w
+Part-1 Find Number of Candidate Keys in a relation | DBMS
+L0LEtrIDYrE
+Part-2 Finding number of candidate keys in relation | DBMS
+jFlxFODMLYw
+Basic concept of normalization | Need of Normalization in DBMS
+p-j9emhNVTg
+First Normal Form in DBMS | 1NF with example | Normalization in dbms
+g2yF2gyaN7I
+Second Normal Form in DBMS | 2NF in dbms | Normalization in DBMS
+O16btnzfuYU
+Third Normal Form in DBMS | 3NF with example | Normalization in DBMS
+R2Z-DgZ6QFQ
+BCNF in DBMS | Boyce Codd Normal Form | Normalization in dbms
+nSnaGLtwgMc
+Part 1 How to identify normal form in dbms | how to find highest normal form of a relation
+rQib0A1oUfg
+Part 2 Identify highest normal form of a relation practice questions | Normalization in dbms
+M9_JPdlcCHQ
+Dependency preserving decomposition in DBMS | with example
+h_Va-DLQnBQ
+Dependency Preserving Decomposition in DBMS | Practice questions
+8hZ01BtP0wM
+Lossless Join Decomposition in DBMS | Non additive join decomposition property in dbms
+zb8ESEf36Zc
+Practice questions on Lossless Join Decomposition | DBMS
+EJ037VEj3S8
+What is Canonical Cover in DBMS | Minimal cover Irreducible with example
+-DsnJygWgi4
+Practice problem on Lossless Join Decomposition in DBMS | check whether decomposition is lossless
+1K_X45YoZ1k
+How to Decompose a Relation into 2NF (Second Normal Form) | DBMS
+WqPiMk3IVV4
+How to Decompose a Relation into 3NF (Third Normal Form) with example | convert 2NF to 3NF | DBMS
+S8OLxkqprjI
